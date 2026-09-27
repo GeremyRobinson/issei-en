@@ -27,11 +27,14 @@ jobs:
           node-version: 22
       - name: Export the Framer site
         run: |
-          # A <user>.github.io repo is served from the domain root; any other
-          # repo is served from /<repo>/.
+          # With a custom domain (a CNAME file) or a <user>.github.io repo the
+          # site is served from the domain root; otherwise from /<repo>/.
           repo="${{ github.event.repository.name }}"
-          case "$repo" in *.github.io) base="/" ;; *) base="/$repo/" ;; esac
+          base="/$repo/"
+          if [ -f CNAME ]; then base="/"; fi
+          case "$repo" in *.github.io) base="/" ;; esac
           node tools/framer-export.mjs https://issei-en.com --base-path "$base" --out _site
+          if [ -f CNAME ]; then cp CNAME _site/CNAME; fi
       - name: Show export report
         run: cat _site/export-report.json
       - uses: actions/upload-pages-artifact@v3
