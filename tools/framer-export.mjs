@@ -172,19 +172,23 @@ const REL_SPEC_RE =
   /(["'`])(\.{1,2}\/[A-Za-z0-9._~%@+\-\/]+\.(?:m?js|json|css|wasm|woff2?|ttf|otf|png|jpe?g|webp|avif|gif|svg|mp4|webm))\1/g;
 const CSS_URL_RE = /url\(\s*(["']?)([^"')]+)\1\s*\)/g;
 const CSS_IMPORT_RE = /@import\s+(["'])([^"']+)\1/g;
+// Framer CMS data: new URL(`./X.framercms`, `<module url>`).href.replace(`/modules/`, `/cms/`)
+const CMS_URL_RE = /new URL\(`(\.\/[^`]+\.framercms)`,`([^`]+)`\)/g;
+// Framer's client-side route table: page:…(()=>import(`./page.mjs`)),path:`/terms`
+const ROUTE_PATH_RE = /(\)\),path:`)\/([^`]*)`/g;
 const HTML_ATTR_RE = /\s(src|href|srcset|poster|content|data-src)\s*=\s*(["'])(.*?)\2/gis;
 
 function looksLikeFile(u) {
   return /\.[a-z0-9]{2,5}$/i.test(u.pathname) || u.host.startsWith("fonts.googleapis");
 }
 
-function enqueueAsset(u) {
+function enqueueAsset(u, force = false) {
   if (!u || !/^https?:$/.test(u.protocol)) return;
   const key = u.href;
   if (resources.has(key)) return;
   const sameOrigin = u.origin === ORIGIN;
   if (!isAssetHost(u.hostname) && !sameOrigin) return;
-  if (!looksLikeFile(u) && !u.search) return; // bare prefixes like ".../images/"
+  if (!force && !looksLikeFile(u) && !u.search) return; // bare prefixes like ".../images/"
   if (sameOrigin && /\.html?$/.test(u.pathname)) return;
   resources.set(key, { kind: "asset", local: null });
   assetQueue.push(key);
@@ -211,6 +215,12 @@ function discoverInText(text, baseUrl, kind) {
     for (const m of text.matchAll(REL_SPEC_RE)) {
       // Bundles mention source paths like "./node_modules/x/index.js" that are never fetched.
       if (!m[2].includes("node_modules/")) enqueueAsset(normalizeUrl(m[2], baseUrl));
+    }
+  }
+  if (kind === "js") {
+    for (const m of text.matchAll(CMS_URL_RE)) {
+      const u = normalizeUrl(m[1], m[2]);
+      if (u) enqueueAsset(new URL(u.href.replace("/modules/", "/cms/")), true);
     }
   }
   if (kind === "css" || kind === "html") {
@@ -292,10 +302,12 @@ async function processAsset(key) {
     const u = new URL(key);
     r.contentType = ct;
     r.local = assetLocalPath(u, ct);
-    const kind = /css/.test(ct) || u.pathname.endsWith(".css") ? "css"
+    // CMS data is binary even though the CDN labels it application/javascript.
+    const kind = u.pathname.endsWith(".framercms") ? "binary"
+      : /css/.test(ct) || u.pathname.endsWith(".css") ? "css"
       : /javascript/.test(ct) || /\.m?js$/.test(u.pathname) ? "js" : "other";
     r.assetKind = kind;
-    if (isTextType(ct) || kind !== "other") {
+    if (kind !== "binary" && (isTextType(ct) || kind !== "other")) {
       r.body = await res.text();
       if (kind !== "other") discoverInText(r.body, key, kind);
       else discoverInText(r.body, key, "json");
@@ -338,6 +350,18 @@ function rewriteText(text, fromLocal, baseUrl, kind) {
     return m.includes("\\/") ? rel.replace(/\//g, "\\/") : rel;
   });
 
+  if (kind === "js") {
+    // A root-relative path isn't a valid URL base; resolve it against the page.
+    text = text.replace(CMS_URL_RE, (m, rel, base) =>
+      base.startsWith("/") ? `new URL(\`${rel}\`,new URL(\`${base}\`,location.href))` : m
+    );
+    // Framer's router matches and builds page URLs from these paths, so they
+    // must include the base path or in-site links break on a subfolder host.
+    if (BASE_PATH !== "/") {
+      text = text.replace(ROUTE_PATH_RE, (m, head, rest) => `${head}${BASE_PATH}${rest}\``);
+    }
+  }
+
   if (kind === "css" || kind === "html") {
     text = text.replace(CSS_URL_RE, (m, q, v) => {
       const rel = v.startsWith("data:") ? null : lookup(v);
@@ -371,11 +395,25 @@ function rewriteText(text, fromLocal, baseUrl, kind) {
   return text;
 }
 
+// Framer's CDN serves CMS data in byte slices (x.framercms?range=0-99,200-299).
+// Static hosts ignore the query, so answer those requests from the whole file.
+const CMS_RANGE_SHIM = `<script>(()=>{const f=window.fetch.bind(window),c=new Map;` +
+  `window.fetch=async(i,o)=>{const u=new URL(i instanceof Request?i.url:String(i),location.href),r=u.searchParams.get("range");` +
+  `if(!r||!u.pathname.endsWith(".framercms"))return f(i,o);u.searchParams.delete("range");const k=u.href;` +
+  `if(!c.has(k))c.set(k,f(k).then(x=>{if(!x.ok)throw Error("HTTP "+x.status);return x.arrayBuffer()}).then(b=>new Uint8Array(b)));` +
+  `let b;try{b=await c.get(k)}catch(e){c.delete(k);throw e}` +
+  `const p=r.split(",").map(s=>s.split("-").map(Number)),out=new Uint8Array(p.reduce((n,[s,e])=>n+e-s+1,0));` +
+  `let at=0;for(const[s,e]of p){out.set(b.subarray(s,e+1),at);at+=e-s+1}` +
+  `return new Response(out,{status:200,headers:{"content-type":"application/octet-stream"}})}})()</script>`;
+
 function cleanHtml(html) {
   if (!opts["keep-analytics"]) {
     html = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, (tag) =>
       DROP_SCRIPT_PATTERNS.some((re) => re.test(tag)) ? "" : tag
     );
+  }
+  if (!opts.static) {
+    html = html.replace(/<head\b[^>]*>/i, (m) => m + CMS_RANGE_SHIM);
   }
   if (opts.static) {
     html = html
