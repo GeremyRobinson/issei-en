@@ -26,7 +26,12 @@ jobs:
         with:
           node-version: 22
       - name: Export the Framer site
-        run: node tools/framer-export.mjs https://issei-en.com --base-path "/${{ github.event.repository.name }}/" --out _site
+        run: |
+          # A <user>.github.io repo is served from the domain root; any other
+          # repo is served from /<repo>/.
+          repo="${{ github.event.repository.name }}"
+          case "$repo" in *.github.io) base="/" ;; *) base="/$repo/" ;; esac
+          node tools/framer-export.mjs https://issei-en.com --base-path "$base" --out _site
       - name: Show export report
         run: cat _site/export-report.json
       - uses: actions/upload-pages-artifact@v3
