@@ -673,7 +673,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": {
                           "type": "Font",
@@ -681,7 +681,7 @@
                           "family": "Inter",
                           "weight": 900,
                           "style": "normal",
-                          "url": "https://media/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
+                          "url": "/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
                         },
                         "italicFont": {
                           "type": "Font",
@@ -689,7 +689,7 @@
                           "family": "Inter",
                           "weight": 700,
                           "style": "italic",
-                          "url": "https://media/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
+                          "url": "/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
                         },
                         "boldItalicFont": {
                           "type": "Font",
@@ -697,7 +697,7 @@
                           "family": "Inter",
                           "weight": 900,
                           "style": "italic",
-                          "url": "https://media/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
+                          "url": "/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
                         },
                         "color": {
                           "type": "ColorStyle",
@@ -779,7 +779,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": null,
                         "italicFont": null,
@@ -866,7 +866,7 @@
                       "family": "Trainer Grotesk",
                       "weight": 400,
                       "style": "normal",
-                      "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                     },
                     "boldFont": {
                       "type": "Font",
@@ -874,7 +874,7 @@
                       "family": "Inter",
                       "weight": 900,
                       "style": "normal",
-                      "url": "https://media/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
+                      "url": "/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
                     },
                     "italicFont": {
                       "type": "Font",
@@ -882,7 +882,7 @@
                       "family": "Inter",
                       "weight": 700,
                       "style": "italic",
-                      "url": "https://media/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
+                      "url": "/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
                     },
                     "boldItalicFont": {
                       "type": "Font",
@@ -890,7 +890,7 @@
                       "family": "Inter",
                       "weight": 900,
                       "style": "italic",
-                      "url": "https://media/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
+                      "url": "/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
                     },
                     "color": {
                       "type": "ColorStyle",
@@ -972,7 +972,7 @@
                       "family": "Trainer Grotesk",
                       "weight": 400,
                       "style": "normal",
-                      "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                     },
                     "boldFont": null,
                     "italicFont": null,
@@ -1126,7 +1126,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": null,
                         "italicFont": null,
@@ -1211,7 +1211,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": null,
                         "italicFont": null,
@@ -2239,7 +2239,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": {
                           "type": "Font",
@@ -2247,7 +2247,7 @@
                           "family": "Inter",
                           "weight": 900,
                           "style": "normal",
-                          "url": "https://media/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
+                          "url": "/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
                         },
                         "italicFont": {
                           "type": "Font",
@@ -2255,7 +2255,7 @@
                           "family": "Inter",
                           "weight": 700,
                           "style": "italic",
-                          "url": "https://media/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
+                          "url": "/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
                         },
                         "boldItalicFont": {
                           "type": "Font",
@@ -2263,7 +2263,7 @@
                           "family": "Inter",
                           "weight": 900,
                           "style": "italic",
-                          "url": "https://media/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
+                          "url": "/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
                         },
                         "color": {
                           "type": "ColorStyle",
@@ -2345,7 +2345,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": null,
                         "italicFont": null,
@@ -2432,7 +2432,7 @@
                       "family": "Trainer Grotesk",
                       "weight": 400,
                       "style": "normal",
-                      "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                     },
                     "boldFont": {
                       "type": "Font",
@@ -2440,7 +2440,7 @@
                       "family": "Inter",
                       "weight": 900,
                       "style": "normal",
-                      "url": "https://media/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
+                      "url": "/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
                     },
                     "italicFont": {
                       "type": "Font",
@@ -2448,7 +2448,7 @@
                       "family": "Inter",
                       "weight": 700,
                       "style": "italic",
-                      "url": "https://media/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
+                      "url": "/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
                     },
                     "boldItalicFont": {
                       "type": "Font",
@@ -2456,7 +2456,7 @@
                       "family": "Inter",
                       "weight": 900,
                       "style": "italic",
-                      "url": "https://media/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
+                      "url": "/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
                     },
                     "color": {
                       "type": "ColorStyle",
@@ -2538,7 +2538,7 @@
                       "family": "Trainer Grotesk",
                       "weight": 400,
                       "style": "normal",
-                      "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                     },
                     "boldFont": null,
                     "italicFont": null,
@@ -2692,7 +2692,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": null,
                         "italicFont": null,
@@ -2777,7 +2777,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": null,
                         "italicFont": null,
@@ -3805,7 +3805,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": {
                           "type": "Font",
@@ -3813,7 +3813,7 @@
                           "family": "Inter",
                           "weight": 900,
                           "style": "normal",
-                          "url": "https://media/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
+                          "url": "/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
                         },
                         "italicFont": {
                           "type": "Font",
@@ -3821,7 +3821,7 @@
                           "family": "Inter",
                           "weight": 700,
                           "style": "italic",
-                          "url": "https://media/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
+                          "url": "/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
                         },
                         "boldItalicFont": {
                           "type": "Font",
@@ -3829,7 +3829,7 @@
                           "family": "Inter",
                           "weight": 900,
                           "style": "italic",
-                          "url": "https://media/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
+                          "url": "/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
                         },
                         "color": {
                           "type": "ColorStyle",
@@ -3911,7 +3911,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": null,
                         "italicFont": null,
@@ -3998,7 +3998,7 @@
                       "family": "Trainer Grotesk",
                       "weight": 400,
                       "style": "normal",
-                      "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                     },
                     "boldFont": {
                       "type": "Font",
@@ -4006,7 +4006,7 @@
                       "family": "Inter",
                       "weight": 900,
                       "style": "normal",
-                      "url": "https://media/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
+                      "url": "/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
                     },
                     "italicFont": {
                       "type": "Font",
@@ -4014,7 +4014,7 @@
                       "family": "Inter",
                       "weight": 700,
                       "style": "italic",
-                      "url": "https://media/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
+                      "url": "/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
                     },
                     "boldItalicFont": {
                       "type": "Font",
@@ -4022,7 +4022,7 @@
                       "family": "Inter",
                       "weight": 900,
                       "style": "italic",
-                      "url": "https://media/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
+                      "url": "/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
                     },
                     "color": {
                       "type": "ColorStyle",
@@ -4104,7 +4104,7 @@
                       "family": "Trainer Grotesk",
                       "weight": 400,
                       "style": "normal",
-                      "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                     },
                     "boldFont": null,
                     "italicFont": null,
@@ -4258,7 +4258,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": null,
                         "italicFont": null,
@@ -4343,7 +4343,7 @@
                           "family": "Trainer Grotesk",
                           "weight": 400,
                           "style": "normal",
-                          "url": "https://media/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+                          "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
                         },
                         "boldFont": null,
                         "italicFont": null,

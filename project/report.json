@@ -1,5 +1,8 @@
 {
-  "files": 83,
+  "files": 90,
   "nodes": 1160,
-  "failures": []
+  "failures": [
+    "TextNode.getHTML: Invalid method: INTERNAL_getHTMLForNode",
+    "TextNode.getText: Node is not a text node"
+  ]
 }

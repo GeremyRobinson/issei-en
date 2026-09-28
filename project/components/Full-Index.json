@@ -83,13 +83,15 @@
           "id": "zUyIXpFAt",
           "originalId": null,
           "__class": "ComponentInstanceNode",
-          "name": "Component",
+          "name": "Grid",
           "visible": true,
           "locked": false,
           "componentIdentifier": "module:JOW0mO6fySN2DAlVclIB/k3DIEYUqfMmwKcrnlPXh/al9WAuNLP.js:default",
           "insertURL": "https://media/modules/JOW0mO6fySN2DAlVclIB/k3DIEYUqfMmwKcrnlPXh/al9WAuNLP.js",
           "componentName": "Grid",
-          "controls": {},
+          "controls": {
+            "variant": "iKgVOwAMv"
+          },
           "rotation": 0,
           "opacity": 1,
           "position": "absolute",
@@ -106,7 +108,32 @@
           "maxHeight": null,
           "minHeight": null,
           "aspectRatio": null,
-          "typedControls": {},
+          "typedControls": {
+            "variant": {
+              "type": "enum",
+              "key": "variant",
+              "title": "Variant",
+              "options": [
+                {
+                  "id": "iKgVOwAMv",
+                  "title": "All"
+                },
+                {
+                  "id": "isfn6XzPE",
+                  "title": "Matcha"
+                },
+                {
+                  "id": "AFN3TIpeT",
+                  "title": "Hojicha"
+                },
+                {
+                  "id": "yTgdwRcpy",
+                  "title": "Row"
+                }
+              ],
+              "value": "iKgVOwAMv"
+            }
+          },
           "isReplica": false,
           "children": []
         }
