@@ -1,0 +1,31 @@
+{
+  "source": "https://issei-en.com",
+  "exportedAt": "2026-09-28T21:02:39.414Z",
+  "mode": "interactive",
+  "framer": {
+    "build": "c81289c",
+    "publishedAt": "2026-09-28T05:02:00.000Z",
+    "published": "Sep 28, 2026, 5:02 AM UTC",
+    "cmsFiles": 4,
+    "cmsCollections": 3
+  },
+  "pages": [
+    "index.html",
+    "404/index.html",
+    "terms/index.html",
+    "index/pricing/index.html",
+    "index/index.html",
+    "shop/index.html",
+    "shop/sei/index.html",
+    "shop/uji/index.html",
+    "shop/kyo/index.html",
+    "index/sei/index.html",
+    "index/uji/index.html",
+    "index/kyo/index.html",
+    "index/en/index.html",
+    "index/rei/index.html",
+    "index/ko/index.html"
+  ],
+  "files": 173,
+  "failures": []
+}
