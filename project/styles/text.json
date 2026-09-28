@@ -1,0 +1,229 @@
+[
+  {
+    "type": "TextStyle",
+    "id": "ZyzSQaELt",
+    "name": "Heading 1",
+    "path": "/Heading 1",
+    "tag": "h1",
+    "font": {
+      "type": "Font",
+      "selector": "CUSTOMV2;Trainer Grotesk Regular WIP 0010",
+      "family": "Trainer Grotesk",
+      "weight": 400,
+      "style": "normal",
+      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+    },
+    "boldFont": {
+      "type": "Font",
+      "selector": "Inter-Black",
+      "family": "Inter",
+      "weight": 900,
+      "style": "normal",
+      "url": "/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2"
+    },
+    "italicFont": {
+      "type": "Font",
+      "selector": "Inter-BoldItalic",
+      "family": "Inter",
+      "weight": 700,
+      "style": "italic",
+      "url": "/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
+    },
+    "boldItalicFont": {
+      "type": "Font",
+      "selector": "Inter-BlackItalic",
+      "family": "Inter",
+      "weight": 900,
+      "style": "italic",
+      "url": "/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2"
+    },
+    "color": {
+      "type": "ColorStyle",
+      "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
+      "name": "000 –– FFF",
+      "path": "/000 –– FFF",
+      "light": "rgb(0, 0, 0)",
+      "dark": "rgb(255, 255, 255)"
+    },
+    "transform": "none",
+    "alignment": "left",
+    "decoration": "none",
+    "decorationColor": "currentcolor",
+    "decorationThickness": "auto",
+    "decorationStyle": "solid",
+    "decorationSkipInk": "auto",
+    "decorationOffset": "auto",
+    "balance": false,
+    "breakpoints": [],
+    "minWidth": 0,
+    "fontSize": "0.88rem",
+    "letterSpacing": "0px",
+    "lineHeight": "1.2em",
+    "paragraphSpacing": 0
+  },
+  {
+    "type": "TextStyle",
+    "id": "Y3WXAjc1B",
+    "name": "Body",
+    "path": "/Body",
+    "tag": "p",
+    "font": {
+      "type": "Font",
+      "selector": "CUSTOMV2;Trainer Grotesk Regular WIP 0010",
+      "family": "Trainer Grotesk",
+      "weight": 400,
+      "style": "normal",
+      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+    },
+    "boldFont": null,
+    "italicFont": null,
+    "boldItalicFont": null,
+    "color": {
+      "type": "ColorStyle",
+      "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
+      "name": "000 –– FFF",
+      "path": "/000 –– FFF",
+      "light": "rgb(0, 0, 0)",
+      "dark": "rgb(255, 255, 255)"
+    },
+    "transform": "none",
+    "alignment": "left",
+    "decoration": "none",
+    "decorationColor": "currentcolor",
+    "decorationThickness": "auto",
+    "decorationStyle": "solid",
+    "decorationSkipInk": "auto",
+    "decorationOffset": "auto",
+    "balance": true,
+    "breakpoints": [],
+    "minWidth": 0,
+    "fontSize": "0.88rem",
+    "letterSpacing": "0px",
+    "lineHeight": "1.2em",
+    "paragraphSpacing": 0
+  },
+  {
+    "type": "TextStyle",
+    "id": "OfyD27PKx",
+    "name": "Code",
+    "path": "/Code",
+    "tag": "p",
+    "font": {
+      "type": "Font",
+      "selector": "CUSTOMV2;Trainer Grotesk Regular WIP 0010",
+      "family": "Trainer Grotesk",
+      "weight": 400,
+      "style": "normal",
+      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+    },
+    "boldFont": {
+      "type": "Font",
+      "selector": "Inter-Bold",
+      "family": "Inter",
+      "weight": 700,
+      "style": "normal",
+      "url": "/assets/ACEaYWisZIYMt1AMEVgshPgBBw.woff2"
+    },
+    "italicFont": {
+      "type": "Font",
+      "selector": "Inter-Italic",
+      "family": "Inter",
+      "weight": 400,
+      "style": "italic",
+      "url": "/assets/1JbOkuUhXKxkqtEfehWricQJaJQ.woff2"
+    },
+    "boldItalicFont": {
+      "type": "Font",
+      "selector": "Inter-BoldItalic",
+      "family": "Inter",
+      "weight": 700,
+      "style": "italic",
+      "url": "/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
+    },
+    "color": {
+      "type": "ColorStyle",
+      "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
+      "name": "000 –– FFF",
+      "path": "/000 –– FFF",
+      "light": "rgb(0, 0, 0)",
+      "dark": "rgb(255, 255, 255)"
+    },
+    "transform": "none",
+    "alignment": "left",
+    "decoration": "none",
+    "decorationColor": "currentcolor",
+    "decorationThickness": "auto",
+    "decorationStyle": "solid",
+    "decorationSkipInk": "auto",
+    "decorationOffset": "auto",
+    "balance": false,
+    "breakpoints": [],
+    "minWidth": 0,
+    "fontSize": "0.88rem",
+    "letterSpacing": "-0.04em",
+    "lineHeight": "1.2em",
+    "paragraphSpacing": 0
+  },
+  {
+    "type": "TextStyle",
+    "id": "nUNEGJLbH",
+    "name": "Link",
+    "path": "/Link",
+    "tag": "p",
+    "font": {
+      "type": "Font",
+      "selector": "CUSTOMV2;Trainer Grotesk Regular WIP 0010",
+      "family": "Trainer Grotesk",
+      "weight": 400,
+      "style": "normal",
+      "url": "/assets/VvP2rg1LlqLuNXDBDxyJEjpjpw.woff2"
+    },
+    "boldFont": {
+      "type": "Font",
+      "selector": "Inter-Bold",
+      "family": "Inter",
+      "weight": 700,
+      "style": "normal",
+      "url": "/assets/ACEaYWisZIYMt1AMEVgshPgBBw.woff2"
+    },
+    "italicFont": {
+      "type": "Font",
+      "selector": "Inter-Italic",
+      "family": "Inter",
+      "weight": 400,
+      "style": "italic",
+      "url": "/assets/1JbOkuUhXKxkqtEfehWricQJaJQ.woff2"
+    },
+    "boldItalicFont": {
+      "type": "Font",
+      "selector": "Inter-BoldItalic",
+      "family": "Inter",
+      "weight": 700,
+      "style": "italic",
+      "url": "/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2"
+    },
+    "color": {
+      "type": "ColorStyle",
+      "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
+      "name": "000 –– FFF",
+      "path": "/000 –– FFF",
+      "light": "rgb(0, 0, 0)",
+      "dark": "rgb(255, 255, 255)"
+    },
+    "transform": "none",
+    "alignment": "left",
+    "decoration": "underline",
+    "decorationColor": "currentcolor",
+    "decorationThickness": "auto",
+    "decorationStyle": "solid",
+    "decorationSkipInk": "auto",
+    "decorationOffset": "auto",
+    "balance": false,
+    "breakpoints": [],
+    "minWidth": 0,
+    "fontSize": "0.88rem",
+    "letterSpacing": "0px",
+    "lineHeight": "1.2em",
+    "paragraphSpacing": 20
+  }
+]

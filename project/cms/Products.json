@@ -1,0 +1,185 @@
+{
+  "type": "Collection",
+  "id": "NxZjhhydF",
+  "name": "Products",
+  "slugFieldName": "Slug",
+  "slugFieldBasedOn": "zgV6B02sD",
+  "readonly": false,
+  "managedBy": "user",
+  "fields": [
+    {
+      "type": "string",
+      "id": "dcazF0Rjx",
+      "name": "ID",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "string",
+      "id": "zgV6B02sD",
+      "name": "Title",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "number",
+      "id": "BZtd3BWdx",
+      "name": "100g"
+    },
+    {
+      "type": "string",
+      "id": "Hqk9ScmVE",
+      "name": "Info",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "string",
+      "id": "W6Xeud6Po",
+      "name": "Description",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "enum",
+      "id": "YZORz5QY9",
+      "name": "Size",
+      "cases": [
+        {
+          "type": "EnumCase",
+          "id": "D8nCMLaR7",
+          "name": "(100g)",
+          "nameByLocale": {}
+        },
+        {
+          "type": "EnumCase",
+          "id": "d_zD3HKV1",
+          "name": "(1kg)",
+          "nameByLocale": {}
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "type": "CollectionItem",
+      "id": "RZivE851H",
+      "nodeId": "RZivE851H",
+      "createdAt": "2026-09-21T03:27:43.954Z",
+      "updatedAt": "2026-09-22T20:39:59.918Z",
+      "slug": "sei",
+      "slugByLocale": {},
+      "draft": false,
+      "fieldData": {
+        "dcazF0Rjx": {
+          "type": "string",
+          "value": "1",
+          "valueByLocale": {}
+        },
+        "zgV6B02sD": {
+          "type": "string",
+          "value": "0100, SEI",
+          "valueByLocale": {}
+        },
+        "BZtd3BWdx": {
+          "type": "number",
+          "value": 75
+        },
+        "Hqk9ScmVE": {
+          "type": "string",
+          "value": "",
+          "valueByLocale": {}
+        },
+        "W6Xeud6Po": {
+          "type": "string",
+          "value": "An umami—forward matcha with rich texture and depth, originating from Uji, Kyoto. Sei uses Ujihikari, a rare and highly prized single cultivar, grown reed shaded and hand-picked.",
+          "valueByLocale": {}
+        },
+        "YZORz5QY9": {
+          "type": "enum",
+          "value": "(100g)"
+        }
+      }
+    },
+    {
+      "type": "CollectionItem",
+      "id": "IAWK20SAC",
+      "nodeId": "IAWK20SAC",
+      "createdAt": "2026-09-21T03:27:43.954Z",
+      "updatedAt": "2026-09-22T20:40:01.233Z",
+      "slug": "uji",
+      "slugByLocale": {},
+      "draft": false,
+      "fieldData": {
+        "dcazF0Rjx": {
+          "type": "string",
+          "value": "2",
+          "valueByLocale": {}
+        },
+        "zgV6B02sD": {
+          "type": "string",
+          "value": "0110, UJI",
+          "valueByLocale": {}
+        },
+        "BZtd3BWdx": {
+          "type": "number",
+          "value": 47.5
+        },
+        "Hqk9ScmVE": {
+          "type": "string",
+          "value": "",
+          "valueByLocale": {}
+        },
+        "W6Xeud6Po": {
+          "type": "string",
+          "value": "UJIHIKARI, SAMIDORI",
+          "valueByLocale": {}
+        },
+        "YZORz5QY9": {
+          "type": "enum",
+          "value": "(100g)"
+        }
+      }
+    },
+    {
+      "type": "CollectionItem",
+      "id": "rKvSdAxBv",
+      "nodeId": "rKvSdAxBv",
+      "createdAt": "2026-09-21T03:27:43.954Z",
+      "updatedAt": "2026-09-22T20:40:02.033Z",
+      "slug": "kyo",
+      "slugByLocale": {},
+      "draft": false,
+      "fieldData": {
+        "dcazF0Rjx": {
+          "type": "string",
+          "value": "3",
+          "valueByLocale": {}
+        },
+        "zgV6B02sD": {
+          "type": "string",
+          "value": "0120, KYO",
+          "valueByLocale": {}
+        },
+        "BZtd3BWdx": {
+          "type": "number",
+          "value": 37.5
+        },
+        "Hqk9ScmVE": {
+          "type": "string",
+          "value": "",
+          "valueByLocale": {}
+        },
+        "W6Xeud6Po": {
+          "type": "string",
+          "value": "UJIHIKARI, SAMIDORI",
+          "valueByLocale": {}
+        },
+        "YZORz5QY9": {
+          "type": "enum",
+          "value": "(100g)"
+        }
+      }
+    }
+  ]
+}

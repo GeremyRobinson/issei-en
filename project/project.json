@@ -1,0 +1,23 @@
+{
+  "project": {
+    "id": "2029983ee8c3f88588f2a75a9c700707eb01fd37cb362f165023d51fc8c7db2d",
+    "name": "ISSEI-EN (NEW)",
+    "apiVersion1Id": "277832143"
+  },
+  "publish": {
+    "production": {
+      "deploymentTime": 1790571761699,
+      "optimizationStatus": "optimized",
+      "url": "https://issei-en.com",
+      "currentPageUrl": "https://issei-en.com/"
+    },
+    "staging": {
+      "deploymentTime": 1790571761699,
+      "optimizationStatus": "optimized",
+      "url": "https://loud-use-412525.studio.app",
+      "currentPageUrl": "https://loud-use-412525.studio.app/"
+    }
+  },
+  "nodes": 1160,
+  "savedAt": "2026-09-28T21:53:08.600Z"
+}

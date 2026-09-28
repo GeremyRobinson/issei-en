@@ -1,0 +1,1705 @@
+{
+  "type": "ComponentNode",
+  "id": "ATWNyh6Xo",
+  "originalId": null,
+  "__class": "ComponentNode",
+  "name": "Indices",
+  "componentIdentifier": "local-module:canvasComponent/ATWNyh6Xo:default",
+  "insertURL": "https://studio.com/m/Indices-TXsiMg.js@lwDFqTFzDFPDtsVbPa1G",
+  "componentName": "Indices",
+  "isReplica": false,
+  "children": [
+    {
+      "type": "FrameNode",
+      "id": "iRkOtHNHv",
+      "originalId": "GNsQlyLSp",
+      "__class": "FrameNode",
+      "name": "Matcha",
+      "visible": true,
+      "locked": false,
+      "backgroundColor": {
+        "type": "ColorStyle",
+        "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
+        "name": "FFF –– 000",
+        "path": "/FFF –– 000",
+        "light": "rgb(255, 255, 255)",
+        "dark": "rgb(0, 0, 0)"
+      },
+      "backgroundImage": null,
+      "backgroundGradient": null,
+      "rotation": 0,
+      "opacity": 1,
+      "borderRadius": null,
+      "border": null,
+      "imageRendering": null,
+      "position": "absolute",
+      "top": "0px",
+      "right": null,
+      "bottom": null,
+      "left": "1280px",
+      "centerX": null,
+      "centerY": null,
+      "width": "1180px",
+      "height": "fit-content",
+      "maxWidth": null,
+      "minWidth": null,
+      "maxHeight": null,
+      "minHeight": null,
+      "aspectRatio": null,
+      "zIndex": null,
+      "link": null,
+      "linkOpenInNewTab": null,
+      "linkSmoothScroll": null,
+      "linkClickTrackingId": null,
+      "linkRelValues": null,
+      "linkPreserveParams": null,
+      "overflow": null,
+      "overflowX": null,
+      "overflowY": null,
+      "layout": "stack",
+      "gap": "100px",
+      "padding": "0px",
+      "stackDirection": "vertical",
+      "stackDistribution": "start",
+      "stackAlignment": "start",
+      "stackWrapEnabled": false,
+      "gridColumnCount": null,
+      "gridRowCount": null,
+      "gridAlignment": null,
+      "gridColumnWidthType": null,
+      "gridColumnWidth": null,
+      "gridColumnMinWidth": null,
+      "gridRowHeightType": null,
+      "gridRowHeight": null,
+      "gridItemFillCellWidth": null,
+      "gridItemFillCellHeight": null,
+      "gridItemHorizontalAlignment": null,
+      "gridItemVerticalAlignment": null,
+      "gridItemColumnSpan": null,
+      "gridItemRowSpan": null,
+      "isVariant": true,
+      "isPrimaryVariant": false,
+      "isBreakpoint": false,
+      "isPrimaryBreakpoint": false,
+      "inheritsFromId": "GNsQlyLSp",
+      "gesture": null,
+      "isReplica": true,
+      "children": [
+        {
+          "type": "FrameNode",
+          "id": "iRkOtHNHvwXCPs7M_h",
+          "originalId": "wXCPs7M_h",
+          "__class": "FrameNode",
+          "name": "Categories",
+          "visible": true,
+          "locked": false,
+          "backgroundColor": null,
+          "backgroundImage": null,
+          "backgroundGradient": null,
+          "rotation": 0,
+          "opacity": 1,
+          "borderRadius": null,
+          "border": null,
+          "imageRendering": null,
+          "position": "absolute",
+          "top": "0px",
+          "right": null,
+          "bottom": null,
+          "left": "0px",
+          "centerX": null,
+          "centerY": null,
+          "width": "fit-content",
+          "height": "fit-content",
+          "maxWidth": null,
+          "minWidth": null,
+          "maxHeight": null,
+          "minHeight": null,
+          "aspectRatio": null,
+          "zIndex": 1,
+          "link": null,
+          "linkOpenInNewTab": null,
+          "linkSmoothScroll": null,
+          "linkClickTrackingId": null,
+          "linkRelValues": null,
+          "linkPreserveParams": null,
+          "overflow": "visible",
+          "overflowX": null,
+          "overflowY": null,
+          "layout": "stack",
+          "gap": "5px",
+          "padding": "0px",
+          "stackDirection": "horizontal",
+          "stackDistribution": "start",
+          "stackAlignment": "center",
+          "stackWrapEnabled": false,
+          "gridColumnCount": null,
+          "gridRowCount": null,
+          "gridAlignment": null,
+          "gridColumnWidthType": null,
+          "gridColumnWidth": null,
+          "gridColumnMinWidth": null,
+          "gridRowHeightType": null,
+          "gridRowHeight": null,
+          "gridItemFillCellWidth": true,
+          "gridItemFillCellHeight": null,
+          "gridItemHorizontalAlignment": null,
+          "gridItemVerticalAlignment": null,
+          "gridItemColumnSpan": null,
+          "gridItemRowSpan": null,
+          "isVariant": false,
+          "isPrimaryVariant": false,
+          "isBreakpoint": false,
+          "isPrimaryBreakpoint": false,
+          "inheritsFromId": null,
+          "gesture": null,
+          "isReplica": true,
+          "children": [
+            {
+              "type": "ComponentInstanceNode",
+              "id": "iRkOtHNHvxZjLSeoUt",
+              "originalId": "xZjLSeoUt",
+              "__class": "ComponentInstanceNode",
+              "name": "Tab",
+              "visible": true,
+              "locked": false,
+              "componentIdentifier": "local-module:canvasComponent/mYsJZFO0C:default",
+              "insertURL": "https://studio.com/m/Tab-pM7Alu.js@xiwsmKZUrtsWE0TZ4WHb",
+              "componentName": "Tab",
+              "controls": {
+                "variant": "cBspxI51A",
+                "mXpY5N3RA": "All",
+                "YvVXpVIdZ": true,
+                "O5ivy6xWI": "rgb(255, 255, 255)"
+              },
+              "rotation": 0,
+              "opacity": 1,
+              "position": "absolute",
+              "top": "0px",
+              "right": null,
+              "bottom": null,
+              "left": null,
+              "centerX": "50%",
+              "centerY": null,
+              "width": "fit-content",
+              "height": "fit-content",
+              "maxWidth": null,
+              "minWidth": null,
+              "maxHeight": null,
+              "minHeight": null,
+              "aspectRatio": null,
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "cBspxI51A",
+                      "title": "Default"
+                    },
+                    {
+                      "id": "hjZ8o_dxa",
+                      "title": "Active"
+                    }
+                  ],
+                  "value": "cBspxI51A"
+                },
+                "mXpY5N3RA": {
+                  "type": "string",
+                  "key": "mXpY5N3RA",
+                  "title": "Title",
+                  "value": "All"
+                },
+                "eAHGXWjyh": {
+                  "type": "eventHandler",
+                  "key": "eAHGXWjyh",
+                  "title": "Click"
+                },
+                "YvVXpVIdZ": {
+                  "type": "boolean",
+                  "key": "YvVXpVIdZ",
+                  "title": "Comma",
+                  "value": true
+                },
+                "p3y34EoMt": {
+                  "type": "link",
+                  "key": "p3y34EoMt",
+                  "title": "Link",
+                  "value": {
+                    "type": "webPage",
+                    "webPageId": "MOI8MgKgv"
+                  }
+                },
+                "O5ivy6xWI": {
+                  "type": "color",
+                  "key": "O5ivy6xWI",
+                  "title": "Color",
+                  "value": {
+                    "type": "ColorStyle",
+                    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+                    "name": "FFF",
+                    "path": "/FFF",
+                    "light": "rgb(255, 255, 255)",
+                    "dark": null
+                  }
+                }
+              },
+              "isReplica": true,
+              "children": []
+            },
+            {
+              "type": "ComponentInstanceNode",
+              "id": "iRkOtHNHvqxAr_JrX7",
+              "originalId": "qxAr_JrX7",
+              "__class": "ComponentInstanceNode",
+              "name": "Tab",
+              "visible": true,
+              "locked": false,
+              "componentIdentifier": "local-module:canvasComponent/mYsJZFO0C:default",
+              "insertURL": "https://studio.com/m/Tab-pM7Alu.js@xiwsmKZUrtsWE0TZ4WHb",
+              "componentName": "Tab",
+              "controls": {
+                "variant": "hjZ8o_dxa",
+                "mXpY5N3RA": "Matcha",
+                "YvVXpVIdZ": true,
+                "O5ivy6xWI": "rgb(255, 255, 255)"
+              },
+              "rotation": 0,
+              "opacity": 1,
+              "position": "absolute",
+              "top": null,
+              "right": null,
+              "bottom": "0px",
+              "left": null,
+              "centerX": "50%",
+              "centerY": null,
+              "width": "fit-content",
+              "height": "fit-content",
+              "maxWidth": null,
+              "minWidth": null,
+              "maxHeight": null,
+              "minHeight": null,
+              "aspectRatio": null,
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "cBspxI51A",
+                      "title": "Default"
+                    },
+                    {
+                      "id": "hjZ8o_dxa",
+                      "title": "Active"
+                    }
+                  ],
+                  "value": "hjZ8o_dxa"
+                },
+                "mXpY5N3RA": {
+                  "type": "string",
+                  "key": "mXpY5N3RA",
+                  "title": "Title",
+                  "value": "Matcha"
+                },
+                "eAHGXWjyh": {
+                  "type": "eventHandler",
+                  "key": "eAHGXWjyh",
+                  "title": "Click"
+                },
+                "YvVXpVIdZ": {
+                  "type": "boolean",
+                  "key": "YvVXpVIdZ",
+                  "title": "Comma",
+                  "value": true
+                },
+                "p3y34EoMt": {
+                  "type": "link",
+                  "key": "p3y34EoMt",
+                  "title": "Link",
+                  "value": {
+                    "type": "webPage",
+                    "webPageId": "MOI8MgKgv"
+                  }
+                },
+                "O5ivy6xWI": {
+                  "type": "color",
+                  "key": "O5ivy6xWI",
+                  "title": "Color",
+                  "value": {
+                    "type": "ColorStyle",
+                    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+                    "name": "FFF",
+                    "path": "/FFF",
+                    "light": "rgb(255, 255, 255)",
+                    "dark": null
+                  }
+                }
+              },
+              "isReplica": true,
+              "children": []
+            },
+            {
+              "type": "ComponentInstanceNode",
+              "id": "iRkOtHNHvoLIB8xrNZ",
+              "originalId": "oLIB8xrNZ",
+              "__class": "ComponentInstanceNode",
+              "name": "Tab",
+              "visible": true,
+              "locked": false,
+              "componentIdentifier": "local-module:canvasComponent/mYsJZFO0C:default",
+              "insertURL": "https://studio.com/m/Tab-pM7Alu.js@xiwsmKZUrtsWE0TZ4WHb",
+              "componentName": "Tab",
+              "controls": {
+                "variant": "cBspxI51A",
+                "mXpY5N3RA": "Hojicha",
+                "YvVXpVIdZ": false,
+                "O5ivy6xWI": "rgb(255, 255, 255)"
+              },
+              "rotation": 0,
+              "opacity": 1,
+              "position": "absolute",
+              "top": null,
+              "right": null,
+              "bottom": "0px",
+              "left": null,
+              "centerX": "50%",
+              "centerY": null,
+              "width": "fit-content",
+              "height": "fit-content",
+              "maxWidth": null,
+              "minWidth": null,
+              "maxHeight": null,
+              "minHeight": null,
+              "aspectRatio": null,
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "cBspxI51A",
+                      "title": "Default"
+                    },
+                    {
+                      "id": "hjZ8o_dxa",
+                      "title": "Active"
+                    }
+                  ],
+                  "value": "cBspxI51A"
+                },
+                "mXpY5N3RA": {
+                  "type": "string",
+                  "key": "mXpY5N3RA",
+                  "title": "Title",
+                  "value": "Hojicha"
+                },
+                "eAHGXWjyh": {
+                  "type": "eventHandler",
+                  "key": "eAHGXWjyh",
+                  "title": "Click"
+                },
+                "YvVXpVIdZ": {
+                  "type": "boolean",
+                  "key": "YvVXpVIdZ",
+                  "title": "Comma",
+                  "value": false
+                },
+                "p3y34EoMt": {
+                  "type": "link",
+                  "key": "p3y34EoMt",
+                  "title": "Link",
+                  "value": {
+                    "type": "webPage",
+                    "webPageId": "MOI8MgKgv"
+                  }
+                },
+                "O5ivy6xWI": {
+                  "type": "color",
+                  "key": "O5ivy6xWI",
+                  "title": "Color",
+                  "value": {
+                    "type": "ColorStyle",
+                    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+                    "name": "FFF",
+                    "path": "/FFF",
+                    "light": "rgb(255, 255, 255)",
+                    "dark": null
+                  }
+                }
+              },
+              "isReplica": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "ComponentInstanceNode",
+          "id": "iRkOtHNHvK4oNGEVJU",
+          "originalId": "K4oNGEVJU",
+          "__class": "ComponentInstanceNode",
+          "name": "Index",
+          "visible": true,
+          "locked": false,
+          "componentIdentifier": "local-module:canvasComponent/lguGvmpVl:default",
+          "insertURL": "https://studio.com/m/Index-hUzZ1Z.js@Q8iP7ikDlx01eIO1nzYC",
+          "componentName": "Index",
+          "controls": {},
+          "rotation": 0,
+          "opacity": 1,
+          "position": "absolute",
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "left": null,
+          "centerX": "50%",
+          "centerY": "19%",
+          "width": "1fr",
+          "height": "fit-content",
+          "maxWidth": null,
+          "minWidth": null,
+          "maxHeight": null,
+          "minHeight": null,
+          "aspectRatio": null,
+          "typedControls": {
+            "variant": {
+              "type": "enum",
+              "key": "variant",
+              "title": "Variant",
+              "options": [
+                {
+                  "id": "Drt7NWOYK",
+                  "title": "Full"
+                },
+                {
+                  "id": "sybSL7jti",
+                  "title": "Mobile"
+                }
+              ],
+              "value": {
+                "type": "unsupported",
+                "nodeId": "ATWNyh6Xo",
+                "nodeType": "component",
+                "id": "lErKOZoJm",
+                "name": "Size",
+                "description": null
+              }
+            },
+            "wWUyKZFuV": {
+              "type": "eventHandler",
+              "key": "wWUyKZFuV",
+              "title": "Click"
+            },
+            "OJW12fqcI": {
+              "type": "string",
+              "key": "OJW12fqcI",
+              "title": "Code"
+            },
+            "Wpz1TIT_J": {
+              "type": "string",
+              "key": "Wpz1TIT_J",
+              "title": "Title"
+            },
+            "IAkXMTgra": {
+              "type": "string",
+              "key": "IAkXMTgra",
+              "title": "Kanji"
+            },
+            "px5BQhV9o": {
+              "type": "formattedText",
+              "key": "px5BQhV9o",
+              "title": "Description"
+            },
+            "dYdc1v4TX": {
+              "type": "formattedText",
+              "key": "dYdc1v4TX",
+              "title": "Labels"
+            },
+            "vCGw9EmyO": {
+              "type": "formattedText",
+              "key": "vCGw9EmyO",
+              "title": "Specs"
+            },
+            "Qh4snX0Uy": {
+              "type": "number",
+              "key": "Qh4snX0Uy",
+              "title": "Umami"
+            },
+            "TyqM4jb1L": {
+              "type": "number",
+              "key": "TyqM4jb1L",
+              "title": "Sweetness"
+            },
+            "mtqJc_tkD": {
+              "type": "number",
+              "key": "mtqJc_tkD",
+              "title": "Body"
+            },
+            "SP0Hr8wFY": {
+              "type": "formattedText",
+              "key": "SP0Hr8wFY",
+              "title": "Notes"
+            },
+            "e5dnI35xq": {
+              "type": "image",
+              "key": "e5dnI35xq",
+              "title": "Image 1"
+            },
+            "ANWoGHPxH": {
+              "type": "image",
+              "key": "ANWoGHPxH",
+              "title": "Image 2"
+            },
+            "vduah_8ey": {
+              "type": "image",
+              "key": "vduah_8ey",
+              "title": "Image3"
+            },
+            "xpPtC7CwM": {
+              "type": "image",
+              "key": "xpPtC7CwM",
+              "title": "Landscape"
+            },
+            "JNxWhQHoG": {
+              "type": "image",
+              "key": "JNxWhQHoG",
+              "title": "Portrait"
+            }
+          },
+          "isReplica": true,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "FrameNode",
+      "id": "gm0rk_orq",
+      "originalId": "GNsQlyLSp",
+      "__class": "FrameNode",
+      "name": "Hojicha",
+      "visible": true,
+      "locked": false,
+      "backgroundColor": {
+        "type": "ColorStyle",
+        "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
+        "name": "FFF –– 000",
+        "path": "/FFF –– 000",
+        "light": "rgb(255, 255, 255)",
+        "dark": "rgb(0, 0, 0)"
+      },
+      "backgroundImage": null,
+      "backgroundGradient": null,
+      "rotation": 0,
+      "opacity": 1,
+      "borderRadius": null,
+      "border": null,
+      "imageRendering": null,
+      "position": "absolute",
+      "top": "0px",
+      "right": null,
+      "bottom": null,
+      "left": "2560px",
+      "centerX": null,
+      "centerY": null,
+      "width": "1180px",
+      "height": "fit-content",
+      "maxWidth": null,
+      "minWidth": null,
+      "maxHeight": null,
+      "minHeight": null,
+      "aspectRatio": null,
+      "zIndex": null,
+      "link": null,
+      "linkOpenInNewTab": null,
+      "linkSmoothScroll": null,
+      "linkClickTrackingId": null,
+      "linkRelValues": null,
+      "linkPreserveParams": null,
+      "overflow": null,
+      "overflowX": null,
+      "overflowY": null,
+      "layout": "stack",
+      "gap": "100px",
+      "padding": "0px",
+      "stackDirection": "vertical",
+      "stackDistribution": "start",
+      "stackAlignment": "start",
+      "stackWrapEnabled": false,
+      "gridColumnCount": null,
+      "gridRowCount": null,
+      "gridAlignment": null,
+      "gridColumnWidthType": null,
+      "gridColumnWidth": null,
+      "gridColumnMinWidth": null,
+      "gridRowHeightType": null,
+      "gridRowHeight": null,
+      "gridItemFillCellWidth": null,
+      "gridItemFillCellHeight": null,
+      "gridItemHorizontalAlignment": null,
+      "gridItemVerticalAlignment": null,
+      "gridItemColumnSpan": null,
+      "gridItemRowSpan": null,
+      "isVariant": true,
+      "isPrimaryVariant": false,
+      "isBreakpoint": false,
+      "isPrimaryBreakpoint": false,
+      "inheritsFromId": "GNsQlyLSp",
+      "gesture": null,
+      "isReplica": true,
+      "children": [
+        {
+          "type": "FrameNode",
+          "id": "gm0rk_orqwXCPs7M_h",
+          "originalId": "wXCPs7M_h",
+          "__class": "FrameNode",
+          "name": "Categories",
+          "visible": true,
+          "locked": false,
+          "backgroundColor": null,
+          "backgroundImage": null,
+          "backgroundGradient": null,
+          "rotation": 0,
+          "opacity": 1,
+          "borderRadius": null,
+          "border": null,
+          "imageRendering": null,
+          "position": "absolute",
+          "top": "0px",
+          "right": null,
+          "bottom": null,
+          "left": "0px",
+          "centerX": null,
+          "centerY": null,
+          "width": "fit-content",
+          "height": "fit-content",
+          "maxWidth": null,
+          "minWidth": null,
+          "maxHeight": null,
+          "minHeight": null,
+          "aspectRatio": null,
+          "zIndex": 1,
+          "link": null,
+          "linkOpenInNewTab": null,
+          "linkSmoothScroll": null,
+          "linkClickTrackingId": null,
+          "linkRelValues": null,
+          "linkPreserveParams": null,
+          "overflow": "visible",
+          "overflowX": null,
+          "overflowY": null,
+          "layout": "stack",
+          "gap": "5px",
+          "padding": "0px",
+          "stackDirection": "horizontal",
+          "stackDistribution": "start",
+          "stackAlignment": "center",
+          "stackWrapEnabled": false,
+          "gridColumnCount": null,
+          "gridRowCount": null,
+          "gridAlignment": null,
+          "gridColumnWidthType": null,
+          "gridColumnWidth": null,
+          "gridColumnMinWidth": null,
+          "gridRowHeightType": null,
+          "gridRowHeight": null,
+          "gridItemFillCellWidth": true,
+          "gridItemFillCellHeight": null,
+          "gridItemHorizontalAlignment": null,
+          "gridItemVerticalAlignment": null,
+          "gridItemColumnSpan": null,
+          "gridItemRowSpan": null,
+          "isVariant": false,
+          "isPrimaryVariant": false,
+          "isBreakpoint": false,
+          "isPrimaryBreakpoint": false,
+          "inheritsFromId": null,
+          "gesture": null,
+          "isReplica": true,
+          "children": [
+            {
+              "type": "ComponentInstanceNode",
+              "id": "gm0rk_orqxZjLSeoUt",
+              "originalId": "xZjLSeoUt",
+              "__class": "ComponentInstanceNode",
+              "name": "Tab",
+              "visible": true,
+              "locked": false,
+              "componentIdentifier": "local-module:canvasComponent/mYsJZFO0C:default",
+              "insertURL": "https://studio.com/m/Tab-pM7Alu.js@xiwsmKZUrtsWE0TZ4WHb",
+              "componentName": "Tab",
+              "controls": {
+                "variant": "cBspxI51A",
+                "mXpY5N3RA": "All",
+                "YvVXpVIdZ": true,
+                "O5ivy6xWI": "rgb(255, 255, 255)"
+              },
+              "rotation": 0,
+              "opacity": 1,
+              "position": "absolute",
+              "top": "0px",
+              "right": null,
+              "bottom": null,
+              "left": null,
+              "centerX": "50%",
+              "centerY": null,
+              "width": "fit-content",
+              "height": "fit-content",
+              "maxWidth": null,
+              "minWidth": null,
+              "maxHeight": null,
+              "minHeight": null,
+              "aspectRatio": null,
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "cBspxI51A",
+                      "title": "Default"
+                    },
+                    {
+                      "id": "hjZ8o_dxa",
+                      "title": "Active"
+                    }
+                  ],
+                  "value": "cBspxI51A"
+                },
+                "mXpY5N3RA": {
+                  "type": "string",
+                  "key": "mXpY5N3RA",
+                  "title": "Title",
+                  "value": "All"
+                },
+                "eAHGXWjyh": {
+                  "type": "eventHandler",
+                  "key": "eAHGXWjyh",
+                  "title": "Click"
+                },
+                "YvVXpVIdZ": {
+                  "type": "boolean",
+                  "key": "YvVXpVIdZ",
+                  "title": "Comma",
+                  "value": true
+                },
+                "p3y34EoMt": {
+                  "type": "link",
+                  "key": "p3y34EoMt",
+                  "title": "Link",
+                  "value": {
+                    "type": "webPage",
+                    "webPageId": "MOI8MgKgv"
+                  }
+                },
+                "O5ivy6xWI": {
+                  "type": "color",
+                  "key": "O5ivy6xWI",
+                  "title": "Color",
+                  "value": {
+                    "type": "ColorStyle",
+                    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+                    "name": "FFF",
+                    "path": "/FFF",
+                    "light": "rgb(255, 255, 255)",
+                    "dark": null
+                  }
+                }
+              },
+              "isReplica": true,
+              "children": []
+            },
+            {
+              "type": "ComponentInstanceNode",
+              "id": "gm0rk_orqqxAr_JrX7",
+              "originalId": "qxAr_JrX7",
+              "__class": "ComponentInstanceNode",
+              "name": "Tab",
+              "visible": true,
+              "locked": false,
+              "componentIdentifier": "local-module:canvasComponent/mYsJZFO0C:default",
+              "insertURL": "https://studio.com/m/Tab-pM7Alu.js@xiwsmKZUrtsWE0TZ4WHb",
+              "componentName": "Tab",
+              "controls": {
+                "variant": "cBspxI51A",
+                "mXpY5N3RA": "Matcha",
+                "YvVXpVIdZ": true,
+                "O5ivy6xWI": "rgb(255, 255, 255)"
+              },
+              "rotation": 0,
+              "opacity": 1,
+              "position": "absolute",
+              "top": null,
+              "right": null,
+              "bottom": "0px",
+              "left": null,
+              "centerX": "50%",
+              "centerY": null,
+              "width": "fit-content",
+              "height": "fit-content",
+              "maxWidth": null,
+              "minWidth": null,
+              "maxHeight": null,
+              "minHeight": null,
+              "aspectRatio": null,
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "cBspxI51A",
+                      "title": "Default"
+                    },
+                    {
+                      "id": "hjZ8o_dxa",
+                      "title": "Active"
+                    }
+                  ],
+                  "value": "cBspxI51A"
+                },
+                "mXpY5N3RA": {
+                  "type": "string",
+                  "key": "mXpY5N3RA",
+                  "title": "Title",
+                  "value": "Matcha"
+                },
+                "eAHGXWjyh": {
+                  "type": "eventHandler",
+                  "key": "eAHGXWjyh",
+                  "title": "Click"
+                },
+                "YvVXpVIdZ": {
+                  "type": "boolean",
+                  "key": "YvVXpVIdZ",
+                  "title": "Comma",
+                  "value": true
+                },
+                "p3y34EoMt": {
+                  "type": "link",
+                  "key": "p3y34EoMt",
+                  "title": "Link",
+                  "value": {
+                    "type": "webPage",
+                    "webPageId": "MOI8MgKgv"
+                  }
+                },
+                "O5ivy6xWI": {
+                  "type": "color",
+                  "key": "O5ivy6xWI",
+                  "title": "Color",
+                  "value": {
+                    "type": "ColorStyle",
+                    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+                    "name": "FFF",
+                    "path": "/FFF",
+                    "light": "rgb(255, 255, 255)",
+                    "dark": null
+                  }
+                }
+              },
+              "isReplica": true,
+              "children": []
+            },
+            {
+              "type": "ComponentInstanceNode",
+              "id": "gm0rk_orqoLIB8xrNZ",
+              "originalId": "oLIB8xrNZ",
+              "__class": "ComponentInstanceNode",
+              "name": "Tab",
+              "visible": true,
+              "locked": false,
+              "componentIdentifier": "local-module:canvasComponent/mYsJZFO0C:default",
+              "insertURL": "https://studio.com/m/Tab-pM7Alu.js@xiwsmKZUrtsWE0TZ4WHb",
+              "componentName": "Tab",
+              "controls": {
+                "variant": "hjZ8o_dxa",
+                "mXpY5N3RA": "Hojicha",
+                "YvVXpVIdZ": false,
+                "O5ivy6xWI": "rgb(255, 255, 255)"
+              },
+              "rotation": 0,
+              "opacity": 1,
+              "position": "absolute",
+              "top": null,
+              "right": null,
+              "bottom": "0px",
+              "left": null,
+              "centerX": "50%",
+              "centerY": null,
+              "width": "fit-content",
+              "height": "fit-content",
+              "maxWidth": null,
+              "minWidth": null,
+              "maxHeight": null,
+              "minHeight": null,
+              "aspectRatio": null,
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "cBspxI51A",
+                      "title": "Default"
+                    },
+                    {
+                      "id": "hjZ8o_dxa",
+                      "title": "Active"
+                    }
+                  ],
+                  "value": "hjZ8o_dxa"
+                },
+                "mXpY5N3RA": {
+                  "type": "string",
+                  "key": "mXpY5N3RA",
+                  "title": "Title",
+                  "value": "Hojicha"
+                },
+                "eAHGXWjyh": {
+                  "type": "eventHandler",
+                  "key": "eAHGXWjyh",
+                  "title": "Click"
+                },
+                "YvVXpVIdZ": {
+                  "type": "boolean",
+                  "key": "YvVXpVIdZ",
+                  "title": "Comma",
+                  "value": false
+                },
+                "p3y34EoMt": {
+                  "type": "link",
+                  "key": "p3y34EoMt",
+                  "title": "Link",
+                  "value": {
+                    "type": "webPage",
+                    "webPageId": "MOI8MgKgv"
+                  }
+                },
+                "O5ivy6xWI": {
+                  "type": "color",
+                  "key": "O5ivy6xWI",
+                  "title": "Color",
+                  "value": {
+                    "type": "ColorStyle",
+                    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+                    "name": "FFF",
+                    "path": "/FFF",
+                    "light": "rgb(255, 255, 255)",
+                    "dark": null
+                  }
+                }
+              },
+              "isReplica": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "ComponentInstanceNode",
+          "id": "gm0rk_orqK4oNGEVJU",
+          "originalId": "K4oNGEVJU",
+          "__class": "ComponentInstanceNode",
+          "name": "Index",
+          "visible": true,
+          "locked": false,
+          "componentIdentifier": "local-module:canvasComponent/lguGvmpVl:default",
+          "insertURL": "https://studio.com/m/Index-hUzZ1Z.js@Q8iP7ikDlx01eIO1nzYC",
+          "componentName": "Index",
+          "controls": {},
+          "rotation": 0,
+          "opacity": 1,
+          "position": "absolute",
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "left": null,
+          "centerX": "50%",
+          "centerY": "19%",
+          "width": "1fr",
+          "height": "fit-content",
+          "maxWidth": null,
+          "minWidth": null,
+          "maxHeight": null,
+          "minHeight": null,
+          "aspectRatio": null,
+          "typedControls": {
+            "variant": {
+              "type": "enum",
+              "key": "variant",
+              "title": "Variant",
+              "options": [
+                {
+                  "id": "Drt7NWOYK",
+                  "title": "Full"
+                },
+                {
+                  "id": "sybSL7jti",
+                  "title": "Mobile"
+                }
+              ],
+              "value": {
+                "type": "unsupported",
+                "nodeId": "ATWNyh6Xo",
+                "nodeType": "component",
+                "id": "lErKOZoJm",
+                "name": "Size",
+                "description": null
+              }
+            },
+            "wWUyKZFuV": {
+              "type": "eventHandler",
+              "key": "wWUyKZFuV",
+              "title": "Click"
+            },
+            "OJW12fqcI": {
+              "type": "string",
+              "key": "OJW12fqcI",
+              "title": "Code"
+            },
+            "Wpz1TIT_J": {
+              "type": "string",
+              "key": "Wpz1TIT_J",
+              "title": "Title"
+            },
+            "IAkXMTgra": {
+              "type": "string",
+              "key": "IAkXMTgra",
+              "title": "Kanji"
+            },
+            "px5BQhV9o": {
+              "type": "formattedText",
+              "key": "px5BQhV9o",
+              "title": "Description"
+            },
+            "dYdc1v4TX": {
+              "type": "formattedText",
+              "key": "dYdc1v4TX",
+              "title": "Labels"
+            },
+            "vCGw9EmyO": {
+              "type": "formattedText",
+              "key": "vCGw9EmyO",
+              "title": "Specs"
+            },
+            "Qh4snX0Uy": {
+              "type": "number",
+              "key": "Qh4snX0Uy",
+              "title": "Umami"
+            },
+            "TyqM4jb1L": {
+              "type": "number",
+              "key": "TyqM4jb1L",
+              "title": "Sweetness"
+            },
+            "mtqJc_tkD": {
+              "type": "number",
+              "key": "mtqJc_tkD",
+              "title": "Body"
+            },
+            "SP0Hr8wFY": {
+              "type": "formattedText",
+              "key": "SP0Hr8wFY",
+              "title": "Notes"
+            },
+            "e5dnI35xq": {
+              "type": "image",
+              "key": "e5dnI35xq",
+              "title": "Image 1"
+            },
+            "ANWoGHPxH": {
+              "type": "image",
+              "key": "ANWoGHPxH",
+              "title": "Image 2"
+            },
+            "vduah_8ey": {
+              "type": "image",
+              "key": "vduah_8ey",
+              "title": "Image3"
+            },
+            "xpPtC7CwM": {
+              "type": "image",
+              "key": "xpPtC7CwM",
+              "title": "Landscape"
+            },
+            "JNxWhQHoG": {
+              "type": "image",
+              "key": "JNxWhQHoG",
+              "title": "Portrait"
+            }
+          },
+          "isReplica": true,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "FrameNode",
+      "id": "GNsQlyLSp",
+      "originalId": null,
+      "__class": "FrameNode",
+      "name": "All",
+      "visible": true,
+      "locked": false,
+      "backgroundColor": {
+        "type": "ColorStyle",
+        "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
+        "name": "FFF –– 000",
+        "path": "/FFF –– 000",
+        "light": "rgb(255, 255, 255)",
+        "dark": "rgb(0, 0, 0)"
+      },
+      "backgroundImage": null,
+      "backgroundGradient": null,
+      "rotation": 0,
+      "opacity": 1,
+      "borderRadius": null,
+      "border": null,
+      "imageRendering": null,
+      "position": "absolute",
+      "top": "0px",
+      "right": null,
+      "bottom": null,
+      "left": "0px",
+      "centerX": null,
+      "centerY": null,
+      "width": "1180px",
+      "height": "fit-content",
+      "maxWidth": null,
+      "minWidth": null,
+      "maxHeight": null,
+      "minHeight": null,
+      "aspectRatio": null,
+      "zIndex": null,
+      "link": null,
+      "linkOpenInNewTab": null,
+      "linkSmoothScroll": null,
+      "linkClickTrackingId": null,
+      "linkRelValues": null,
+      "linkPreserveParams": null,
+      "overflow": null,
+      "overflowX": null,
+      "overflowY": null,
+      "layout": "stack",
+      "gap": "100px",
+      "padding": "0px",
+      "stackDirection": "vertical",
+      "stackDistribution": "start",
+      "stackAlignment": "start",
+      "stackWrapEnabled": false,
+      "gridColumnCount": null,
+      "gridRowCount": null,
+      "gridAlignment": null,
+      "gridColumnWidthType": null,
+      "gridColumnWidth": null,
+      "gridColumnMinWidth": null,
+      "gridRowHeightType": null,
+      "gridRowHeight": null,
+      "gridItemFillCellWidth": null,
+      "gridItemFillCellHeight": null,
+      "gridItemHorizontalAlignment": null,
+      "gridItemVerticalAlignment": null,
+      "gridItemColumnSpan": null,
+      "gridItemRowSpan": null,
+      "isVariant": true,
+      "isPrimaryVariant": true,
+      "isBreakpoint": false,
+      "isPrimaryBreakpoint": true,
+      "inheritsFromId": null,
+      "gesture": null,
+      "isReplica": false,
+      "children": [
+        {
+          "type": "FrameNode",
+          "id": "wXCPs7M_h",
+          "originalId": null,
+          "__class": "FrameNode",
+          "name": "Categories",
+          "visible": true,
+          "locked": false,
+          "backgroundColor": null,
+          "backgroundImage": null,
+          "backgroundGradient": null,
+          "rotation": 0,
+          "opacity": 1,
+          "borderRadius": null,
+          "border": null,
+          "imageRendering": null,
+          "position": "absolute",
+          "top": "0px",
+          "right": null,
+          "bottom": null,
+          "left": "0px",
+          "centerX": null,
+          "centerY": null,
+          "width": "fit-content",
+          "height": "fit-content",
+          "maxWidth": null,
+          "minWidth": null,
+          "maxHeight": null,
+          "minHeight": null,
+          "aspectRatio": null,
+          "zIndex": 1,
+          "link": null,
+          "linkOpenInNewTab": null,
+          "linkSmoothScroll": null,
+          "linkClickTrackingId": null,
+          "linkRelValues": null,
+          "linkPreserveParams": null,
+          "overflow": "visible",
+          "overflowX": null,
+          "overflowY": null,
+          "layout": "stack",
+          "gap": "5px",
+          "padding": "0px",
+          "stackDirection": "horizontal",
+          "stackDistribution": "start",
+          "stackAlignment": "center",
+          "stackWrapEnabled": false,
+          "gridColumnCount": null,
+          "gridRowCount": null,
+          "gridAlignment": null,
+          "gridColumnWidthType": null,
+          "gridColumnWidth": null,
+          "gridColumnMinWidth": null,
+          "gridRowHeightType": null,
+          "gridRowHeight": null,
+          "gridItemFillCellWidth": true,
+          "gridItemFillCellHeight": null,
+          "gridItemHorizontalAlignment": null,
+          "gridItemVerticalAlignment": null,
+          "gridItemColumnSpan": null,
+          "gridItemRowSpan": null,
+          "isVariant": false,
+          "isPrimaryVariant": false,
+          "isBreakpoint": false,
+          "isPrimaryBreakpoint": false,
+          "inheritsFromId": null,
+          "gesture": null,
+          "isReplica": false,
+          "children": [
+            {
+              "type": "ComponentInstanceNode",
+              "id": "xZjLSeoUt",
+              "originalId": null,
+              "__class": "ComponentInstanceNode",
+              "name": "Tab",
+              "visible": true,
+              "locked": false,
+              "componentIdentifier": "local-module:canvasComponent/mYsJZFO0C:default",
+              "insertURL": "https://studio.com/m/Tab-pM7Alu.js@xiwsmKZUrtsWE0TZ4WHb",
+              "componentName": "Tab",
+              "controls": {
+                "variant": "hjZ8o_dxa",
+                "mXpY5N3RA": "All",
+                "YvVXpVIdZ": true,
+                "O5ivy6xWI": "rgb(255, 255, 255)"
+              },
+              "rotation": 0,
+              "opacity": 1,
+              "position": "absolute",
+              "top": "0px",
+              "right": null,
+              "bottom": null,
+              "left": null,
+              "centerX": "50%",
+              "centerY": null,
+              "width": "fit-content",
+              "height": "fit-content",
+              "maxWidth": null,
+              "minWidth": null,
+              "maxHeight": null,
+              "minHeight": null,
+              "aspectRatio": null,
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "cBspxI51A",
+                      "title": "Default"
+                    },
+                    {
+                      "id": "hjZ8o_dxa",
+                      "title": "Active"
+                    }
+                  ],
+                  "value": "hjZ8o_dxa"
+                },
+                "mXpY5N3RA": {
+                  "type": "string",
+                  "key": "mXpY5N3RA",
+                  "title": "Title",
+                  "value": "All"
+                },
+                "eAHGXWjyh": {
+                  "type": "eventHandler",
+                  "key": "eAHGXWjyh",
+                  "title": "Click"
+                },
+                "YvVXpVIdZ": {
+                  "type": "boolean",
+                  "key": "YvVXpVIdZ",
+                  "title": "Comma",
+                  "value": true
+                },
+                "p3y34EoMt": {
+                  "type": "link",
+                  "key": "p3y34EoMt",
+                  "title": "Link",
+                  "value": {
+                    "type": "webPage",
+                    "webPageId": "MOI8MgKgv"
+                  }
+                },
+                "O5ivy6xWI": {
+                  "type": "color",
+                  "key": "O5ivy6xWI",
+                  "title": "Color",
+                  "value": {
+                    "type": "ColorStyle",
+                    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+                    "name": "FFF",
+                    "path": "/FFF",
+                    "light": "rgb(255, 255, 255)",
+                    "dark": null
+                  }
+                }
+              },
+              "isReplica": false,
+              "children": []
+            },
+            {
+              "type": "ComponentInstanceNode",
+              "id": "qxAr_JrX7",
+              "originalId": null,
+              "__class": "ComponentInstanceNode",
+              "name": "Tab",
+              "visible": true,
+              "locked": false,
+              "componentIdentifier": "local-module:canvasComponent/mYsJZFO0C:default",
+              "insertURL": "https://studio.com/m/Tab-pM7Alu.js@xiwsmKZUrtsWE0TZ4WHb",
+              "componentName": "Tab",
+              "controls": {
+                "variant": "cBspxI51A",
+                "mXpY5N3RA": "Matcha",
+                "YvVXpVIdZ": true,
+                "O5ivy6xWI": "rgb(255, 255, 255)"
+              },
+              "rotation": 0,
+              "opacity": 1,
+              "position": "absolute",
+              "top": null,
+              "right": null,
+              "bottom": "0px",
+              "left": null,
+              "centerX": "50%",
+              "centerY": null,
+              "width": "fit-content",
+              "height": "fit-content",
+              "maxWidth": null,
+              "minWidth": null,
+              "maxHeight": null,
+              "minHeight": null,
+              "aspectRatio": null,
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "cBspxI51A",
+                      "title": "Default"
+                    },
+                    {
+                      "id": "hjZ8o_dxa",
+                      "title": "Active"
+                    }
+                  ],
+                  "value": "cBspxI51A"
+                },
+                "mXpY5N3RA": {
+                  "type": "string",
+                  "key": "mXpY5N3RA",
+                  "title": "Title",
+                  "value": "Matcha"
+                },
+                "eAHGXWjyh": {
+                  "type": "eventHandler",
+                  "key": "eAHGXWjyh",
+                  "title": "Click"
+                },
+                "YvVXpVIdZ": {
+                  "type": "boolean",
+                  "key": "YvVXpVIdZ",
+                  "title": "Comma",
+                  "value": true
+                },
+                "p3y34EoMt": {
+                  "type": "link",
+                  "key": "p3y34EoMt",
+                  "title": "Link",
+                  "value": {
+                    "type": "webPage",
+                    "webPageId": "MOI8MgKgv"
+                  }
+                },
+                "O5ivy6xWI": {
+                  "type": "color",
+                  "key": "O5ivy6xWI",
+                  "title": "Color",
+                  "value": {
+                    "type": "ColorStyle",
+                    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+                    "name": "FFF",
+                    "path": "/FFF",
+                    "light": "rgb(255, 255, 255)",
+                    "dark": null
+                  }
+                }
+              },
+              "isReplica": false,
+              "children": []
+            },
+            {
+              "type": "ComponentInstanceNode",
+              "id": "oLIB8xrNZ",
+              "originalId": null,
+              "__class": "ComponentInstanceNode",
+              "name": "Tab",
+              "visible": true,
+              "locked": false,
+              "componentIdentifier": "local-module:canvasComponent/mYsJZFO0C:default",
+              "insertURL": "https://studio.com/m/Tab-pM7Alu.js@xiwsmKZUrtsWE0TZ4WHb",
+              "componentName": "Tab",
+              "controls": {
+                "variant": "cBspxI51A",
+                "mXpY5N3RA": "Hojicha",
+                "YvVXpVIdZ": false,
+                "O5ivy6xWI": "rgb(255, 255, 255)"
+              },
+              "rotation": 0,
+              "opacity": 1,
+              "position": "absolute",
+              "top": null,
+              "right": null,
+              "bottom": "0px",
+              "left": null,
+              "centerX": "50%",
+              "centerY": null,
+              "width": "fit-content",
+              "height": "fit-content",
+              "maxWidth": null,
+              "minWidth": null,
+              "maxHeight": null,
+              "minHeight": null,
+              "aspectRatio": null,
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "cBspxI51A",
+                      "title": "Default"
+                    },
+                    {
+                      "id": "hjZ8o_dxa",
+                      "title": "Active"
+                    }
+                  ],
+                  "value": "cBspxI51A"
+                },
+                "mXpY5N3RA": {
+                  "type": "string",
+                  "key": "mXpY5N3RA",
+                  "title": "Title",
+                  "value": "Hojicha"
+                },
+                "eAHGXWjyh": {
+                  "type": "eventHandler",
+                  "key": "eAHGXWjyh",
+                  "title": "Click"
+                },
+                "YvVXpVIdZ": {
+                  "type": "boolean",
+                  "key": "YvVXpVIdZ",
+                  "title": "Comma",
+                  "value": false
+                },
+                "p3y34EoMt": {
+                  "type": "link",
+                  "key": "p3y34EoMt",
+                  "title": "Link",
+                  "value": {
+                    "type": "webPage",
+                    "webPageId": "MOI8MgKgv"
+                  }
+                },
+                "O5ivy6xWI": {
+                  "type": "color",
+                  "key": "O5ivy6xWI",
+                  "title": "Color",
+                  "value": {
+                    "type": "ColorStyle",
+                    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+                    "name": "FFF",
+                    "path": "/FFF",
+                    "light": "rgb(255, 255, 255)",
+                    "dark": null
+                  }
+                }
+              },
+              "isReplica": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "ComponentInstanceNode",
+          "id": "K4oNGEVJU",
+          "originalId": null,
+          "__class": "ComponentInstanceNode",
+          "name": "Index",
+          "visible": true,
+          "locked": false,
+          "componentIdentifier": "local-module:canvasComponent/lguGvmpVl:default",
+          "insertURL": "https://studio.com/m/Index-hUzZ1Z.js@Q8iP7ikDlx01eIO1nzYC",
+          "componentName": "Index",
+          "controls": {},
+          "rotation": 0,
+          "opacity": 1,
+          "position": "absolute",
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "left": null,
+          "centerX": "50%",
+          "centerY": "19%",
+          "width": "1fr",
+          "height": "fit-content",
+          "maxWidth": null,
+          "minWidth": null,
+          "maxHeight": null,
+          "minHeight": null,
+          "aspectRatio": null,
+          "typedControls": {
+            "variant": {
+              "type": "enum",
+              "key": "variant",
+              "title": "Variant",
+              "options": [
+                {
+                  "id": "Drt7NWOYK",
+                  "title": "Full"
+                },
+                {
+                  "id": "sybSL7jti",
+                  "title": "Mobile"
+                }
+              ],
+              "value": {
+                "type": "unsupported",
+                "nodeId": "ATWNyh6Xo",
+                "nodeType": "component",
+                "id": "lErKOZoJm",
+                "name": "Size",
+                "description": null
+              }
+            },
+            "wWUyKZFuV": {
+              "type": "eventHandler",
+              "key": "wWUyKZFuV",
+              "title": "Click"
+            },
+            "OJW12fqcI": {
+              "type": "string",
+              "key": "OJW12fqcI",
+              "title": "Code"
+            },
+            "Wpz1TIT_J": {
+              "type": "string",
+              "key": "Wpz1TIT_J",
+              "title": "Title"
+            },
+            "IAkXMTgra": {
+              "type": "string",
+              "key": "IAkXMTgra",
+              "title": "Kanji"
+            },
+            "px5BQhV9o": {
+              "type": "formattedText",
+              "key": "px5BQhV9o",
+              "title": "Description"
+            },
+            "dYdc1v4TX": {
+              "type": "formattedText",
+              "key": "dYdc1v4TX",
+              "title": "Labels"
+            },
+            "vCGw9EmyO": {
+              "type": "formattedText",
+              "key": "vCGw9EmyO",
+              "title": "Specs"
+            },
+            "Qh4snX0Uy": {
+              "type": "number",
+              "key": "Qh4snX0Uy",
+              "title": "Umami"
+            },
+            "TyqM4jb1L": {
+              "type": "number",
+              "key": "TyqM4jb1L",
+              "title": "Sweetness"
+            },
+            "mtqJc_tkD": {
+              "type": "number",
+              "key": "mtqJc_tkD",
+              "title": "Body"
+            },
+            "SP0Hr8wFY": {
+              "type": "formattedText",
+              "key": "SP0Hr8wFY",
+              "title": "Notes"
+            },
+            "e5dnI35xq": {
+              "type": "image",
+              "key": "e5dnI35xq",
+              "title": "Image 1"
+            },
+            "ANWoGHPxH": {
+              "type": "image",
+              "key": "ANWoGHPxH",
+              "title": "Image 2"
+            },
+            "vduah_8ey": {
+              "type": "image",
+              "key": "vduah_8ey",
+              "title": "Image3"
+            },
+            "xpPtC7CwM": {
+              "type": "image",
+              "key": "xpPtC7CwM",
+              "title": "Landscape"
+            },
+            "JNxWhQHoG": {
+              "type": "image",
+              "key": "JNxWhQHoG",
+              "title": "Portrait"
+            }
+          },
+          "isReplica": false,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

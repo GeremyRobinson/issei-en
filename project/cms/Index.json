@@ -1,0 +1,1128 @@
+{
+  "type": "Collection",
+  "id": "Je4ZeJsbA",
+  "name": "Index",
+  "slugFieldName": "Slug",
+  "slugFieldBasedOn": "H_U_qs0_i",
+  "readonly": false,
+  "managedBy": "user",
+  "fields": [
+    {
+      "type": "string",
+      "id": "uyif37sfa",
+      "name": "Code",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "string",
+      "id": "H_U_qs0_i",
+      "name": "Title",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "string",
+      "id": "PlVbPYM0f",
+      "name": "Kanji",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "boolean",
+      "id": "yTPLiwXD7",
+      "name": "Available"
+    },
+    {
+      "type": "image",
+      "id": "G4Eszy3w8",
+      "name": "Image 1",
+      "required": false
+    },
+    {
+      "type": "image",
+      "id": "TzS3L9MDr",
+      "name": "Image 2",
+      "required": false
+    },
+    {
+      "type": "image",
+      "id": "s2wdf24mq",
+      "name": "Image 3",
+      "required": false
+    },
+    {
+      "type": "string",
+      "id": "iNi1g_IgB",
+      "name": "Details",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "string",
+      "id": "OhY1agdiY",
+      "name": "Type",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "string",
+      "id": "z3g5QSSRc",
+      "name": "Region",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "string",
+      "id": "XB6QScmXw",
+      "name": "Cultivar",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "string",
+      "id": "Jpy1idRSf",
+      "name": "Note",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "string",
+      "id": "jAiCkQSWM",
+      "name": "Roast",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "formattedText",
+      "id": "GDTDGgzZk",
+      "name": "Labels",
+      "required": false
+    },
+    {
+      "type": "string",
+      "id": "Z1Tm438ww",
+      "name": "Sweetness",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "number",
+      "id": "SWof_yYpW",
+      "name": "Umami"
+    },
+    {
+      "type": "number",
+      "id": "iw5ZfTLoS",
+      "name": "Body"
+    },
+    {
+      "type": "number",
+      "id": "F7kRTB38S",
+      "name": "Color"
+    },
+    {
+      "type": "formattedText",
+      "id": "JE4vuaDHN",
+      "name": "Pricing",
+      "required": false
+    },
+    {
+      "type": "number",
+      "id": "nAAux52Ya",
+      "name": "40g"
+    },
+    {
+      "type": "number",
+      "id": "IkunJY3cP",
+      "name": "1kg"
+    },
+    {
+      "type": "number",
+      "id": "y8KnnllXp",
+      "name": "10kg"
+    },
+    {
+      "type": "number",
+      "id": "cqV3dVh7V",
+      "name": "50kg"
+    },
+    {
+      "type": "number",
+      "id": "PHUGFzraW",
+      "name": "Roast Level"
+    },
+    {
+      "type": "number",
+      "id": "qwqpZ_OPd",
+      "name": "Toast Level"
+    },
+    {
+      "type": "string",
+      "id": "OD0a1zKIb",
+      "name": "Toast",
+      "required": false,
+      "basedOn": null
+    },
+    {
+      "type": "number",
+      "id": "atQN8ZhzM",
+      "name": "Caffeine Retained"
+    },
+    {
+      "type": "enum",
+      "id": "YF9B8c1qu",
+      "name": "Option",
+      "cases": [
+        {
+          "type": "EnumCase",
+          "id": "sbVJ1hdZf",
+          "name": "Matcha",
+          "nameByLocale": {}
+        },
+        {
+          "type": "EnumCase",
+          "id": "aDtHFRigJ",
+          "name": "Hojicha",
+          "nameByLocale": {}
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "type": "CollectionItem",
+      "id": "bgZeI2WBT",
+      "nodeId": "bgZeI2WBT",
+      "createdAt": "2026-04-16T22:53:23.722Z",
+      "updatedAt": "2026-08-25T07:17:39.369Z",
+      "slug": "sei",
+      "slugByLocale": {},
+      "draft": false,
+      "fieldData": {
+        "uyif37sfa": {
+          "type": "string",
+          "value": "0100",
+          "valueByLocale": {}
+        },
+        "H_U_qs0_i": {
+          "type": "string",
+          "value": "SEI",
+          "valueByLocale": {}
+        },
+        "PlVbPYM0f": {
+          "type": "string",
+          "value": "清",
+          "valueByLocale": {}
+        },
+        "yTPLiwXD7": {
+          "type": "boolean",
+          "value": true
+        },
+        "G4Eszy3w8": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "PXCNrt0ZqGWDknAjjjo7svK0Go.png",
+            "url": "/assets/PXCNrt0ZqGWDknAjjjo7svK0Go.png",
+            "thumbnailUrl": "/assets/PXCNrt0ZqGWDknAjjjo7svK0Go-585eabd3.png",
+            "altText": "Yellow Flower",
+            "resolution": "auto"
+          }
+        },
+        "TzS3L9MDr": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "vPwgYcoR7oIfmDxfC4PHMvDP4w.png",
+            "url": "/assets/vPwgYcoR7oIfmDxfC4PHMvDP4w.png",
+            "thumbnailUrl": "/assets/vPwgYcoR7oIfmDxfC4PHMvDP4w-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "s2wdf24mq": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "JgRh2Oy8yLhD6aVAbP7Inr1n1hI.png",
+            "url": "/assets/JgRh2Oy8yLhD6aVAbP7Inr1n1hI.png",
+            "thumbnailUrl": "/assets/JgRh2Oy8yLhD6aVAbP7Inr1n1hI-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "iNi1g_IgB": {
+          "type": "string",
+          "value": "An umami—forward matcha with rich texture and depth, originating from Uji, Kyoto. Sei uses Ujihikari, a rare and highly prized single cultivar, grown reed shaded and hand-picked.",
+          "valueByLocale": {}
+        },
+        "OhY1agdiY": {
+          "type": "string",
+          "value": "Matcha",
+          "valueByLocale": {}
+        },
+        "z3g5QSSRc": {
+          "type": "string",
+          "value": "Uji, Kyoto",
+          "valueByLocale": {}
+        },
+        "XB6QScmXw": {
+          "type": "string",
+          "value": "Ujihikari",
+          "valueByLocale": {}
+        },
+        "Jpy1idRSf": {
+          "type": "string",
+          "value": "White chocolate, fresh cream, young spinach",
+          "valueByLocale": {}
+        },
+        "jAiCkQSWM": {
+          "type": "string",
+          "value": "",
+          "valueByLocale": {}
+        },
+        "GDTDGgzZk": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">Type</p><p dir=\"auto\">Region</p><p dir=\"auto\">Cultivars</p>",
+          "valueByLocale": {}
+        },
+        "Z1Tm438ww": {
+          "type": "string",
+          "value": "1:2",
+          "valueByLocale": {}
+        },
+        "SWof_yYpW": {
+          "type": "number",
+          "value": 2.2
+        },
+        "iw5ZfTLoS": {
+          "type": "number",
+          "value": 4
+        },
+        "F7kRTB38S": {
+          "type": "number",
+          "value": 1.4
+        },
+        "JE4vuaDHN": {
+          "type": "formattedText",
+          "value": "<figure><table><tbody><tr><th><p dir=\"auto\">Type</p></th><th><p dir=\"auto\">Size</p></th><th><p dir=\"auto\">Price</p></th></tr><tr><th><p dir=\"auto\">Tins</p></th><td><p dir=\"auto\">40g</p></td><td><p dir=\"auto\">$48</p></td></tr><tr><th><p dir=\"auto\">Retail</p></th><td><p dir=\"auto\">1kg</p></td><td><p dir=\"auto\">$725</p></td></tr><tr><th><p dir=\"auto\">Wholesale</p></th><td><p dir=\"auto\">10kg</p></td><td><p dir=\"auto\">-</p></td></tr><tr><th><p dir=\"auto\">Bulk</p></th><td><p dir=\"auto\">50kg</p></td><td><p dir=\"auto\">-</p></td></tr></tbody></table></figure>",
+          "valueByLocale": {}
+        },
+        "nAAux52Ya": {
+          "type": "number",
+          "value": 36
+        },
+        "IkunJY3cP": {
+          "type": "number",
+          "value": 625
+        },
+        "y8KnnllXp": {
+          "type": "number",
+          "value": 550
+        },
+        "cqV3dVh7V": {
+          "type": "number",
+          "value": 0
+        },
+        "PHUGFzraW": {
+          "type": "number",
+          "value": 1
+        },
+        "qwqpZ_OPd": {
+          "type": "number",
+          "value": 1
+        },
+        "OD0a1zKIb": {
+          "type": "string",
+          "value": "Light",
+          "valueByLocale": {}
+        },
+        "atQN8ZhzM": {
+          "type": "number",
+          "value": 0
+        },
+        "YF9B8c1qu": {
+          "type": "enum",
+          "value": "Matcha"
+        }
+      }
+    },
+    {
+      "type": "CollectionItem",
+      "id": "chx2TfzT2",
+      "nodeId": "chx2TfzT2",
+      "createdAt": "2026-04-16T22:53:23.723Z",
+      "updatedAt": "2026-08-25T07:16:07.692Z",
+      "slug": "uji",
+      "slugByLocale": {},
+      "draft": false,
+      "fieldData": {
+        "uyif37sfa": {
+          "type": "string",
+          "value": "0110",
+          "valueByLocale": {}
+        },
+        "H_U_qs0_i": {
+          "type": "string",
+          "value": "UJI",
+          "valueByLocale": {}
+        },
+        "PlVbPYM0f": {
+          "type": "string",
+          "value": "宇治",
+          "valueByLocale": {}
+        },
+        "yTPLiwXD7": {
+          "type": "boolean",
+          "value": true
+        },
+        "G4Eszy3w8": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "N4hxhk52wSxyRYBi3Yne5oR78M.png",
+            "url": "/assets/N4hxhk52wSxyRYBi3Yne5oR78M.png",
+            "thumbnailUrl": "/assets/N4hxhk52wSxyRYBi3Yne5oR78M-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "TzS3L9MDr": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "xMzOPM3KvX6QgrmxGjiSjzfjPqI.png",
+            "url": "/assets/xMzOPM3KvX6QgrmxGjiSjzfjPqI.png",
+            "thumbnailUrl": "/assets/xMzOPM3KvX6QgrmxGjiSjzfjPqI-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "s2wdf24mq": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "d57ud6YJM9eXssOCF1xxYKyyIQ.png",
+            "url": "/assets/d57ud6YJM9eXssOCF1xxYKyyIQ.png",
+            "thumbnailUrl": "/assets/d57ud6YJM9eXssOCF1xxYKyyIQ-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "iNi1g_IgB": {
+          "type": "string",
+          "value": "Uji is the traditionalist expression. A rare cultivar paired with a classic, grown the way Uji matcha has always been made. Ujihikari survives on only a handful of farms today, kept alive by growers who refused to replace it with higher-yield varieties. Samidori brings the body, Ujihikari brings the depth — together they make a cup rooted in the region that defined matcha itself.",
+          "valueByLocale": {}
+        },
+        "OhY1agdiY": {
+          "type": "string",
+          "value": "Matcha",
+          "valueByLocale": {}
+        },
+        "z3g5QSSRc": {
+          "type": "string",
+          "value": "Uji, Kyoto",
+          "valueByLocale": {}
+        },
+        "XB6QScmXw": {
+          "type": "string",
+          "value": "Ujihikari, Samidori",
+          "valueByLocale": {}
+        },
+        "Jpy1idRSf": {
+          "type": "string",
+          "value": "Roasted chestnut, salted cream, butter lettuce",
+          "valueByLocale": {}
+        },
+        "jAiCkQSWM": {
+          "type": "string",
+          "value": "",
+          "valueByLocale": {}
+        },
+        "GDTDGgzZk": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">Type</p><p dir=\"auto\">Region</p><p dir=\"auto\">Cultivars</p>",
+          "valueByLocale": {}
+        },
+        "Z1Tm438ww": {
+          "type": "string",
+          "value": "1:3",
+          "valueByLocale": {}
+        },
+        "SWof_yYpW": {
+          "type": "number",
+          "value": 2.2
+        },
+        "iw5ZfTLoS": {
+          "type": "number",
+          "value": 4
+        },
+        "F7kRTB38S": {
+          "type": "number",
+          "value": 1.4
+        },
+        "JE4vuaDHN": {
+          "type": "formattedText",
+          "value": "<figure><table><tbody><tr><th><p dir=\"auto\">Type</p></th><th><p dir=\"auto\">Size</p></th><th><p dir=\"auto\">Price</p></th></tr><tr><th><p dir=\"auto\">Tins</p></th><td><p dir=\"auto\">40g</p></td><td><p dir=\"auto\">$24</p></td></tr><tr><th><p dir=\"auto\">Retail</p></th><td><p dir=\"auto\">1kg</p></td><td><p dir=\"auto\">$525</p></td></tr><tr><th><p dir=\"auto\">Wholesale</p></th><td><p dir=\"auto\">10kg</p></td><td><p dir=\"auto\">$420</p></td></tr><tr><th><p dir=\"auto\">Bulk</p></th><td><p dir=\"auto\">50kg</p></td><td><p dir=\"auto\">$350</p></td></tr></tbody></table></figure>",
+          "valueByLocale": {}
+        },
+        "nAAux52Ya": {
+          "type": "number",
+          "value": 24
+        },
+        "IkunJY3cP": {
+          "type": "number",
+          "value": 475
+        },
+        "y8KnnllXp": {
+          "type": "number",
+          "value": 400
+        },
+        "cqV3dVh7V": {
+          "type": "number",
+          "value": 350
+        },
+        "PHUGFzraW": {
+          "type": "number",
+          "value": 1
+        },
+        "qwqpZ_OPd": {
+          "type": "number",
+          "value": 1
+        },
+        "OD0a1zKIb": {
+          "type": "string",
+          "value": "Light",
+          "valueByLocale": {}
+        },
+        "atQN8ZhzM": {
+          "type": "number",
+          "value": 0
+        },
+        "YF9B8c1qu": {
+          "type": "enum",
+          "value": "Matcha"
+        }
+      }
+    },
+    {
+      "type": "CollectionItem",
+      "id": "bivOS3tst",
+      "nodeId": "bivOS3tst",
+      "createdAt": "2026-04-16T22:53:23.722Z",
+      "updatedAt": "2026-08-25T07:16:10.959Z",
+      "slug": "kyo",
+      "slugByLocale": {},
+      "draft": false,
+      "fieldData": {
+        "uyif37sfa": {
+          "type": "string",
+          "value": "0120",
+          "valueByLocale": {}
+        },
+        "H_U_qs0_i": {
+          "type": "string",
+          "value": "KYO",
+          "valueByLocale": {}
+        },
+        "PlVbPYM0f": {
+          "type": "string",
+          "value": "京",
+          "valueByLocale": {}
+        },
+        "yTPLiwXD7": {
+          "type": "boolean",
+          "value": true
+        },
+        "G4Eszy3w8": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "OVpNrJtezdAAtNBs4G2RNVR6oas.png",
+            "url": "/assets/OVpNrJtezdAAtNBs4G2RNVR6oas.png",
+            "thumbnailUrl": "/assets/OVpNrJtezdAAtNBs4G2RNVR6oas-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "TzS3L9MDr": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "d0KWWRvzhrVXhsdwanYaag7B3Ao.png",
+            "url": "/assets/d0KWWRvzhrVXhsdwanYaag7B3Ao.png",
+            "thumbnailUrl": "/assets/d0KWWRvzhrVXhsdwanYaag7B3Ao-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "s2wdf24mq": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "GOd3pacmmcLhmk4iTybKW7KoeqM.png",
+            "url": "/assets/GOd3pacmmcLhmk4iTybKW7KoeqM.png",
+            "thumbnailUrl": "/assets/GOd3pacmmcLhmk4iTybKW7KoeqM-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "iNi1g_IgB": {
+          "type": "string",
+          "value": "A refined matcha for everyday ceremony. Bright green with a clean, crisp profile. This season presents a refreshing lightness — mild vegetal bitterness balanced by natural sweetness and a smooth, even texture. The finish is short and clean, while the aroma carries bright grassy notes.",
+          "valueByLocale": {}
+        },
+        "OhY1agdiY": {
+          "type": "string",
+          "value": "Matcha",
+          "valueByLocale": {}
+        },
+        "z3g5QSSRc": {
+          "type": "string",
+          "value": "Uji, Kyoto",
+          "valueByLocale": {}
+        },
+        "XB6QScmXw": {
+          "type": "string",
+          "value": "Ujihikari, Samidori",
+          "valueByLocale": {}
+        },
+        "Jpy1idRSf": {
+          "type": "string",
+          "value": "Chestnut, sweet cream, steamed greens",
+          "valueByLocale": {}
+        },
+        "jAiCkQSWM": {
+          "type": "string",
+          "value": "",
+          "valueByLocale": {}
+        },
+        "GDTDGgzZk": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\"><br class=\"trailing-break\"></p>",
+          "valueByLocale": {}
+        },
+        "Z1Tm438ww": {
+          "type": "string",
+          "value": "1:3",
+          "valueByLocale": {}
+        },
+        "SWof_yYpW": {
+          "type": "number",
+          "value": 2
+        },
+        "iw5ZfTLoS": {
+          "type": "number",
+          "value": 5
+        },
+        "F7kRTB38S": {
+          "type": "number",
+          "value": 1.2
+        },
+        "JE4vuaDHN": {
+          "type": "formattedText",
+          "value": "<figure><table><tbody><tr><th><p dir=\"auto\">Type</p></th><th><p dir=\"auto\">Size</p></th><th><p dir=\"auto\">Price</p></th></tr><tr><th><p dir=\"auto\">Tins</p></th><td><p dir=\"auto\">40g</p></td><td><p dir=\"auto\">$20</p></td></tr><tr><th><p dir=\"auto\">Retail</p></th><td><p dir=\"auto\">1kg</p></td><td><p dir=\"auto\">$375</p></td></tr><tr><th><p dir=\"auto\">Wholesale</p></th><td><p dir=\"auto\">10kg</p></td><td><p dir=\"auto\">$300</p></td></tr><tr><th><p dir=\"auto\">Bulk</p></th><td><p dir=\"auto\">50kg</p></td><td><p dir=\"auto\">$250</p></td></tr></tbody></table></figure>",
+          "valueByLocale": {}
+        },
+        "nAAux52Ya": {
+          "type": "number",
+          "value": 19
+        },
+        "IkunJY3cP": {
+          "type": "number",
+          "value": 375
+        },
+        "y8KnnllXp": {
+          "type": "number",
+          "value": 300
+        },
+        "cqV3dVh7V": {
+          "type": "number",
+          "value": 250
+        },
+        "PHUGFzraW": {
+          "type": "number",
+          "value": 1
+        },
+        "qwqpZ_OPd": {
+          "type": "number",
+          "value": 1
+        },
+        "OD0a1zKIb": {
+          "type": "string",
+          "value": "Light",
+          "valueByLocale": {}
+        },
+        "atQN8ZhzM": {
+          "type": "number",
+          "value": 0
+        },
+        "YF9B8c1qu": {
+          "type": "enum",
+          "value": "Matcha"
+        }
+      }
+    },
+    {
+      "type": "CollectionItem",
+      "id": "zpYJS4OXk",
+      "nodeId": "zpYJS4OXk",
+      "createdAt": "2026-04-16T22:53:23.723Z",
+      "updatedAt": "2026-08-18T07:40:14.524Z",
+      "slug": "en",
+      "slugByLocale": {},
+      "draft": false,
+      "fieldData": {
+        "uyif37sfa": {
+          "type": "string",
+          "value": "0130",
+          "valueByLocale": {}
+        },
+        "H_U_qs0_i": {
+          "type": "string",
+          "value": "EN",
+          "valueByLocale": {}
+        },
+        "PlVbPYM0f": {
+          "type": "string",
+          "value": "園",
+          "valueByLocale": {}
+        },
+        "yTPLiwXD7": {
+          "type": "boolean",
+          "value": false
+        },
+        "G4Eszy3w8": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "YdDTUeioM2HY0CjINWFszaSWs.png",
+            "url": "/assets/YdDTUeioM2HY0CjINWFszaSWs.png",
+            "thumbnailUrl": "/assets/YdDTUeioM2HY0CjINWFszaSWs-585eabd3.png",
+            "altText": "Purple Flower",
+            "resolution": "auto"
+          }
+        },
+        "TzS3L9MDr": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "4U8MmQAKG2jBVcujNOGsIGAl4P8.webp",
+            "url": "/assets/4U8MmQAKG2jBVcujNOGsIGAl4P8.webp",
+            "thumbnailUrl": "/assets/4U8MmQAKG2jBVcujNOGsIGAl4P8-585eabd3.webp",
+            "resolution": "auto"
+          }
+        },
+        "s2wdf24mq": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "M8F57H8aWIJxOYlK6amWoCVwZa0.png",
+            "url": "/assets/M8F57H8aWIJxOYlK6amWoCVwZa0.png",
+            "thumbnailUrl": "/assets/M8F57H8aWIJxOYlK6amWoCVwZa0-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "iNi1g_IgB": {
+          "type": "string",
+          "value": "A blended matcha balancing first and second flush leaf. Okumidori contributes deep umami and mineral salinity; Saemidori adds natural sweetness and body. The cup is clean, savory-forward, with a rounded finish. Soft green powder with fine particle structure. Straightforward, balanced, approachable for daily use.",
+          "valueByLocale": {}
+        },
+        "OhY1agdiY": {
+          "type": "string",
+          "value": "Matcha",
+          "valueByLocale": {}
+        },
+        "z3g5QSSRc": {
+          "type": "string",
+          "value": "Shizuoka",
+          "valueByLocale": {}
+        },
+        "XB6QScmXw": {
+          "type": "string",
+          "value": "Saemidori, Okumidori ",
+          "valueByLocale": {}
+        },
+        "Jpy1idRSf": {
+          "type": "string",
+          "value": "Steamed edamame, sea salt, honeydew",
+          "valueByLocale": {}
+        },
+        "jAiCkQSWM": {
+          "type": "string",
+          "value": "",
+          "valueByLocale": {}
+        },
+        "GDTDGgzZk": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">Type</p><p dir=\"auto\">Region</p><p dir=\"auto\">Cultivars</p>",
+          "valueByLocale": {}
+        },
+        "Z1Tm438ww": {
+          "type": "string",
+          "value": "1:2",
+          "valueByLocale": {}
+        },
+        "SWof_yYpW": {
+          "type": "number",
+          "value": 1.8
+        },
+        "iw5ZfTLoS": {
+          "type": "number",
+          "value": 5
+        },
+        "F7kRTB38S": {
+          "type": "number",
+          "value": 1
+        },
+        "JE4vuaDHN": {
+          "type": "formattedText",
+          "value": "<figure><table><tbody><tr><th><p dir=\"auto\">Type</p></th><th><p dir=\"auto\">Size</p></th><th><p dir=\"auto\">Price</p></th></tr><tr><th><p dir=\"auto\">Tins</p></th><td><p dir=\"auto\">40g</p></td><td><p dir=\"auto\">$0</p></td></tr><tr><th><p dir=\"auto\">Retail</p></th><td><p dir=\"auto\">1kg</p></td><td><p dir=\"auto\">$0</p></td></tr><tr><th><p dir=\"auto\">Wholesale</p></th><td><p dir=\"auto\">10kg</p></td><td><p dir=\"auto\">$0</p></td></tr><tr><th><p dir=\"auto\">Bulk</p></th><td><p dir=\"auto\">50kg</p></td><td><p dir=\"auto\">$0</p></td></tr></tbody></table></figure>",
+          "valueByLocale": {}
+        },
+        "nAAux52Ya": {
+          "type": "number",
+          "value": 0
+        },
+        "IkunJY3cP": {
+          "type": "number",
+          "value": 0
+        },
+        "y8KnnllXp": {
+          "type": "number",
+          "value": 0
+        },
+        "cqV3dVh7V": {
+          "type": "number",
+          "value": 0
+        },
+        "PHUGFzraW": {
+          "type": "number",
+          "value": 1
+        },
+        "qwqpZ_OPd": {
+          "type": "number",
+          "value": 1
+        },
+        "OD0a1zKIb": {
+          "type": "string",
+          "value": "Light",
+          "valueByLocale": {}
+        },
+        "atQN8ZhzM": {
+          "type": "number",
+          "value": 0
+        },
+        "YF9B8c1qu": {
+          "type": "enum",
+          "value": "Matcha"
+        }
+      }
+    },
+    {
+      "type": "CollectionItem",
+      "id": "F38WzkVlR",
+      "nodeId": "F38WzkVlR",
+      "createdAt": "2026-04-16T22:53:23.723Z",
+      "updatedAt": "2026-09-21T03:05:00.695Z",
+      "slug": "rei",
+      "slugByLocale": {},
+      "draft": false,
+      "fieldData": {
+        "uyif37sfa": {
+          "type": "string",
+          "value": "0200",
+          "valueByLocale": {}
+        },
+        "H_U_qs0_i": {
+          "type": "string",
+          "value": "REI",
+          "valueByLocale": {}
+        },
+        "PlVbPYM0f": {
+          "type": "string",
+          "value": "凛",
+          "valueByLocale": {}
+        },
+        "yTPLiwXD7": {
+          "type": "boolean",
+          "value": true
+        },
+        "G4Eszy3w8": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "y4hLlF9lkUcRdvAV1N9vbwTduY.png",
+            "url": "/assets/y4hLlF9lkUcRdvAV1N9vbwTduY.png",
+            "thumbnailUrl": "/assets/y4hLlF9lkUcRdvAV1N9vbwTduY-585eabd3.png",
+            "altText": "Lilac Flower",
+            "resolution": "auto"
+          }
+        },
+        "TzS3L9MDr": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "7MgueOC2xxsLs6rl2DE8PbfXM.png",
+            "url": "/assets/7MgueOC2xxsLs6rl2DE8PbfXM.png",
+            "thumbnailUrl": "/assets/7MgueOC2xxsLs6rl2DE8PbfXM-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "s2wdf24mq": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "AWeZLxc820XLX7ETb07A5STAg.jpg",
+            "url": "/assets/AWeZLxc820XLX7ETb07A5STAg.jpg",
+            "thumbnailUrl": "/assets/AWeZLxc820XLX7ETb07A5STAg-585eabd3.jpg",
+            "resolution": "auto"
+          }
+        },
+        "iNi1g_IgB": {
+          "type": "string",
+          "value": "Stem-only hōjicha from Kaga, Ishikawa — the region recognized as the origin of this style, where roasting stem tea became a defining craft. Made exclusively from miruibo, the youngest, softest stems pulled from the first harvest. These aren't grown on purpose; they're the finest fraction sorted out from the leaf harvest itself, which is what makes them rare. ",
+          "valueByLocale": {}
+        },
+        "OhY1agdiY": {
+          "type": "string",
+          "value": "Hojicha",
+          "valueByLocale": {}
+        },
+        "z3g5QSSRc": {
+          "type": "string",
+          "value": "Kaga",
+          "valueByLocale": {}
+        },
+        "XB6QScmXw": {
+          "type": "string",
+          "value": "Yabukita",
+          "valueByLocale": {}
+        },
+        "Jpy1idRSf": {
+          "type": "string",
+          "value": "Roasted barley, dried pear, white peach, light caramel, fresh straw",
+          "valueByLocale": {}
+        },
+        "jAiCkQSWM": {
+          "type": "string",
+          "value": "Light",
+          "valueByLocale": {}
+        },
+        "GDTDGgzZk": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\"><br class=\"trailing-break\"></p>",
+          "valueByLocale": {}
+        },
+        "Z1Tm438ww": {
+          "type": "string",
+          "value": "",
+          "valueByLocale": {}
+        },
+        "SWof_yYpW": {
+          "type": "number",
+          "value": 0
+        },
+        "iw5ZfTLoS": {
+          "type": "number",
+          "value": 0
+        },
+        "F7kRTB38S": {
+          "type": "number",
+          "value": 0.4
+        },
+        "JE4vuaDHN": {
+          "type": "formattedText",
+          "value": "<figure><table><tbody><tr><th><p dir=\"auto\">Type</p></th><th><p dir=\"auto\">Size</p></th><th><p dir=\"auto\">Price</p></th></tr><tr><th><p dir=\"auto\">Tins</p></th><td><p dir=\"auto\">40g</p></td><td><p dir=\"auto\">$13</p></td></tr><tr><th><p dir=\"auto\">Retail</p></th><td><p dir=\"auto\">1kg</p></td><td><p dir=\"auto\">$275</p></td></tr><tr><th><p dir=\"auto\">Wholesale</p></th><td><p dir=\"auto\">10kg</p></td><td><p dir=\"auto\">$230</p></td></tr><tr><th><p dir=\"auto\">Bulk</p></th><td><p dir=\"auto\">50kg</p></td><td><p dir=\"auto\">$200</p></td></tr></tbody></table></figure>",
+          "valueByLocale": {}
+        },
+        "nAAux52Ya": {
+          "type": "number",
+          "value": 13
+        },
+        "IkunJY3cP": {
+          "type": "number",
+          "value": 275
+        },
+        "y8KnnllXp": {
+          "type": "number",
+          "value": 230
+        },
+        "cqV3dVh7V": {
+          "type": "number",
+          "value": 200
+        },
+        "PHUGFzraW": {
+          "type": "number",
+          "value": 2
+        },
+        "qwqpZ_OPd": {
+          "type": "number",
+          "value": 2
+        },
+        "OD0a1zKIb": {
+          "type": "string",
+          "value": "280 μg/kg (pyrazines)",
+          "valueByLocale": {}
+        },
+        "atQN8ZhzM": {
+          "type": "number",
+          "value": 30
+        },
+        "YF9B8c1qu": {
+          "type": "enum",
+          "value": "Hojicha"
+        }
+      }
+    },
+    {
+      "type": "CollectionItem",
+      "id": "vnvp_PAHN",
+      "nodeId": "vnvp_PAHN",
+      "createdAt": "2026-04-16T22:53:23.723Z",
+      "updatedAt": "2026-09-21T03:05:02.129Z",
+      "slug": "ko",
+      "slugByLocale": {},
+      "draft": false,
+      "fieldData": {
+        "uyif37sfa": {
+          "type": "string",
+          "value": "0210",
+          "valueByLocale": {}
+        },
+        "H_U_qs0_i": {
+          "type": "string",
+          "value": "KO",
+          "valueByLocale": {}
+        },
+        "PlVbPYM0f": {
+          "type": "string",
+          "value": "琥",
+          "valueByLocale": {}
+        },
+        "yTPLiwXD7": {
+          "type": "boolean",
+          "value": true
+        },
+        "G4Eszy3w8": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "HhzOqc1VDhcmehInxE4FcKGhqdo.png",
+            "url": "/assets/HhzOqc1VDhcmehInxE4FcKGhqdo.png",
+            "thumbnailUrl": "/assets/HhzOqc1VDhcmehInxE4FcKGhqdo-585eabd3.png",
+            "altText": "Lilac Flower",
+            "resolution": "auto"
+          }
+        },
+        "TzS3L9MDr": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "7xDBKdB24j0nGXHQCj1kW1315Q.png",
+            "url": "/assets/7xDBKdB24j0nGXHQCj1kW1315Q.png",
+            "thumbnailUrl": "/assets/7xDBKdB24j0nGXHQCj1kW1315Q-585eabd3.png",
+            "resolution": "auto"
+          }
+        },
+        "s2wdf24mq": {
+          "type": "image",
+          "value": {
+            "type": "ImageAsset",
+            "id": "33jpzIVGcwb7XGNYgt7eRrbWdM.jpg",
+            "url": "/assets/33jpzIVGcwb7XGNYgt7eRrbWdM.jpg",
+            "thumbnailUrl": "/assets/33jpzIVGcwb7XGNYgt7eRrbWdM-585eabd3.jpg",
+            "resolution": "auto"
+          }
+        },
+        "iNi1g_IgB": {
+          "type": "string",
+          "value": "This batch shows Yabukita's clean backbone under medium roast—caramelized grain depth with layered sweetness. The roast is deliberate: warm chestnut and caramel dominance, subtle chocolate undertone, no char. Pandan and hay aromatics come through in the finish. Amber liquor, full body, structured extraction. Traditional Kyoto hojicha with weight and precision.",
+          "valueByLocale": {}
+        },
+        "OhY1agdiY": {
+          "type": "string",
+          "value": "Hojicha",
+          "valueByLocale": {}
+        },
+        "z3g5QSSRc": {
+          "type": "string",
+          "value": "Kyoto",
+          "valueByLocale": {}
+        },
+        "XB6QScmXw": {
+          "type": "string",
+          "value": "Yabukita",
+          "valueByLocale": {}
+        },
+        "Jpy1idRSf": {
+          "type": "string",
+          "value": "Toasted chestnut, caramel, subtle chocolate, pandan, hay",
+          "valueByLocale": {}
+        },
+        "jAiCkQSWM": {
+          "type": "string",
+          "value": "Medium",
+          "valueByLocale": {}
+        },
+        "GDTDGgzZk": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">Type</p><p dir=\"auto\">Region</p><p dir=\"auto\">Cultivars</p><p dir=\"auto\">Roast</p>",
+          "valueByLocale": {}
+        },
+        "Z1Tm438ww": {
+          "type": "string",
+          "value": "",
+          "valueByLocale": {}
+        },
+        "SWof_yYpW": {
+          "type": "number",
+          "value": 0
+        },
+        "iw5ZfTLoS": {
+          "type": "number",
+          "value": 0
+        },
+        "F7kRTB38S": {
+          "type": "number",
+          "value": 0.4
+        },
+        "JE4vuaDHN": {
+          "type": "formattedText",
+          "value": "<figure><table><tbody><tr><th><p dir=\"auto\">Type</p></th><th><p dir=\"auto\">Size</p></th><th><p dir=\"auto\">Price</p></th></tr><tr><th><p dir=\"auto\">Tins</p></th><td><p dir=\"auto\">40g</p></td><td><p dir=\"auto\">$10</p></td></tr><tr><th><p dir=\"auto\">Retail</p></th><td><p dir=\"auto\">1kg</p></td><td><p dir=\"auto\">$180</p></td></tr><tr><th><p dir=\"auto\">Wholesale</p></th><td><p dir=\"auto\">10kg</p></td><td><p dir=\"auto\">$150</p></td></tr><tr><th><p dir=\"auto\">Bulk</p></th><td><p dir=\"auto\">50kg</p></td><td><p dir=\"auto\">$125</p></td></tr></tbody></table></figure>",
+          "valueByLocale": {}
+        },
+        "nAAux52Ya": {
+          "type": "number",
+          "value": 10
+        },
+        "IkunJY3cP": {
+          "type": "number",
+          "value": 180
+        },
+        "y8KnnllXp": {
+          "type": "number",
+          "value": 150
+        },
+        "cqV3dVh7V": {
+          "type": "number",
+          "value": 125
+        },
+        "PHUGFzraW": {
+          "type": "number",
+          "value": 4
+        },
+        "qwqpZ_OPd": {
+          "type": "number",
+          "value": 4
+        },
+        "OD0a1zKIb": {
+          "type": "string",
+          "value": "480 μg/kg (pyrazines)",
+          "valueByLocale": {}
+        },
+        "atQN8ZhzM": {
+          "type": "number",
+          "value": 42
+        },
+        "YF9B8c1qu": {
+          "type": "enum",
+          "value": "Hojicha"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "type": "WebPageNode",
+  "id": "Oabttzv9w",
+  "originalId": null,
+  "__class": "WebPageNode",
+  "path": "/page",
+  "collectionId": null,
+  "draft": true,
+  "isReplica": false,
+  "children": [
+    {
+      "type": "FrameNode",
+      "id": "qC6MyD6ag",
+      "originalId": null,
+      "__class": "FrameNode",
+      "name": "Desktop",
+      "visible": true,
+      "locked": false,
+      "backgroundColor": {
+        "type": "ColorStyle",
+        "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
+        "name": "FFF –– 000",
+        "path": "/FFF –– 000",
+        "light": "rgb(255, 255, 255)",
+        "dark": "rgb(0, 0, 0)"
+      },
+      "backgroundImage": null,
+      "backgroundGradient": null,
+      "rotation": 0,
+      "opacity": 1,
+      "borderRadius": null,
+      "border": null,
+      "imageRendering": null,
+      "position": "absolute",
+      "top": "0px",
+      "right": null,
+      "bottom": null,
+      "left": "0px",
+      "centerX": null,
+      "centerY": null,
+      "width": "1200px",
+      "height": "1080px",
+      "maxWidth": null,
+      "minWidth": null,
+      "maxHeight": null,
+      "minHeight": null,
+      "aspectRatio": null,
+      "zIndex": null,
+      "link": null,
+      "linkOpenInNewTab": null,
+      "linkSmoothScroll": null,
+      "linkClickTrackingId": null,
+      "linkRelValues": null,
+      "linkPreserveParams": null,
+      "overflow": "clip",
+      "overflowX": null,
+      "overflowY": null,
+      "layout": "stack",
+      "gap": "0px",
+      "padding": "0px",
+      "stackDirection": "vertical",
+      "stackDistribution": "start",
+      "stackAlignment": "center",
+      "stackWrapEnabled": null,
+      "gridColumnCount": null,
+      "gridRowCount": null,
+      "gridAlignment": null,
+      "gridColumnWidthType": null,
+      "gridColumnWidth": null,
+      "gridColumnMinWidth": null,
+      "gridRowHeightType": null,
+      "gridRowHeight": null,
+      "gridItemFillCellWidth": null,
+      "gridItemFillCellHeight": null,
+      "gridItemHorizontalAlignment": null,
+      "gridItemVerticalAlignment": null,
+      "gridItemColumnSpan": null,
+      "gridItemRowSpan": null,
+      "isVariant": true,
+      "isPrimaryVariant": true,
+      "isBreakpoint": true,
+      "isPrimaryBreakpoint": true,
+      "inheritsFromId": null,
+      "gesture": null,
+      "isReplica": false,
+      "children": [
+        {
+          "type": "ComponentInstanceNode",
+          "id": "R4SSrSjvP",
+          "originalId": null,
+          "__class": "ComponentInstanceNode",
+          "name": "Cart (New) 2",
+          "visible": true,
+          "locked": false,
+          "componentIdentifier": "local-module:canvasComponent/DtEaXMYuI:default",
+          "insertURL": "https://studio.com/m/Cart-New-2-DvnYsS.js@e77lKaiRmeHgIrNGCTAX",
+          "componentName": "Cart (New) 2",
+          "controls": {
+            "variant": "ZIZ4akPsf",
+            "pTwtQp4Ev": 0,
+            "x9OyERGLN": 0
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "position": "absolute",
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "left": null,
+          "centerX": "0%",
+          "centerY": "0%",
+          "width": "1180px",
+          "height": "fit-content",
+          "maxWidth": null,
+          "minWidth": null,
+          "maxHeight": null,
+          "minHeight": null,
+          "aspectRatio": null,
+          "typedControls": {
+            "variant": {
+              "type": "enum",
+              "key": "variant",
+              "title": "Variant",
+              "options": [
+                {
+                  "id": "ZIZ4akPsf",
+                  "title": "Variant 1"
+                },
+                {
+                  "id": "UZNIzwVrW",
+                  "title": "Variant 2"
+                }
+              ],
+              "value": "ZIZ4akPsf"
+            },
+            "pTwtQp4Ev": {
+              "type": "number",
+              "key": "pTwtQp4Ev",
+              "title": "Total",
+              "value": 0
+            },
+            "x9OyERGLN": {
+              "type": "number",
+              "key": "x9OyERGLN",
+              "title": "Total Count",
+              "value": 0
+            },
+            "xMWHdDeJG": {
+              "type": "multiCollectionReference",
+              "key": "xMWHdDeJG",
+              "title": "In Cart",
+              "value": []
+            }
+          },
+          "isReplica": false,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

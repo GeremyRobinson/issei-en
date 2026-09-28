@@ -1,0 +1,106 @@
+[
+  {
+    "type": "ColorStyle",
+    "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
+    "name": "FFF –– 000",
+    "path": "/FFF –– 000",
+    "light": "rgb(255, 255, 255)",
+    "dark": "rgb(0, 0, 0)"
+  },
+  {
+    "type": "ColorStyle",
+    "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
+    "name": "000 –– FFF",
+    "path": "/000 –– FFF",
+    "light": "rgb(0, 0, 0)",
+    "dark": "rgb(255, 255, 255)"
+  },
+  {
+    "type": "ColorStyle",
+    "id": "6e13f57c-5a1d-4794-84fd-093a6d3dbc59",
+    "name": "EEE –– 222",
+    "path": "/EEE –– 222",
+    "light": "rgb(238, 238, 238)",
+    "dark": "rgb(34, 34, 34)"
+  },
+  {
+    "type": "ColorStyle",
+    "id": "680117b8-f2b4-4f63-8f60-6f0ee14fc839",
+    "name": "90%",
+    "path": "/90%",
+    "light": "rgba(255, 255, 255, 0.9)",
+    "dark": "rgba(0, 0, 0, 0.9)"
+  },
+  {
+    "type": "ColorStyle",
+    "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
+    "name": "FFF",
+    "path": "/FFF",
+    "light": "rgb(255, 255, 255)",
+    "dark": null
+  },
+  {
+    "type": "ColorStyle",
+    "id": "24c5756a-dfc0-4c9c-a30b-e8560f88fc2a",
+    "name": "50%",
+    "path": "/50%",
+    "light": "rgba(255, 255, 255, 0.5)",
+    "dark": "rgba(0, 0, 0, 0.5)"
+  },
+  {
+    "type": "ColorStyle",
+    "id": "811c3903-b4d4-45b6-ab6b-fe22327291e3",
+    "name": "CCC –– 333",
+    "path": "/CCC –– 333",
+    "light": "rgb(204, 204, 204)",
+    "dark": "rgb(51, 51, 51)"
+  },
+  {
+    "type": "ColorStyle",
+    "id": "2d06ea6e-c801-49eb-896e-d32bc61fefb7",
+    "name": "1",
+    "path": "/1",
+    "light": "rgb(205, 226, 166)",
+    "dark": null
+  },
+  {
+    "type": "ColorStyle",
+    "id": "777819d4-6ffa-440c-a271-3fdcfd86b61e",
+    "name": "2",
+    "path": "/2",
+    "light": "rgb(168, 207, 105)",
+    "dark": null
+  },
+  {
+    "type": "ColorStyle",
+    "id": "8f5c1690-5df4-4c68-a19c-2408920465ff",
+    "name": "3",
+    "path": "/3",
+    "light": "rgb(125, 188, 68)",
+    "dark": null
+  },
+  {
+    "type": "ColorStyle",
+    "id": "cc3ccc99-b92f-4d82-8f31-4ab3b79128f0",
+    "name": "4",
+    "path": "/4",
+    "light": "rgb(49, 143, 42)",
+    "dark": null
+  },
+  {
+    "type": "ColorStyle",
+    "id": "49885d84-19c6-45de-8d4c-e693cd6a4bb5",
+    "name": "5",
+    "path": "/5",
+    "light": "rgb(42, 128, 34)",
+    "dark": null
+  },
+  {
+    "type": "ColorStyle",
+    "id": "15140e0e-8fa6-4e58-89bf-3241086aab0c",
+    "name": "6",
+    "path": "/6",
+    "light": "rgb(20, 100, 31)",
+    "dark": null
+  }
+]
