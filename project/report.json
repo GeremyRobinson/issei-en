@@ -1,8 +1,13 @@
 {
   "files": 90,
   "nodes": 1160,
+  "reads": {
+    "getText": 24,
+    "getHTML failed": 467,
+    "getText failed": 443
+  },
   "failures": [
-    "TextNode.getHTML: Invalid method: INTERNAL_getHTMLForNode",
-    "TextNode.getText: Node is not a text node"
+    "TextNode.getHTML on uHLm1ega0 (replica: false): Invalid method: INTERNAL_getHTMLForNode",
+    "TextNode.getText on Ill1MYka2 (replica: false): Node is not a text node"
   ]
 }
