@@ -990,12 +990,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0100",
-                                    "ez4NVJZ9J": "Sei",
-                                    "jSAb6Ntmr": "/index/sei"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -1012,30 +1008,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0100"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Sei"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "bgZeI2WBT"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": false,
                                   "children": []
                                 },
@@ -1049,12 +1022,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0110",
-                                    "ez4NVJZ9J": "Uji",
-                                    "jSAb6Ntmr": "/index/uji"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -1071,30 +1040,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0110"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Uji"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "chx2TfzT2"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": false,
                                   "children": []
                                 },
@@ -1108,12 +1054,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0120",
-                                    "ez4NVJZ9J": "Kyō",
-                                    "jSAb6Ntmr": "/index/kyo"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -1130,30 +1072,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0120"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Kyō"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "bivOS3tst"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": false,
                                   "children": []
                                 },
@@ -1167,12 +1086,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0130",
-                                    "ez4NVJZ9J": "En",
-                                    "jSAb6Ntmr": "/index/en"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -1189,30 +1104,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0130"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "En"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "zpYJS4OXk"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": false,
                                   "children": []
                                 },
@@ -1226,12 +1118,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0200",
-                                    "ez4NVJZ9J": "Rei",
-                                    "jSAb6Ntmr": "/index/rei"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -1248,30 +1136,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0200"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Rei"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "F38WzkVlR"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": false,
                                   "children": []
                                 },
@@ -1285,12 +1150,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0210",
-                                    "ez4NVJZ9J": "Ko",
-                                    "jSAb6Ntmr": "/index/ko"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -1307,30 +1168,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0210"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Ko"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "vnvp_PAHN"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": false,
                                   "children": []
                                 }
@@ -2642,12 +2480,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0100",
-                                    "ez4NVJZ9J": "Sei",
-                                    "jSAb6Ntmr": "/index/sei"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -2664,30 +2498,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0100"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Sei"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "bgZeI2WBT"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -2701,12 +2512,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0110",
-                                    "ez4NVJZ9J": "Uji",
-                                    "jSAb6Ntmr": "/index/uji"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -2723,30 +2530,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0110"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Uji"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "chx2TfzT2"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -2760,12 +2544,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0120",
-                                    "ez4NVJZ9J": "Kyō",
-                                    "jSAb6Ntmr": "/index/kyo"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -2782,30 +2562,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0120"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Kyō"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "bivOS3tst"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -2819,12 +2576,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0130",
-                                    "ez4NVJZ9J": "En",
-                                    "jSAb6Ntmr": "/index/en"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -2841,30 +2594,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0130"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "En"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "zpYJS4OXk"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -2878,12 +2608,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0200",
-                                    "ez4NVJZ9J": "Rei",
-                                    "jSAb6Ntmr": "/index/rei"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -2900,30 +2626,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0200"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Rei"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "F38WzkVlR"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -2937,12 +2640,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0210",
-                                    "ez4NVJZ9J": "Ko",
-                                    "jSAb6Ntmr": "/index/ko"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -2959,30 +2658,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0210"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Ko"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "vnvp_PAHN"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 }
@@ -4294,12 +3970,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0100",
-                                    "ez4NVJZ9J": "Sei",
-                                    "jSAb6Ntmr": "/index/sei"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -4316,30 +3988,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0100"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Sei"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "bgZeI2WBT"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -4353,12 +4002,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0110",
-                                    "ez4NVJZ9J": "Uji",
-                                    "jSAb6Ntmr": "/index/uji"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -4375,30 +4020,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0110"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Uji"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "chx2TfzT2"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -4412,12 +4034,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0120",
-                                    "ez4NVJZ9J": "Kyō",
-                                    "jSAb6Ntmr": "/index/kyo"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -4434,30 +4052,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0120"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Kyō"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "bivOS3tst"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -4471,12 +4066,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0130",
-                                    "ez4NVJZ9J": "En",
-                                    "jSAb6Ntmr": "/index/en"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -4493,30 +4084,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0130"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "En"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "zpYJS4OXk"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -4530,12 +4098,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0200",
-                                    "ez4NVJZ9J": "Rei",
-                                    "jSAb6Ntmr": "/index/rei"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -4552,30 +4116,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0200"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Rei"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "F38WzkVlR"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 },
@@ -4589,12 +4130,8 @@
                                   "locked": false,
                                   "componentIdentifier": "local-module:canvasComponent/sBHKtbExm:default",
                                   "insertURL": "https://studio.com/m/Button-aP8aWB.js@d1aLrXpcHsCI5kvHykKX",
-                                  "componentName": "Button",
-                                  "controls": {
-                                    "A8XD4NSWt": "0210",
-                                    "ez4NVJZ9J": "Ko",
-                                    "jSAb6Ntmr": "/index/ko"
-                                  },
+                                  "componentName": null,
+                                  "controls": {},
                                   "rotation": 0,
                                   "opacity": 1,
                                   "position": "absolute",
@@ -4611,30 +4148,7 @@
                                   "maxHeight": null,
                                   "minHeight": null,
                                   "aspectRatio": null,
-                                  "typedControls": {
-                                    "A8XD4NSWt": {
-                                      "type": "string",
-                                      "key": "A8XD4NSWt",
-                                      "title": "Code",
-                                      "value": "0210"
-                                    },
-                                    "ez4NVJZ9J": {
-                                      "type": "string",
-                                      "key": "ez4NVJZ9J",
-                                      "title": "Item",
-                                      "value": "Ko"
-                                    },
-                                    "jSAb6Ntmr": {
-                                      "type": "link",
-                                      "key": "jSAb6Ntmr",
-                                      "title": "Link",
-                                      "value": {
-                                        "type": "webPage",
-                                        "webPageId": "kG3RPjB49",
-                                        "collectionItemId": "vnvp_PAHN"
-                                      }
-                                    }
-                                  },
+                                  "typedControls": {},
                                   "isReplica": true,
                                   "children": []
                                 }

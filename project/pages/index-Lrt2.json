@@ -89,15 +89,13 @@
           "id": "Dd09DGp9n",
           "originalId": null,
           "__class": "ComponentInstanceNode",
-          "name": "Grid",
+          "name": "Component",
           "visible": true,
           "locked": false,
           "componentIdentifier": "local-module:canvasComponent/eDVPR73HP:default",
           "insertURL": "https://studio.com/m/Grid-hsy3Mm.js@rEOANnMkhtPms9YSavWD",
-          "componentName": "Grid",
-          "controls": {
-            "variant": "crq7o8T_J"
-          },
+          "componentName": null,
+          "controls": {},
           "rotation": 0,
           "opacity": 1,
           "position": "absolute",
@@ -114,40 +112,7 @@
           "maxHeight": null,
           "minHeight": null,
           "aspectRatio": null,
-          "typedControls": {
-            "variant": {
-              "type": "enum",
-              "key": "variant",
-              "title": "Variant",
-              "options": [
-                {
-                  "id": "crq7o8T_J",
-                  "title": "Desktop"
-                },
-                {
-                  "id": "qPLuSwUBR",
-                  "title": "Phone"
-                }
-              ],
-              "value": "crq7o8T_J"
-            },
-            "ObIkOckGl": {
-              "type": "enum",
-              "key": "ObIkOckGl",
-              "title": "Option",
-              "options": [
-                {
-                  "id": "sbVJ1hdZf",
-                  "title": "Matcha"
-                },
-                {
-                  "id": "aDtHFRigJ",
-                  "title": "Hojicha"
-                }
-              ],
-              "value": null
-            }
-          },
+          "typedControls": {},
           "isReplica": false,
           "children": []
         }
@@ -234,15 +199,13 @@
           "id": "B_P26v4euDd09DGp9n",
           "originalId": "Dd09DGp9n",
           "__class": "ComponentInstanceNode",
-          "name": "Grid",
+          "name": "Component",
           "visible": true,
           "locked": false,
           "componentIdentifier": "local-module:canvasComponent/eDVPR73HP:default",
           "insertURL": "https://studio.com/m/Grid-hsy3Mm.js@rEOANnMkhtPms9YSavWD",
-          "componentName": "Grid",
-          "controls": {
-            "variant": "crq7o8T_J"
-          },
+          "componentName": null,
+          "controls": {},
           "rotation": 0,
           "opacity": 1,
           "position": "absolute",
@@ -259,40 +222,7 @@
           "maxHeight": null,
           "minHeight": null,
           "aspectRatio": null,
-          "typedControls": {
-            "variant": {
-              "type": "enum",
-              "key": "variant",
-              "title": "Variant",
-              "options": [
-                {
-                  "id": "crq7o8T_J",
-                  "title": "Desktop"
-                },
-                {
-                  "id": "qPLuSwUBR",
-                  "title": "Phone"
-                }
-              ],
-              "value": "crq7o8T_J"
-            },
-            "ObIkOckGl": {
-              "type": "enum",
-              "key": "ObIkOckGl",
-              "title": "Option",
-              "options": [
-                {
-                  "id": "sbVJ1hdZf",
-                  "title": "Matcha"
-                },
-                {
-                  "id": "aDtHFRigJ",
-                  "title": "Hojicha"
-                }
-              ],
-              "value": null
-            }
-          },
+          "typedControls": {},
           "isReplica": true,
           "children": []
         }
@@ -379,15 +309,13 @@
           "id": "YiK5XtpUxDd09DGp9n",
           "originalId": "Dd09DGp9n",
           "__class": "ComponentInstanceNode",
-          "name": "Grid",
+          "name": "Component",
           "visible": true,
           "locked": false,
           "componentIdentifier": "local-module:canvasComponent/eDVPR73HP:default",
           "insertURL": "https://studio.com/m/Grid-hsy3Mm.js@rEOANnMkhtPms9YSavWD",
-          "componentName": "Grid",
-          "controls": {
-            "variant": "qPLuSwUBR"
-          },
+          "componentName": null,
+          "controls": {},
           "rotation": 0,
           "opacity": 1,
           "position": "absolute",
@@ -404,40 +332,7 @@
           "maxHeight": null,
           "minHeight": null,
           "aspectRatio": null,
-          "typedControls": {
-            "variant": {
-              "type": "enum",
-              "key": "variant",
-              "title": "Variant",
-              "options": [
-                {
-                  "id": "crq7o8T_J",
-                  "title": "Desktop"
-                },
-                {
-                  "id": "qPLuSwUBR",
-                  "title": "Phone"
-                }
-              ],
-              "value": "qPLuSwUBR"
-            },
-            "ObIkOckGl": {
-              "type": "enum",
-              "key": "ObIkOckGl",
-              "title": "Option",
-              "options": [
-                {
-                  "id": "sbVJ1hdZf",
-                  "title": "Matcha"
-                },
-                {
-                  "id": "aDtHFRigJ",
-                  "title": "Hojicha"
-                }
-              ],
-              "value": null
-            }
-          },
+          "typedControls": {},
           "isReplica": true,
           "children": []
         }
