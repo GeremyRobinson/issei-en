@@ -1,11 +1,11 @@
 {
   "source": "https://issei-en.com",
-  "exportedAt": "2026-09-29T07:02:11.163Z",
+  "exportedAt": "2026-10-09T19:27:06.973Z",
   "mode": "interactive",
   "publish": {
-    "build": "a56d1fd",
-    "publishedAt": "2026-09-29T03:41:00.000Z",
-    "published": "Sep 29, 2026, 3:41 AM UTC",
+    "build": "0da2bc6",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "published": "Oct 9, 2026",
     "cmsFiles": 4,
     "cmsCollections": 3
   },
@@ -26,6 +26,6 @@
     "index/rei/index.html",
     "index/ko/index.html"
   ],
-  "files": 173,
+  "files": 166,
   "failures": []
 }

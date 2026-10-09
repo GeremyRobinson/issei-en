@@ -661,7 +661,7 @@
       "id": "zpYJS4OXk",
       "nodeId": "zpYJS4OXk",
       "createdAt": "2026-04-16T22:53:23.723Z",
-      "updatedAt": "2026-08-18T07:40:14.524Z",
+      "updatedAt": "2026-10-09T19:04:08.813Z",
       "slug": "en",
       "slugByLocale": {},
       "draft": false,
@@ -683,7 +683,7 @@
         },
         "yTPLiwXD7": {
           "type": "boolean",
-          "value": false
+          "value": true
         },
         "G4Eszy3w8": {
           "type": "image",
@@ -775,19 +775,19 @@
         },
         "nAAux52Ya": {
           "type": "number",
-          "value": 0
+          "value": 16
         },
         "IkunJY3cP": {
           "type": "number",
-          "value": 0
+          "value": 350
         },
         "y8KnnllXp": {
           "type": "number",
-          "value": 0
+          "value": 275
         },
         "cqV3dVh7V": {
           "type": "number",
-          "value": 0
+          "value": 225
         },
         "PHUGFzraW": {
           "type": "number",
