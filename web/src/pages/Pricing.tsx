@@ -14,7 +14,7 @@ const TIERS = [
   ["Bulk", "50kg"],
 ] as const;
 
-/** Pricing, as on the current site. Prices stay as dashes until a vendor signs in. */
+/** Pricing, as on the current site, for signed-in vendors only. */
 export default function Pricing() {
   const [session, setSession] = useState<VendorSession | null | undefined>(undefined);
   const refresh = () => loadSession().then(setSession);
@@ -22,6 +22,16 @@ export default function Pricing() {
     document.title = "Pricing — ISSEI—EN";
     refresh();
   }, []);
+
+  // checking for a session: show nothing rather than flash the sign-in block
+  if (session === undefined) return null;
+  // signed out: only the sign-in block; nothing of Pricing is shown
+  if (session === null)
+    return (
+      <section className="grid">
+        <VendorLogin onSignedIn={refresh} />
+      </section>
+    );
 
   return (
     <section className="pricing grid">
@@ -49,26 +59,23 @@ export default function Pricing() {
         </div>
         <div className="blank" />
         <div className="blank" />
-        {session === null && <VendorLogin onSignedIn={refresh} />}
-        {session && (
-          <div className="half">
-            <span>Vendor</span>
-            <span>
-              {session.email}
-              <br />
-              <button className="u" onClick={() => signOut().then(() => setSession(null))}>
-                Sign out
-              </button>
-            </span>
-          </div>
-        )}
+        <div className="half">
+          <span>Vendor</span>
+          <span>
+            {session.email}
+            <br />
+            <button className="u" onClick={() => signOut().then(() => setSession(null))}>
+              Sign out
+            </button>
+          </span>
+        </div>
         <div className="blank" />
         <div className="blank" />
         <p>* Price per 1kg</p>
       </div>
 
       {TEAS.map((t) => {
-        const prices = session?.prices[t.slug];
+        const prices = session.prices[t.slug];
         return (
           <div className="pricing-item" key={t.slug}>
             <figure className="sq">

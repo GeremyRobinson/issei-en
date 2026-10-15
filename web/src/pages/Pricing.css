@@ -12,6 +12,6 @@
 .field:focus { box-shadow: inset 0 -1px 0 currentColor; }
 
 @media (max-width: 809px) {
-  .pricing-info { grid-column: 1 / -1; }
+  .pricing-info, .vendor-login { grid-column: 1 / -1; }
   .tiers { grid-template-columns: minmax(0, 1.3fr) minmax(0, 0.8fr) minmax(0, 1fr); }
 }

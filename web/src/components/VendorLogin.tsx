@@ -2,7 +2,7 @@ import { useState, type FormEvent } from "react";
 import { RollingText } from "./RollingText";
 import { signIn } from "../lib/vendor";
 
-/** Email and access code, written as label/value rows like the rest of the page. */
+/** The gate in front of Pricing: email and access code, as label/value rows. */
 export function VendorLogin({ onSignedIn }: { onSignedIn: () => void }) {
   const [email, setEmail] = useState("");
   const [code, setCode] = useState("");
@@ -26,12 +26,7 @@ export function VendorLogin({ onSignedIn }: { onSignedIn: () => void }) {
   }
 
   return (
-    <form className="vendor-login" onSubmit={submit} noValidate>
-      <div className="half">
-        <span>Vendor access</span>
-        <span>Pricing is for authorized vendors. Sign in with your email and access code.</span>
-      </div>
-      <div className="blank" />
+    <form className="vendor-login" onSubmit={submit} noValidate aria-label="Vendor sign in">
       <div className="half">
         <label htmlFor="vendor-email">Email</label>
         <input
