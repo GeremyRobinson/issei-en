@@ -1,0 +1,2 @@
+.nf-list { display: grid; grid-template-columns: 60px 1fr; }
+.nf-row { display: grid; grid-template-columns: 60px 1fr; }

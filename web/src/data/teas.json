@@ -1,0 +1,113 @@
+[
+  {
+    "slug": "sei",
+    "code": "0100",
+    "title": "SEI",
+    "type": "Matcha",
+    "region": "Uji, Kyoto",
+    "cultivar": "Ujihikari",
+    "notes": "White chocolate, fresh cream, young spinach",
+    "details": "An umami—forward matcha with rich texture and depth, originating from Uji, Kyoto. Sei uses Ujihikari, a rare and highly prized single cultivar, grown reed shaded and hand-picked.",
+    "available": true,
+    "sweetness": "1:2",
+    "umami": 2.2,
+    "roast": null,
+    "roastLevel": null,
+    "toast": null,
+    "retail": {
+      "size": "(100g)",
+      "price": 75
+    }
+  },
+  {
+    "slug": "uji",
+    "code": "0110",
+    "title": "UJI",
+    "type": "Matcha",
+    "region": "Uji, Kyoto",
+    "cultivar": "Ujihikari, Samidori",
+    "notes": "Roasted chestnut, salted cream, butter lettuce",
+    "details": "Uji is the traditionalist expression. A rare cultivar paired with a classic, grown the way Uji matcha has always been made. Ujihikari survives on only a handful of farms today, kept alive by growers who refused to replace it with higher-yield varieties. Samidori brings the body, Ujihikari brings the depth — together they make a cup rooted in the region that defined matcha itself.",
+    "available": true,
+    "sweetness": "1:3",
+    "umami": 2.2,
+    "roast": null,
+    "roastLevel": null,
+    "toast": null,
+    "retail": {
+      "size": "(100g)",
+      "price": 47.5
+    }
+  },
+  {
+    "slug": "kyo",
+    "code": "0120",
+    "title": "KYO",
+    "type": "Matcha",
+    "region": "Uji, Kyoto",
+    "cultivar": "Ujihikari, Samidori",
+    "notes": "Chestnut, sweet cream, steamed greens",
+    "details": "A refined matcha for everyday ceremony. Bright green with a clean, crisp profile. This season presents a refreshing lightness — mild vegetal bitterness balanced by natural sweetness and a smooth, even texture. The finish is short and clean, while the aroma carries bright grassy notes.",
+    "available": true,
+    "sweetness": "1:3",
+    "umami": 2,
+    "roast": null,
+    "roastLevel": null,
+    "toast": null,
+    "retail": {
+      "size": "(100g)",
+      "price": 37.5
+    }
+  },
+  {
+    "slug": "en",
+    "code": "0130",
+    "title": "EN",
+    "type": "Matcha",
+    "region": "Shizuoka",
+    "cultivar": "Saemidori, Okumidori",
+    "notes": "Steamed edamame, sea salt, honeydew",
+    "details": "A blended matcha balancing first and second flush leaf. Okumidori contributes deep umami and mineral salinity; Saemidori adds natural sweetness and body. The cup is clean, savory-forward, with a rounded finish. Soft green powder with fine particle structure. Straightforward, balanced, approachable for daily use.",
+    "available": true,
+    "sweetness": "1:2",
+    "umami": 1.8,
+    "roast": null,
+    "roastLevel": null,
+    "toast": null,
+    "retail": null
+  },
+  {
+    "slug": "rei",
+    "code": "0200",
+    "title": "REI",
+    "type": "Hojicha",
+    "region": "Kaga",
+    "cultivar": "Yabukita",
+    "notes": "Roasted barley, dried pear, white peach, light caramel, fresh straw",
+    "details": "Stem-only hōjicha from Kaga, Ishikawa — the region recognized as the origin of this style, where roasting stem tea became a defining craft. Made exclusively from miruibo, the youngest, softest stems pulled from the first harvest. These aren't grown on purpose; they're the finest fraction sorted out from the leaf harvest itself, which is what makes them rare.",
+    "available": true,
+    "sweetness": null,
+    "umami": null,
+    "roast": "Light",
+    "roastLevel": 2,
+    "toast": "280 μg/kg (pyrazines)",
+    "retail": null
+  },
+  {
+    "slug": "ko",
+    "code": "0210",
+    "title": "KO",
+    "type": "Hojicha",
+    "region": "Kyoto",
+    "cultivar": "Yabukita",
+    "notes": "Toasted chestnut, caramel, subtle chocolate, pandan, hay",
+    "details": "This batch shows Yabukita's clean backbone under medium roast—caramelized grain depth with layered sweetness. The roast is deliberate: warm chestnut and caramel dominance, subtle chocolate undertone, no char. Pandan and hay aromatics come through in the finish. Amber liquor, full body, structured extraction. Traditional Kyoto hojicha with weight and precision.",
+    "available": true,
+    "sweetness": null,
+    "umami": null,
+    "roast": "Medium",
+    "roastLevel": 4,
+    "toast": "480 μg/kg (pyrazines)",
+    "retail": null
+  }
+]

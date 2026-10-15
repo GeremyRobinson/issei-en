@@ -1,0 +1,10 @@
+/* as on the current site: sticky 10px from the top, white text in difference
+   mode, so it reads black on white and inverts over photographs */
+.header {
+  position: sticky;
+  top: var(--gap);
+  z-index: 9;
+  color: #fff;
+  mix-blend-mode: difference;
+}
+.header nav { white-space: nowrap; }

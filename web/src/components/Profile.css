@@ -1,0 +1,17 @@
+.bar { display: flex; gap: 5px; margin-top: 10px; }
+.bar i { display: block; width: 46px; height: 8px; }
+.legend { margin-top: 8px; margin-bottom: 14px; }
+.legend span { display: block; }
+.legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; margin-right: 10px; vertical-align: -1px; background: var(--c); }
+.scale { display: flex; align-items: flex-end; gap: 5px; height: 26px; margin-top: 10px; }
+.scale i { display: block; width: 21px; height: 8px; }
+.scale i.on { height: 24px; }
+.scale-ends { display: flex; justify-content: space-between; width: 150px; margin-top: 6px; margin-bottom: 14px; }
+
+/* played once, in CSS, when a tea comes into view */
+.is-playing .bar i { animation: fill 260ms var(--ease) backwards; transform-origin: left; }
+.is-playing .scale i { animation: appear 200ms var(--ease) backwards; }
+.is-playing .scale i.on { animation: appear 200ms var(--ease) backwards, rise 320ms var(--ease) 480ms backwards; }
+@keyframes fill { from { opacity: 0; transform: scaleX(0.2); } }
+@keyframes appear { from { opacity: 0; } }
+@keyframes rise { from { height: 8px; } }

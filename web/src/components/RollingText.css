@@ -1,0 +1,8 @@
+.roll { white-space: pre; display: inline-block; font-variant-numeric: tabular-nums; }
+.roll-ch { display: inline-grid; position: relative; overflow: hidden; vertical-align: top; }
+.roll-ch > i { grid-area: 1 / 1; font-style: normal; }
+.roll-in { animation: roll-in 220ms var(--ease) backwards; }
+/* the outgoing character is lifted out of the flow, so it never widens the text */
+.roll-out { position: absolute; left: 0; top: 0; animation: roll-out 220ms var(--ease) forwards; }
+@keyframes roll-in { from { transform: translateY(100%); opacity: 0; } }
+@keyframes roll-out { to { transform: translateY(-100%); opacity: 0; } }

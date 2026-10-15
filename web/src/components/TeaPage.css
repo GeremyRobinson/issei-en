@@ -1,0 +1,15 @@
+.tea { align-items: start; }
+.tea-text { padding-top: 8px; }
+.tea-desc { max-width: 62ch; margin-top: calc(var(--row) * 2); }
+
+/* mobile, as on the current site: origin photograph first, then the text, then the powder and the bowl */
+@media (max-width: 809px) {
+  .tea { grid-template-columns: minmax(0, 1fr); }
+  .tea-3 { order: 1; }
+  .tea-a { order: 2; }
+  .tea-b { order: 3; }
+  .tea-c { order: 4; padding-bottom: var(--row); }
+  .tea-1 { order: 5; margin-bottom: var(--gap); }
+  .tea-2 { order: 6; }
+  .tea-text { padding-bottom: var(--row); }
+}

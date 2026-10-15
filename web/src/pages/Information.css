@@ -1,0 +1,9 @@
+.info { align-items: start; }
+.info-image { aspect-ratio: 3 / 4; background: var(--ground); overflow: hidden; }
+
+/* mobile: contact first, then the statement, then the photograph */
+@media (max-width: 809px) {
+  .info-contact { grid-column: 1 / -1; order: 1; }
+  .info-about { grid-column: 1 / -1; order: 2; margin-top: 16px; }
+  .info-image { grid-column: 1 / -1; order: 3; margin-top: 16px; }
+}

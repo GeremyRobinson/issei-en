@@ -1,0 +1,8 @@
+.terms { row-gap: 30px; align-items: start; }
+.terms ol, .terms ul { padding-left: 18px; }
+.terms p { max-width: 62ch; }
+
+@media (max-width: 809px) {
+  .terms article { grid-column: 1 / -1; }
+}
+.terms .blank { height: var(--gap); }

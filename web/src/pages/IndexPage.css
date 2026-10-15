@@ -1,0 +1,10 @@
+.tile { display: block; position: relative; transition: opacity 200ms ease-in-out; }
+.tile-cap { padding-top: 8px; padding-bottom: 14px; }
+
+/* hover dim, as on the current site: the other teas fade to 25% in 200ms.
+   Each tile reaches 5px into the gaps around it, so a gap belongs to the
+   nearest tea and nothing flickers while the pointer crosses it. */
+.tile::after { content: ""; position: absolute; inset: -5px; }
+@media (hover: hover) {
+  .index:has(.tile:hover) .tile:not(:hover) { opacity: var(--dim); }
+}
