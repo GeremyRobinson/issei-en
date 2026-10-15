@@ -46,5 +46,13 @@ function devApi(): Plugin {
 export default defineConfig(({ mode }) => {
   // Make .env values (VENDOR_ACCESS, VENDOR_SESSION_SECRET) visible to the dev API.
   Object.assign(process.env, loadEnv(mode, process.cwd(), ""));
+  if (mode === "preview") {
+    // the single-file chat preview (scripts/build-preview.mjs)
+    return {
+      plugins: [react()],
+      publicDir: false,
+      build: { outDir: "dist-preview", emptyOutDir: true, cssCodeSplit: false, modulePreload: false, rollupOptions: { input: "preview.html" } },
+    };
+  }
   return { plugins: [react(), devApi()] };
 });

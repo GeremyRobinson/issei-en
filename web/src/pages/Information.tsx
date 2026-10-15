@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { Link } from "react-router";
+import { asset } from "../lib/assets";
 import "./Information.css";
 
 export default function Information() {
@@ -44,7 +45,7 @@ export default function Information() {
         </div>
       </div>
       <figure className="info-image">
-        <img src="/images/field.webp" alt="Rows of shaded tea bushes on a hillside" />
+        <img src={asset("/images/field.webp")} alt="Rows of shaded tea bushes on a hillside" />
       </figure>
     </section>
   );
