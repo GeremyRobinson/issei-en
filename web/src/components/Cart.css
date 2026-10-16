@@ -6,7 +6,6 @@
   top: calc(var(--gap) * 2 + var(--row));
   z-index: 8;
   padding: 0 var(--gap);
-  background: var(--bg);
 }
 .cart-body { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 420ms var(--ease); }
 .cart.is-open .cart-body { grid-template-rows: 1fr; }
