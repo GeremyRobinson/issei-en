@@ -46,8 +46,9 @@ export function Header() {
         {n > 0 && (
           <>
             {", "}
-            <button className={cartOpen ? "u" : undefined} aria-expanded={cartOpen} onClick={() => setCartOpen(!cartOpen)}>
-              Cart (<RollingText text={String(n)} />)
+            <button aria-expanded={cartOpen} onClick={() => setCartOpen(!cartOpen)}>
+              {/* only the word is underlined while the cart is open, not the count */}
+              <span className={cartOpen ? "u" : undefined}>Cart</span> (<RollingText text={String(n)} />)
             </button>
           </>
         )}
