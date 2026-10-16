@@ -1,52 +1,51 @@
-import { useEffect, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { RollingText } from "./RollingText";
-import { cart, count, total, unitPrice, useCart } from "../lib/cart";
+import { cart, setCartOpen, total, unitPrice, useCart, useCartOpen } from "../lib/cart";
 import { teaBySlug, label } from "../data/teas";
 import { money } from "../lib/format";
 import { startCheckout } from "../lib/checkout";
 import "./Cart.css";
 
-const OPEN = "issei:cart-open";
-export const openCart = () => window.dispatchEvent(new Event(OPEN));
-
-/** Hidden until something is added. Then a single line at the bottom that opens into the cart. */
+/**
+ * The cart opens from "Cart (n)" in the nav, just under the top line, and
+ * pushes the page down as it opens. Its height is shared as --cart-h so the
+ * page and an open tea move down by exactly that much.
+ */
 export function Cart() {
   const lines = useCart();
-  const [open, setOpen] = useState(false);
+  const open = useCartOpen() && lines.length > 0;
+  const box = useRef<HTMLElement>(null);
   const [checkout, setCheckout] = useState("Checkout");
 
   useEffect(() => {
-    const show = () => setOpen(true);
-    const esc = (e: KeyboardEvent) => e.key === "Escape" && setOpen(false);
-    window.addEventListener(OPEN, show);
-    window.addEventListener("keydown", esc);
-    return () => (window.removeEventListener(OPEN, show), window.removeEventListener("keydown", esc));
-  }, []);
-  useEffect(() => {
-    if (!lines.length) setOpen(false);
+    if (!lines.length) setCartOpen(false);
   }, [lines.length]);
-
-  if (!lines.length) return null;
+  useEffect(() => {
+    const esc = (e: KeyboardEvent) => e.key === "Escape" && setCartOpen(false);
+    window.addEventListener("keydown", esc);
+    return () => window.removeEventListener("keydown", esc);
+  }, []);
+  // follow the cart's height every frame while it opens or closes
+  useLayoutEffect(() => {
+    const el = box.current!;
+    const root = document.documentElement;
+    const ro = new ResizeObserver(() => root.style.setProperty("--cart-h", `${el.offsetHeight}px`));
+    ro.observe(el);
+    return () => {
+      ro.disconnect();
+      root.style.removeProperty("--cart-h");
+    };
+  }, []);
 
   async function onCheckout() {
     setCheckout("One moment");
-    const result = await startCheckout(lines);
-    setCheckout(result);
+    setCheckout(await startCheckout(lines));
     setTimeout(() => setCheckout("Checkout"), 1600);
   }
 
   return (
-    <aside className={`cart${open ? " is-open" : ""}`} aria-label="Cart">
-      <div className="grid cart-head">
-        <button onClick={() => setOpen(!open)} aria-expanded={open}>
-          Cart (<RollingText text={String(count(lines))} />)
-        </button>
-        <span className="desktop" />
-        <p className="cart-r">
-          Total <RollingText text={money(total(lines))} stagger={10} />
-        </p>
-      </div>
-      <div className="cart-rows">
+    <aside ref={box} className={`cart${open ? " is-open" : ""}`} aria-label="Cart" aria-hidden={!open}>
+      <div className="cart-body">
         <div>
           {lines.map((l) => {
             const t = teaBySlug(l.slug)!;
@@ -78,6 +77,8 @@ export function Cart() {
             <span />
             <span className="desktop" />
             <p className="cart-r">
+              Total <RollingText text={money(total(lines))} stagger={10} />
+              <br />
               <button className="u" onClick={onCheckout}>
                 <RollingText text={checkout} stagger={8} />
               </button>

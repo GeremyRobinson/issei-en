@@ -1,8 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router";
 import { RollingText } from "./RollingText";
-import { count, useCart } from "../lib/cart";
-import { openCart } from "./Cart";
+import { count, setCartOpen, useCart, useCartOpen } from "../lib/cart";
 import "./Header.css";
 
 const pad = (n: number) => String(n).padStart(2, "0");
@@ -30,6 +29,7 @@ export function Header() {
   const { pathname } = useLocation();
   const lines = useCart();
   const n = count(lines);
+  const cartOpen = useCartOpen();
   const at = pathname === "/" ? "info" : pathname.startsWith("/index") && !pathname.startsWith("/index/pricing") ? "index" : null;
 
   return (
@@ -46,7 +46,7 @@ export function Header() {
         {n > 0 && (
           <>
             {", "}
-            <button onClick={openCart}>
+            <button className={cartOpen ? "u" : undefined} aria-expanded={cartOpen} onClick={() => setCartOpen(!cartOpen)}>
               Cart (<RollingText text={String(n)} />)
             </button>
           </>

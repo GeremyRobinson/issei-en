@@ -29,7 +29,7 @@ window.fetch = async (input, init) => {
 
 /** Preview only: the chat has no address bar, so these reach pages the nav does not link to. */
 function PreviewPages() {
-  const style = { position: "fixed", top: 37, right: 10, zIndex: 20, background: "var(--ground)", padding: "3px 6px" } as const;
+  const style = { position: "fixed", bottom: 10, left: 10, zIndex: 20, background: "var(--ground)", padding: "3px 6px" } as const;
   return (
     <p style={style}>
       Preview: <Link className="u" to="/index/pricing">Pricing</Link>, <Link className="u" to="/terms">Terms</Link>,{" "}

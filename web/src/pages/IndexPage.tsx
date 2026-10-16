@@ -1,26 +1,22 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Link, useParams } from "react-router";
 import { TEAS, TYPES, image, label, teaBySlug } from "../data/teas";
-import { Viewer, zoomFromTile } from "../components/Viewer";
+import { Viewer } from "../components/Viewer";
 import NotFound from "./NotFound";
 import "./IndexPage.css";
 
 type Filter = "All" | (typeof TYPES)[number];
 
-/** The Index: the filter in the first cell, then every tea. Click one to zoom in. */
+/** The Index: the filter in the first cell, then every tea. Click one to open it. */
 export default function IndexPage() {
   const { slug } = useParams();
   const [filter, setFilter] = useState<Filter>("All");
-  // keep the viewer on screen while it zooms back to its tile
-  const [shown, setShown] = useState<string | null>(slug ?? null);
-  const [closing, setClosing] = useState(false);
-
+  // closing a tea returns to the Index with that tea's tile in view
+  const last = useRef(slug);
   useEffect(() => {
-    if (slug) {
-      setShown(slug);
-      setClosing(false);
-    } else if (shown) setClosing(true);
-  }, [slug]); // eslint-disable-line react-hooks/exhaustive-deps
+    if (!slug && last.current) document.querySelector(`[data-tile="${last.current}"]`)?.scrollIntoView({ block: "nearest" });
+    last.current = slug;
+  }, [slug]);
 
   useEffect(() => {
     const t = teaBySlug(slug);
@@ -44,7 +40,7 @@ export default function IndexPage() {
           ))}
         </div>
         {teas.map((t) => (
-          <Link key={t.slug} to={`/index/${t.slug}`} className="tile" data-tile={t.slug} onClick={() => zoomFromTile(t.slug)}>
+          <Link key={t.slug} to={`/index/${t.slug}`} className="tile" data-tile={t.slug}>
             <figure className="sq">
               <img src={image(t, 1)} alt={`${t.title} powder`} />
             </figure>
@@ -52,17 +48,7 @@ export default function IndexPage() {
           </Link>
         ))}
       </section>
-      {shown && (
-        <Viewer
-          teas={teas.some((t) => t.slug === shown) ? teas : TEAS}
-          slug={slug ?? shown}
-          closing={closing}
-          onClosed={() => {
-            setShown(null);
-            setClosing(false);
-          }}
-        />
-      )}
+      {slug && <Viewer teas={teas.some((t) => t.slug === slug) ? teas : TEAS} slug={slug} />}
     </>
   );
 }

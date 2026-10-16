@@ -4,11 +4,7 @@
   inset: 0;
   z-index: 5;
   background: var(--bg);
-  animation: viewer-in 260ms var(--ease) backwards;
 }
-.viewer.is-closing { opacity: 0; transition: opacity 380ms var(--ease); }
-.viewer.is-zooming .viewer-slide { animation: viewer-in 420ms var(--ease) backwards; }
-@keyframes viewer-in { from { opacity: 0; } }
 
 .viewer-track {
   display: flex;
@@ -27,21 +23,10 @@
   overscroll-behavior: contain;
   scroll-snap-align: start;
   scroll-snap-stop: always;
-  /* clear the sticky top line: 10px + one line + 10px */
-  padding: calc(var(--gap) * 2 + var(--row)) var(--gap) calc(var(--gap) * 6);
+  /* clear the sticky top line (10px + one line + 10px) and an open cart */
+  padding: calc(var(--gap) * 2 + var(--row) + var(--cart-h, 0px)) var(--gap) calc(var(--gap) * 6);
   transition: transform 260ms var(--ease);
 }
-
-.viewer-ghost {
-  position: fixed;
-  z-index: 6;
-  object-fit: cover;
-  background: var(--ground);
-  pointer-events: none;
-  transition-property: left, top, width, height, opacity;
-  transition-timing-function: var(--ease);
-}
-.viewer-ghost.is-done { opacity: 0; transition-duration: 180ms; }
 
 /* the page behind does not scroll while a tea is open */
 html.viewer-open { overflow: hidden; }

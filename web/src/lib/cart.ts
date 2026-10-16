@@ -55,3 +55,19 @@ export function useCart(): Line[] {
     () => lines,
   );
 }
+
+/* whether the cart is open, shared by the nav and the cart itself */
+let isOpen = false;
+const openListeners = new Set<() => void>();
+export function setCartOpen(open: boolean) {
+  if (open === isOpen) return;
+  isOpen = open;
+  openListeners.forEach((l) => l());
+}
+export function useCartOpen(): boolean {
+  return useSyncExternalStore(
+    (l) => (openListeners.add(l), () => openListeners.delete(l)),
+    () => isOpen,
+    () => isOpen,
+  );
+}
