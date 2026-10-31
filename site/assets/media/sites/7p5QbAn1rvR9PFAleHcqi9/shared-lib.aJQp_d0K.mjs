@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{description:`ISSEI—EN is a distributor of high-grade ceremonial matcha sourced exclusively from Japan.`,favicon:`/issei-en/assets/media/assets/9hU14CmVnjD2RUMVZwnH6QK6LE.png`,robots:`max-image-preview:large`,socialImage:`/issei-en/assets/media/assets/7iRlB3PcUy2ToSGk2lMnUTP0s.png`,title:` ISSEI—EN`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=shared-lib.aJQp_d0K.mjs.map

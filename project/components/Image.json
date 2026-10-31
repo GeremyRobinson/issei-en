@@ -21,7 +21,7 @@
         "type": "ColorStyle",
         "id": "6e13f57c-5a1d-4794-84fd-093a6d3dbc59",
         "name": "EEE –– 222",
-        "path": "/EEE –– 222",
+        "path": "/Colors/EEE –– 222",
         "light": "rgb(238, 238, 238)",
         "dark": "rgb(34, 34, 34)"
       },
@@ -169,7 +169,7 @@
         "type": "ColorStyle",
         "id": "6e13f57c-5a1d-4794-84fd-093a6d3dbc59",
         "name": "EEE –– 222",
-        "path": "/EEE –– 222",
+        "path": "/Colors/EEE –– 222",
         "light": "rgb(238, 238, 238)",
         "dark": "rgb(34, 34, 34)"
       },
@@ -317,7 +317,7 @@
         "type": "ColorStyle",
         "id": "6e13f57c-5a1d-4794-84fd-093a6d3dbc59",
         "name": "EEE –– 222",
-        "path": "/EEE –– 222",
+        "path": "/Colors/EEE –– 222",
         "light": "rgb(238, 238, 238)",
         "dark": "rgb(34, 34, 34)"
       },

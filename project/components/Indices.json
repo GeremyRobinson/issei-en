@@ -21,7 +21,7 @@
         "type": "ColorStyle",
         "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
         "name": "FFF –– 000",
-        "path": "/FFF –– 000",
+        "path": "/Colors/FFF –– 000",
         "light": "rgb(255, 255, 255)",
         "dark": "rgb(0, 0, 0)"
       },
@@ -238,7 +238,7 @@
                     "type": "ColorStyle",
                     "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
                     "name": "FFF",
-                    "path": "/FFF",
+                    "path": "/Colors/FFF",
                     "light": "rgb(255, 255, 255)",
                     "dark": null
                   }
@@ -331,7 +331,7 @@
                     "type": "ColorStyle",
                     "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
                     "name": "FFF",
-                    "path": "/FFF",
+                    "path": "/Colors/FFF",
                     "light": "rgb(255, 255, 255)",
                     "dark": null
                   }
@@ -424,7 +424,7 @@
                     "type": "ColorStyle",
                     "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
                     "name": "FFF",
-                    "path": "/FFF",
+                    "path": "/Colors/FFF",
                     "light": "rgb(255, 255, 255)",
                     "dark": null
                   }
@@ -585,7 +585,7 @@
         "type": "ColorStyle",
         "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
         "name": "FFF –– 000",
-        "path": "/FFF –– 000",
+        "path": "/Colors/FFF –– 000",
         "light": "rgb(255, 255, 255)",
         "dark": "rgb(0, 0, 0)"
       },
@@ -802,7 +802,7 @@
                     "type": "ColorStyle",
                     "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
                     "name": "FFF",
-                    "path": "/FFF",
+                    "path": "/Colors/FFF",
                     "light": "rgb(255, 255, 255)",
                     "dark": null
                   }
@@ -895,7 +895,7 @@
                     "type": "ColorStyle",
                     "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
                     "name": "FFF",
-                    "path": "/FFF",
+                    "path": "/Colors/FFF",
                     "light": "rgb(255, 255, 255)",
                     "dark": null
                   }
@@ -988,7 +988,7 @@
                     "type": "ColorStyle",
                     "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
                     "name": "FFF",
-                    "path": "/FFF",
+                    "path": "/Colors/FFF",
                     "light": "rgb(255, 255, 255)",
                     "dark": null
                   }
@@ -1149,7 +1149,7 @@
         "type": "ColorStyle",
         "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
         "name": "FFF –– 000",
-        "path": "/FFF –– 000",
+        "path": "/Colors/FFF –– 000",
         "light": "rgb(255, 255, 255)",
         "dark": "rgb(0, 0, 0)"
       },
@@ -1366,7 +1366,7 @@
                     "type": "ColorStyle",
                     "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
                     "name": "FFF",
-                    "path": "/FFF",
+                    "path": "/Colors/FFF",
                     "light": "rgb(255, 255, 255)",
                     "dark": null
                   }
@@ -1459,7 +1459,7 @@
                     "type": "ColorStyle",
                     "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
                     "name": "FFF",
-                    "path": "/FFF",
+                    "path": "/Colors/FFF",
                     "light": "rgb(255, 255, 255)",
                     "dark": null
                   }
@@ -1552,7 +1552,7 @@
                     "type": "ColorStyle",
                     "id": "e4f9106e-7989-4872-8b79-4f8ee88339f9",
                     "name": "FFF",
-                    "path": "/FFF",
+                    "path": "/Colors/FFF",
                     "light": "rgb(255, 255, 255)",
                     "dark": null
                   }

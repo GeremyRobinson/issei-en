@@ -4,7 +4,7 @@
   "originalId": null,
   "__class": "WebPageNode",
   "path": "/index/:slug",
-  "collectionId": "Je4ZeJsbA",
+  "collectionId": null,
   "draft": false,
   "isReplica": false,
   "children": [
@@ -20,7 +20,7 @@
         "type": "ColorStyle",
         "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
         "name": "FFF –– 000",
-        "path": "/FFF –– 000",
+        "path": "/Colors/FFF –– 000",
         "light": "rgb(255, 255, 255)",
         "dark": "rgb(0, 0, 0)"
       },
@@ -441,7 +441,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -458,7 +458,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -526,7 +526,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -543,7 +543,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -751,7 +751,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -768,7 +768,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -836,7 +836,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -853,7 +853,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -923,7 +923,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -940,7 +940,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -1219,7 +1219,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -1236,7 +1236,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -1304,7 +1304,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -1321,7 +1321,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -1389,7 +1389,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -1406,7 +1406,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -1545,7 +1545,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -1562,7 +1562,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -1630,7 +1630,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -1647,7 +1647,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -1715,7 +1715,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -1732,7 +1732,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -1804,7 +1804,7 @@
                     "type": "TextStyle",
                     "id": "Y3WXAjc1B",
                     "name": "Body",
-                    "path": "/Body",
+                    "path": "/Text Styles/Body",
                     "tag": "p",
                     "font": {
                       "type": "Font",
@@ -1821,7 +1821,7 @@
                       "type": "ColorStyle",
                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                       "name": "000 –– FFF",
-                      "path": "/000 –– FFF",
+                      "path": "/Colors/000 –– FFF",
                       "light": "rgb(0, 0, 0)",
                       "dark": "rgb(255, 255, 255)"
                     },
@@ -2029,7 +2029,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -2046,7 +2046,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -2252,7 +2252,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -2269,7 +2269,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -2337,7 +2337,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -2354,7 +2354,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -2497,7 +2497,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -2514,7 +2514,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -2720,7 +2720,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -2737,7 +2737,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -2805,7 +2805,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -2822,7 +2822,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -3154,7 +3154,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -3171,7 +3171,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -3239,7 +3239,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -3256,7 +3256,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -3401,7 +3401,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -3418,7 +3418,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -3555,7 +3555,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -3572,7 +3572,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -3951,7 +3951,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -3968,7 +3968,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -4177,7 +4177,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -4194,7 +4194,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -4339,7 +4339,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -4356,7 +4356,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -4631,7 +4631,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -4648,7 +4648,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -4716,7 +4716,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -4733,7 +4733,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -4803,7 +4803,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -4820,7 +4820,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -4963,7 +4963,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -4980,7 +4980,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -5186,7 +5186,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -5203,7 +5203,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -5271,7 +5271,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -5288,7 +5288,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -5503,7 +5503,7 @@
                                     "type": "ColorStyle",
                                     "id": "2d06ea6e-c801-49eb-896e-d32bc61fefb7",
                                     "name": "1",
-                                    "path": "/1",
+                                    "path": "/Colors/1",
                                     "light": "rgb(205, 226, 166)",
                                     "dark": null
                                   }
@@ -5516,7 +5516,7 @@
                                     "type": "ColorStyle",
                                     "id": "777819d4-6ffa-440c-a271-3fdcfd86b61e",
                                     "name": "2",
-                                    "path": "/2",
+                                    "path": "/Colors/2",
                                     "light": "rgb(168, 207, 105)",
                                     "dark": null
                                   }
@@ -5529,7 +5529,7 @@
                                     "type": "ColorStyle",
                                     "id": "8f5c1690-5df4-4c68-a19c-2408920465ff",
                                     "name": "3",
-                                    "path": "/3",
+                                    "path": "/Colors/3",
                                     "light": "rgb(125, 188, 68)",
                                     "dark": null
                                   }
@@ -5542,7 +5542,7 @@
                                     "type": "ColorStyle",
                                     "id": "cc3ccc99-b92f-4d82-8f31-4ab3b79128f0",
                                     "name": "4",
-                                    "path": "/4",
+                                    "path": "/Colors/4",
                                     "light": "rgb(49, 143, 42)",
                                     "dark": null
                                   }
@@ -5555,7 +5555,7 @@
                                     "type": "ColorStyle",
                                     "id": "49885d84-19c6-45de-8d4c-e693cd6a4bb5",
                                     "name": "5",
-                                    "path": "/5",
+                                    "path": "/Colors/5",
                                     "light": "rgb(42, 128, 34)",
                                     "dark": null
                                   }
@@ -5568,7 +5568,7 @@
                                     "type": "ColorStyle",
                                     "id": "15140e0e-8fa6-4e58-89bf-3241086aab0c",
                                     "name": "6",
-                                    "path": "/6",
+                                    "path": "/Colors/6",
                                     "light": "rgb(20, 100, 31)",
                                     "dark": null
                                   }
@@ -5662,7 +5662,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -5679,7 +5679,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -5747,7 +5747,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -5764,7 +5764,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -5909,7 +5909,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -5926,7 +5926,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -5994,7 +5994,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -6011,7 +6011,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -6221,7 +6221,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -6238,7 +6238,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -6306,7 +6306,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -6323,7 +6323,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -6393,7 +6393,7 @@
                     "type": "TextStyle",
                     "id": "Y3WXAjc1B",
                     "name": "Body",
-                    "path": "/Body",
+                    "path": "/Text Styles/Body",
                     "tag": "p",
                     "font": {
                       "type": "Font",
@@ -6410,7 +6410,7 @@
                       "type": "ColorStyle",
                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                       "name": "000 –– FFF",
-                      "path": "/000 –– FFF",
+                      "path": "/Colors/000 –– FFF",
                       "light": "rgb(0, 0, 0)",
                       "dark": "rgb(255, 255, 255)"
                     },
@@ -6480,7 +6480,7 @@
         "type": "ColorStyle",
         "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
         "name": "FFF –– 000",
-        "path": "/FFF –– 000",
+        "path": "/Colors/FFF –– 000",
         "light": "rgb(255, 255, 255)",
         "dark": "rgb(0, 0, 0)"
       },
@@ -6556,7 +6556,7 @@
             "type": "ColorStyle",
             "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
             "name": "FFF –– 000",
-            "path": "/FFF –– 000",
+            "path": "/Colors/FFF –– 000",
             "light": "rgb(255, 255, 255)",
             "dark": "rgb(0, 0, 0)"
           },
@@ -6908,7 +6908,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -6925,7 +6925,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -6993,7 +6993,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -7010,7 +7010,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -7218,7 +7218,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -7235,7 +7235,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -7303,7 +7303,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -7320,7 +7320,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -7390,7 +7390,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -7407,7 +7407,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -7475,7 +7475,7 @@
                 "type": "ColorStyle",
                 "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
                 "name": "FFF –– 000",
-                "path": "/FFF –– 000",
+                "path": "/Colors/FFF –– 000",
                 "light": "rgb(255, 255, 255)",
                 "dark": "rgb(0, 0, 0)"
               },
@@ -7693,7 +7693,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -7710,7 +7710,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -7778,7 +7778,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -7795,7 +7795,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -7863,7 +7863,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -7880,7 +7880,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -8019,7 +8019,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -8036,7 +8036,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -8104,7 +8104,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -8121,7 +8121,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -8189,7 +8189,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -8206,7 +8206,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -8278,7 +8278,7 @@
                     "type": "TextStyle",
                     "id": "Y3WXAjc1B",
                     "name": "Body",
-                    "path": "/Body",
+                    "path": "/Text Styles/Body",
                     "tag": "p",
                     "font": {
                       "type": "Font",
@@ -8295,7 +8295,7 @@
                       "type": "ColorStyle",
                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                       "name": "000 –– FFF",
-                      "path": "/000 –– FFF",
+                      "path": "/Colors/000 –– FFF",
                       "light": "rgb(0, 0, 0)",
                       "dark": "rgb(255, 255, 255)"
                     },
@@ -8361,7 +8361,7 @@
                 "type": "ColorStyle",
                 "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
                 "name": "FFF –– 000",
-                "path": "/FFF –– 000",
+                "path": "/Colors/FFF –– 000",
                 "light": "rgb(255, 255, 255)",
                 "dark": "rgb(0, 0, 0)"
               },
@@ -8510,7 +8510,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -8527,7 +8527,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -8733,7 +8733,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -8750,7 +8750,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -8818,7 +8818,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -8835,7 +8835,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -8978,7 +8978,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -8995,7 +8995,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -9201,7 +9201,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -9218,7 +9218,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -9286,7 +9286,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -9303,7 +9303,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -9635,7 +9635,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -9652,7 +9652,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -9720,7 +9720,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -9737,7 +9737,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -9882,7 +9882,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -9899,7 +9899,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -10036,7 +10036,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -10053,7 +10053,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -10432,7 +10432,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -10449,7 +10449,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -10658,7 +10658,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -10675,7 +10675,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -10820,7 +10820,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -10837,7 +10837,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -11112,7 +11112,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -11129,7 +11129,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -11197,7 +11197,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -11214,7 +11214,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -11284,7 +11284,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -11301,7 +11301,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -11444,7 +11444,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -11461,7 +11461,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -11667,7 +11667,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -11684,7 +11684,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -11752,7 +11752,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -11769,7 +11769,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -11984,7 +11984,7 @@
                                     "type": "ColorStyle",
                                     "id": "2d06ea6e-c801-49eb-896e-d32bc61fefb7",
                                     "name": "1",
-                                    "path": "/1",
+                                    "path": "/Colors/1",
                                     "light": "rgb(205, 226, 166)",
                                     "dark": null
                                   }
@@ -11997,7 +11997,7 @@
                                     "type": "ColorStyle",
                                     "id": "777819d4-6ffa-440c-a271-3fdcfd86b61e",
                                     "name": "2",
-                                    "path": "/2",
+                                    "path": "/Colors/2",
                                     "light": "rgb(168, 207, 105)",
                                     "dark": null
                                   }
@@ -12010,7 +12010,7 @@
                                     "type": "ColorStyle",
                                     "id": "8f5c1690-5df4-4c68-a19c-2408920465ff",
                                     "name": "3",
-                                    "path": "/3",
+                                    "path": "/Colors/3",
                                     "light": "rgb(125, 188, 68)",
                                     "dark": null
                                   }
@@ -12023,7 +12023,7 @@
                                     "type": "ColorStyle",
                                     "id": "cc3ccc99-b92f-4d82-8f31-4ab3b79128f0",
                                     "name": "4",
-                                    "path": "/4",
+                                    "path": "/Colors/4",
                                     "light": "rgb(49, 143, 42)",
                                     "dark": null
                                   }
@@ -12036,7 +12036,7 @@
                                     "type": "ColorStyle",
                                     "id": "49885d84-19c6-45de-8d4c-e693cd6a4bb5",
                                     "name": "5",
-                                    "path": "/5",
+                                    "path": "/Colors/5",
                                     "light": "rgb(42, 128, 34)",
                                     "dark": null
                                   }
@@ -12049,7 +12049,7 @@
                                     "type": "ColorStyle",
                                     "id": "15140e0e-8fa6-4e58-89bf-3241086aab0c",
                                     "name": "6",
-                                    "path": "/6",
+                                    "path": "/Colors/6",
                                     "light": "rgb(20, 100, 31)",
                                     "dark": null
                                   }
@@ -12143,7 +12143,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -12160,7 +12160,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -12228,7 +12228,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -12245,7 +12245,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -12390,7 +12390,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -12407,7 +12407,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -12475,7 +12475,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -12492,7 +12492,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -12702,7 +12702,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -12719,7 +12719,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -12787,7 +12787,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -12804,7 +12804,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -12874,7 +12874,7 @@
                     "type": "TextStyle",
                     "id": "Y3WXAjc1B",
                     "name": "Body",
-                    "path": "/Body",
+                    "path": "/Text Styles/Body",
                     "tag": "p",
                     "font": {
                       "type": "Font",
@@ -12891,7 +12891,7 @@
                       "type": "ColorStyle",
                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                       "name": "000 –– FFF",
-                      "path": "/000 –– FFF",
+                      "path": "/Colors/000 –– FFF",
                       "light": "rgb(0, 0, 0)",
                       "dark": "rgb(255, 255, 255)"
                     },
@@ -12961,7 +12961,7 @@
         "type": "ColorStyle",
         "id": "b1a6225c-ec6e-40cd-9498-8ca63330d65a",
         "name": "FFF –– 000",
-        "path": "/FFF –– 000",
+        "path": "/Colors/FFF –– 000",
         "light": "rgb(255, 255, 255)",
         "dark": "rgb(0, 0, 0)"
       },
@@ -13382,7 +13382,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -13399,7 +13399,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -13467,7 +13467,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -13484,7 +13484,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -13692,7 +13692,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -13709,7 +13709,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -13777,7 +13777,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -13794,7 +13794,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -13864,7 +13864,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -13881,7 +13881,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -14160,7 +14160,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -14177,7 +14177,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -14245,7 +14245,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -14262,7 +14262,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -14330,7 +14330,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -14347,7 +14347,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -14486,7 +14486,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -14503,7 +14503,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -14571,7 +14571,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -14588,7 +14588,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -14656,7 +14656,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -14673,7 +14673,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -14745,7 +14745,7 @@
                     "type": "TextStyle",
                     "id": "Y3WXAjc1B",
                     "name": "Body",
-                    "path": "/Body",
+                    "path": "/Text Styles/Body",
                     "tag": "p",
                     "font": {
                       "type": "Font",
@@ -14762,7 +14762,7 @@
                       "type": "ColorStyle",
                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                       "name": "000 –– FFF",
-                      "path": "/000 –– FFF",
+                      "path": "/Colors/000 –– FFF",
                       "light": "rgb(0, 0, 0)",
                       "dark": "rgb(255, 255, 255)"
                     },
@@ -14970,7 +14970,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -14987,7 +14987,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -15193,7 +15193,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -15210,7 +15210,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -15278,7 +15278,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -15295,7 +15295,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -15438,7 +15438,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -15455,7 +15455,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -15661,7 +15661,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -15678,7 +15678,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -15746,7 +15746,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -15763,7 +15763,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -16095,7 +16095,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -16112,7 +16112,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -16180,7 +16180,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -16197,7 +16197,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -16342,7 +16342,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -16359,7 +16359,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -16496,7 +16496,7 @@
                             "type": "TextStyle",
                             "id": "Y3WXAjc1B",
                             "name": "Body",
-                            "path": "/Body",
+                            "path": "/Text Styles/Body",
                             "tag": "p",
                             "font": {
                               "type": "Font",
@@ -16513,7 +16513,7 @@
                               "type": "ColorStyle",
                               "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                               "name": "000 –– FFF",
-                              "path": "/000 –– FFF",
+                              "path": "/Colors/000 –– FFF",
                               "light": "rgb(0, 0, 0)",
                               "dark": "rgb(255, 255, 255)"
                             },
@@ -16892,7 +16892,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -16909,7 +16909,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -17118,7 +17118,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -17135,7 +17135,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -17280,7 +17280,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -17297,7 +17297,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -17572,7 +17572,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -17589,7 +17589,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -17657,7 +17657,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -17674,7 +17674,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -17744,7 +17744,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -17761,7 +17761,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -17904,7 +17904,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -17921,7 +17921,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -18127,7 +18127,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -18144,7 +18144,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -18212,7 +18212,7 @@
                                 "type": "TextStyle",
                                 "id": "Y3WXAjc1B",
                                 "name": "Body",
-                                "path": "/Body",
+                                "path": "/Text Styles/Body",
                                 "tag": "p",
                                 "font": {
                                   "type": "Font",
@@ -18229,7 +18229,7 @@
                                   "type": "ColorStyle",
                                   "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                   "name": "000 –– FFF",
-                                  "path": "/000 –– FFF",
+                                  "path": "/Colors/000 –– FFF",
                                   "light": "rgb(0, 0, 0)",
                                   "dark": "rgb(255, 255, 255)"
                                 },
@@ -18444,7 +18444,7 @@
                                     "type": "ColorStyle",
                                     "id": "2d06ea6e-c801-49eb-896e-d32bc61fefb7",
                                     "name": "1",
-                                    "path": "/1",
+                                    "path": "/Colors/1",
                                     "light": "rgb(205, 226, 166)",
                                     "dark": null
                                   }
@@ -18457,7 +18457,7 @@
                                     "type": "ColorStyle",
                                     "id": "777819d4-6ffa-440c-a271-3fdcfd86b61e",
                                     "name": "2",
-                                    "path": "/2",
+                                    "path": "/Colors/2",
                                     "light": "rgb(168, 207, 105)",
                                     "dark": null
                                   }
@@ -18470,7 +18470,7 @@
                                     "type": "ColorStyle",
                                     "id": "8f5c1690-5df4-4c68-a19c-2408920465ff",
                                     "name": "3",
-                                    "path": "/3",
+                                    "path": "/Colors/3",
                                     "light": "rgb(125, 188, 68)",
                                     "dark": null
                                   }
@@ -18483,7 +18483,7 @@
                                     "type": "ColorStyle",
                                     "id": "cc3ccc99-b92f-4d82-8f31-4ab3b79128f0",
                                     "name": "4",
-                                    "path": "/4",
+                                    "path": "/Colors/4",
                                     "light": "rgb(49, 143, 42)",
                                     "dark": null
                                   }
@@ -18496,7 +18496,7 @@
                                     "type": "ColorStyle",
                                     "id": "49885d84-19c6-45de-8d4c-e693cd6a4bb5",
                                     "name": "5",
-                                    "path": "/5",
+                                    "path": "/Colors/5",
                                     "light": "rgb(42, 128, 34)",
                                     "dark": null
                                   }
@@ -18509,7 +18509,7 @@
                                     "type": "ColorStyle",
                                     "id": "15140e0e-8fa6-4e58-89bf-3241086aab0c",
                                     "name": "6",
-                                    "path": "/6",
+                                    "path": "/Colors/6",
                                     "light": "rgb(20, 100, 31)",
                                     "dark": null
                                   }
@@ -18603,7 +18603,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -18620,7 +18620,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -18688,7 +18688,7 @@
                                     "type": "TextStyle",
                                     "id": "Y3WXAjc1B",
                                     "name": "Body",
-                                    "path": "/Body",
+                                    "path": "/Text Styles/Body",
                                     "tag": "p",
                                     "font": {
                                       "type": "Font",
@@ -18705,7 +18705,7 @@
                                       "type": "ColorStyle",
                                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                                       "name": "000 –– FFF",
-                                      "path": "/000 –– FFF",
+                                      "path": "/Colors/000 –– FFF",
                                       "light": "rgb(0, 0, 0)",
                                       "dark": "rgb(255, 255, 255)"
                                     },
@@ -18850,7 +18850,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -18867,7 +18867,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -18935,7 +18935,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -18952,7 +18952,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -19162,7 +19162,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -19179,7 +19179,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -19247,7 +19247,7 @@
                         "type": "TextStyle",
                         "id": "Y3WXAjc1B",
                         "name": "Body",
-                        "path": "/Body",
+                        "path": "/Text Styles/Body",
                         "tag": "p",
                         "font": {
                           "type": "Font",
@@ -19264,7 +19264,7 @@
                           "type": "ColorStyle",
                           "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                           "name": "000 –– FFF",
-                          "path": "/000 –– FFF",
+                          "path": "/Colors/000 –– FFF",
                           "light": "rgb(0, 0, 0)",
                           "dark": "rgb(255, 255, 255)"
                         },
@@ -19334,7 +19334,7 @@
                     "type": "TextStyle",
                     "id": "Y3WXAjc1B",
                     "name": "Body",
-                    "path": "/Body",
+                    "path": "/Text Styles/Body",
                     "tag": "p",
                     "font": {
                       "type": "Font",
@@ -19351,7 +19351,7 @@
                       "type": "ColorStyle",
                       "id": "b02124b3-4ff5-4cae-8e64-520884cca2e5",
                       "name": "000 –– FFF",
-                      "path": "/000 –– FFF",
+                      "path": "/Colors/000 –– FFF",
                       "light": "rgb(0, 0, 0)",
                       "dark": "rgb(255, 255, 255)"
                     },
