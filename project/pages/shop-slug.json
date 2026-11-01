@@ -1449,17 +1449,13 @@
               "id": "RjR4lCP6s",
               "originalId": null,
               "__class": "ComponentInstanceNode",
-              "name": "Cart (New)",
+              "name": "Component",
               "visible": false,
               "locked": false,
               "componentIdentifier": "local-module:canvasComponent/zvqqIQ9Mm:default",
               "insertURL": "https://studio.com/m/Cart-New-REJZFu.js@ianaXHjxZTy8BtptRCo6",
-              "componentName": "Cart (New)",
-              "controls": {
-                "p53MLYJND": 0,
-                "pTwtQp4Ev": 0,
-                "x9OyERGLN": 0
-              },
+              "componentName": null,
+              "controls": {},
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -1476,26 +1472,7 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": null,
-              "typedControls": {
-                "p53MLYJND": {
-                  "type": "number",
-                  "key": "p53MLYJND",
-                  "title": "Count",
-                  "value": 0
-                },
-                "pTwtQp4Ev": {
-                  "type": "number",
-                  "key": "pTwtQp4Ev",
-                  "title": "Total",
-                  "value": 0
-                },
-                "x9OyERGLN": {
-                  "type": "number",
-                  "key": "x9OyERGLN",
-                  "title": "Total Count",
-                  "value": 0
-                }
-              },
+              "typedControls": {},
               "isReplica": false,
               "children": []
             },
@@ -1504,17 +1481,13 @@
               "id": "QZceEPEXT",
               "originalId": null,
               "__class": "ComponentInstanceNode",
-              "name": "Cart (New) 2",
+              "name": "Component",
               "visible": true,
               "locked": false,
               "componentIdentifier": "local-module:canvasComponent/DtEaXMYuI:default",
               "insertURL": "https://studio.com/m/Cart-New-2-DvnYsS.js@e77lKaiRmeHgIrNGCTAX",
-              "componentName": "Cart (New) 2",
-              "controls": {
-                "variant": "ZIZ4akPsf",
-                "pTwtQp4Ev": 0,
-                "x9OyERGLN": 0
-              },
+              "componentName": null,
+              "controls": {},
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -1531,42 +1504,7 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": null,
-              "typedControls": {
-                "variant": {
-                  "type": "enum",
-                  "key": "variant",
-                  "title": "Variant",
-                  "options": [
-                    {
-                      "id": "ZIZ4akPsf",
-                      "title": "Variant 1"
-                    },
-                    {
-                      "id": "UZNIzwVrW",
-                      "title": "Variant 2"
-                    }
-                  ],
-                  "value": "ZIZ4akPsf"
-                },
-                "pTwtQp4Ev": {
-                  "type": "number",
-                  "key": "pTwtQp4Ev",
-                  "title": "Total",
-                  "value": 0
-                },
-                "x9OyERGLN": {
-                  "type": "number",
-                  "key": "x9OyERGLN",
-                  "title": "Total Count",
-                  "value": 0
-                },
-                "xMWHdDeJG": {
-                  "type": "multiCollectionReference",
-                  "key": "xMWHdDeJG",
-                  "title": "In Cart",
-                  "value": []
-                }
-              },
+              "typedControls": {},
               "isReplica": false,
               "children": []
             }
@@ -3015,17 +2953,13 @@
               "id": "LvID82zOxRjR4lCP6s",
               "originalId": "RjR4lCP6s",
               "__class": "ComponentInstanceNode",
-              "name": "Cart (New)",
+              "name": "Component",
               "visible": false,
               "locked": false,
               "componentIdentifier": "local-module:canvasComponent/zvqqIQ9Mm:default",
               "insertURL": "https://studio.com/m/Cart-New-REJZFu.js@ianaXHjxZTy8BtptRCo6",
-              "componentName": "Cart (New)",
-              "controls": {
-                "p53MLYJND": 0,
-                "pTwtQp4Ev": 0,
-                "x9OyERGLN": 0
-              },
+              "componentName": null,
+              "controls": {},
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -3042,26 +2976,7 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": null,
-              "typedControls": {
-                "p53MLYJND": {
-                  "type": "number",
-                  "key": "p53MLYJND",
-                  "title": "Count",
-                  "value": 0
-                },
-                "pTwtQp4Ev": {
-                  "type": "number",
-                  "key": "pTwtQp4Ev",
-                  "title": "Total",
-                  "value": 0
-                },
-                "x9OyERGLN": {
-                  "type": "number",
-                  "key": "x9OyERGLN",
-                  "title": "Total Count",
-                  "value": 0
-                }
-              },
+              "typedControls": {},
               "isReplica": true,
               "children": []
             },
@@ -3070,17 +2985,13 @@
               "id": "LvID82zOxQZceEPEXT",
               "originalId": "QZceEPEXT",
               "__class": "ComponentInstanceNode",
-              "name": "Cart (New) 2",
+              "name": "Component",
               "visible": true,
               "locked": false,
               "componentIdentifier": "local-module:canvasComponent/DtEaXMYuI:default",
               "insertURL": "https://studio.com/m/Cart-New-2-DvnYsS.js@e77lKaiRmeHgIrNGCTAX",
-              "componentName": "Cart (New) 2",
-              "controls": {
-                "variant": "ZIZ4akPsf",
-                "pTwtQp4Ev": 0,
-                "x9OyERGLN": 0
-              },
+              "componentName": null,
+              "controls": {},
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -3097,42 +3008,7 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": null,
-              "typedControls": {
-                "variant": {
-                  "type": "enum",
-                  "key": "variant",
-                  "title": "Variant",
-                  "options": [
-                    {
-                      "id": "ZIZ4akPsf",
-                      "title": "Variant 1"
-                    },
-                    {
-                      "id": "UZNIzwVrW",
-                      "title": "Variant 2"
-                    }
-                  ],
-                  "value": "ZIZ4akPsf"
-                },
-                "pTwtQp4Ev": {
-                  "type": "number",
-                  "key": "pTwtQp4Ev",
-                  "title": "Total",
-                  "value": 0
-                },
-                "x9OyERGLN": {
-                  "type": "number",
-                  "key": "x9OyERGLN",
-                  "title": "Total Count",
-                  "value": 0
-                },
-                "xMWHdDeJG": {
-                  "type": "multiCollectionReference",
-                  "key": "xMWHdDeJG",
-                  "title": "In Cart",
-                  "value": []
-                }
-              },
+              "typedControls": {},
               "isReplica": true,
               "children": []
             }
@@ -4581,17 +4457,13 @@
               "id": "xuwJo0cYJRjR4lCP6s",
               "originalId": "RjR4lCP6s",
               "__class": "ComponentInstanceNode",
-              "name": "Cart (New)",
+              "name": "Component",
               "visible": false,
               "locked": false,
               "componentIdentifier": "local-module:canvasComponent/zvqqIQ9Mm:default",
               "insertURL": "https://studio.com/m/Cart-New-REJZFu.js@ianaXHjxZTy8BtptRCo6",
-              "componentName": "Cart (New)",
-              "controls": {
-                "p53MLYJND": 0,
-                "pTwtQp4Ev": 0,
-                "x9OyERGLN": 0
-              },
+              "componentName": null,
+              "controls": {},
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -4608,26 +4480,7 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": null,
-              "typedControls": {
-                "p53MLYJND": {
-                  "type": "number",
-                  "key": "p53MLYJND",
-                  "title": "Count",
-                  "value": 0
-                },
-                "pTwtQp4Ev": {
-                  "type": "number",
-                  "key": "pTwtQp4Ev",
-                  "title": "Total",
-                  "value": 0
-                },
-                "x9OyERGLN": {
-                  "type": "number",
-                  "key": "x9OyERGLN",
-                  "title": "Total Count",
-                  "value": 0
-                }
-              },
+              "typedControls": {},
               "isReplica": true,
               "children": []
             },
@@ -4636,17 +4489,13 @@
               "id": "xuwJo0cYJQZceEPEXT",
               "originalId": "QZceEPEXT",
               "__class": "ComponentInstanceNode",
-              "name": "Cart (New) 2",
+              "name": "Component",
               "visible": true,
               "locked": false,
               "componentIdentifier": "local-module:canvasComponent/DtEaXMYuI:default",
               "insertURL": "https://studio.com/m/Cart-New-2-DvnYsS.js@e77lKaiRmeHgIrNGCTAX",
-              "componentName": "Cart (New) 2",
-              "controls": {
-                "variant": "UZNIzwVrW",
-                "pTwtQp4Ev": 0,
-                "x9OyERGLN": 0
-              },
+              "componentName": null,
+              "controls": {},
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -4663,42 +4512,7 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": null,
-              "typedControls": {
-                "variant": {
-                  "type": "enum",
-                  "key": "variant",
-                  "title": "Variant",
-                  "options": [
-                    {
-                      "id": "ZIZ4akPsf",
-                      "title": "Variant 1"
-                    },
-                    {
-                      "id": "UZNIzwVrW",
-                      "title": "Variant 2"
-                    }
-                  ],
-                  "value": "UZNIzwVrW"
-                },
-                "pTwtQp4Ev": {
-                  "type": "number",
-                  "key": "pTwtQp4Ev",
-                  "title": "Total",
-                  "value": 0
-                },
-                "x9OyERGLN": {
-                  "type": "number",
-                  "key": "x9OyERGLN",
-                  "title": "Total Count",
-                  "value": 0
-                },
-                "xMWHdDeJG": {
-                  "type": "multiCollectionReference",
-                  "key": "xMWHdDeJG",
-                  "title": "In Cart",
-                  "value": []
-                }
-              },
+              "typedControls": {},
               "isReplica": true,
               "children": []
             }

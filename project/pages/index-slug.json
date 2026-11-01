@@ -2957,9 +2957,9 @@
                               "insertURL": "https://studio.com/m/HojichaRoastScale-Pi29Ge.js@vf96jKIZ6zsLywtkGiaA",
                               "componentName": "Hojicha Roast Scale",
                               "controls": {
-                                "inactiveHeight": 8,
-                                "activeHeight": 24,
-                                "gap": 5,
+                                "inactiveHeight": 10,
+                                "activeHeight": 30,
+                                "gap": 0,
                                 "inactiveRadius": 0,
                                 "activeRadius": 0,
                                 "colorScale1": "rgb(240, 220, 170)",
@@ -3003,19 +3003,19 @@
                                   "type": "number",
                                   "key": "inactiveHeight",
                                   "title": "Height",
-                                  "value": 8
+                                  "value": 10
                                 },
                                 "activeHeight": {
                                   "type": "number",
                                   "key": "activeHeight",
                                   "title": "Active Height",
-                                  "value": 24
+                                  "value": 30
                                 },
                                 "gap": {
                                   "type": "number",
                                   "key": "gap",
                                   "title": "Gap",
-                                  "value": 5
+                                  "value": 0
                                 },
                                 "inactiveRadius": {
                                   "type": "number",
@@ -3636,14 +3636,14 @@
                           "insertURL": "https://studio.com/m/SweetnessBar-cbfOab.js@Q20iQF2b8EqEFc6yOEuB",
                           "componentName": "SweetnessBar",
                           "controls": {
-                            "trackColor": "rgba(255, 255, 255, 0)",
+                            "trackColor": "rgb(238, 238, 238)",
                             "aminoColor": "rgb(205, 226, 166)",
                             "catechinColor": "rgb(20, 100, 31)",
                             "segmentHeight": 8,
                             "gap": 5,
-                            "padding": 0,
-                            "trackRadius": 0,
-                            "segmentRadius": 0
+                            "padding": 5,
+                            "trackRadius": 10,
+                            "segmentRadius": 10
                           },
                           "rotation": 0,
                           "opacity": 1,
@@ -3679,7 +3679,14 @@
                               "type": "color",
                               "key": "trackColor",
                               "title": "Track",
-                              "value": "rgba(255, 255, 255, 0)"
+                              "value": {
+                                "type": "ColorStyle",
+                                "id": "6e13f57c-5a1d-4794-84fd-093a6d3dbc59",
+                                "name": "EEE –– 222",
+                                "path": "/Colors/EEE –– 222",
+                                "light": "rgb(238, 238, 238)",
+                                "dark": "rgb(34, 34, 34)"
+                              }
                             },
                             "aminoColor": {
                               "type": "color",
@@ -3709,19 +3716,19 @@
                               "type": "number",
                               "key": "padding",
                               "title": "Padding",
-                              "value": 0
+                              "value": 5
                             },
                             "trackRadius": {
                               "type": "number",
                               "key": "trackRadius",
                               "title": "Track Radius",
-                              "value": 0
+                              "value": 10
                             },
                             "segmentRadius": {
                               "type": "number",
                               "key": "segmentRadius",
                               "title": "Segment Radius",
-                              "value": 0
+                              "value": 10
                             }
                           },
                           "isReplica": false,
@@ -3878,7 +3885,7 @@
                                   "backgroundGradient": null,
                                   "rotation": 0,
                                   "opacity": 1,
-                                  "borderRadius": "0px",
+                                  "borderRadius": "100px",
                                   "border": null,
                                   "imageRendering": null,
                                   "position": "absolute",
@@ -3894,7 +3901,7 @@
                                   "minWidth": null,
                                   "maxHeight": null,
                                   "minHeight": null,
-                                  "aspectRatio": null,
+                                  "aspectRatio": 1,
                                   "zIndex": null,
                                   "link": null,
                                   "linkOpenInNewTab": null,
@@ -4104,7 +4111,7 @@
                                   "backgroundGradient": null,
                                   "rotation": 0,
                                   "opacity": 1,
-                                  "borderRadius": "0px",
+                                  "borderRadius": "10px",
                                   "border": null,
                                   "imageRendering": null,
                                   "position": "absolute",
@@ -4120,7 +4127,7 @@
                                   "minWidth": null,
                                   "maxHeight": null,
                                   "minHeight": null,
-                                  "aspectRatio": null,
+                                  "aspectRatio": 1,
                                   "zIndex": null,
                                   "link": null,
                                   "linkOpenInNewTab": null,
@@ -9438,9 +9445,9 @@
                               "insertURL": "https://studio.com/m/HojichaRoastScale-Pi29Ge.js@vf96jKIZ6zsLywtkGiaA",
                               "componentName": "Hojicha Roast Scale",
                               "controls": {
-                                "inactiveHeight": 8,
-                                "activeHeight": 24,
-                                "gap": 5,
+                                "inactiveHeight": 10,
+                                "activeHeight": 30,
+                                "gap": 0,
                                 "inactiveRadius": 0,
                                 "activeRadius": 0,
                                 "colorScale1": "rgb(240, 220, 170)",
@@ -9484,19 +9491,19 @@
                                   "type": "number",
                                   "key": "inactiveHeight",
                                   "title": "Height",
-                                  "value": 8
+                                  "value": 10
                                 },
                                 "activeHeight": {
                                   "type": "number",
                                   "key": "activeHeight",
                                   "title": "Active Height",
-                                  "value": 24
+                                  "value": 30
                                 },
                                 "gap": {
                                   "type": "number",
                                   "key": "gap",
                                   "title": "Gap",
-                                  "value": 5
+                                  "value": 0
                                 },
                                 "inactiveRadius": {
                                   "type": "number",
@@ -10117,14 +10124,14 @@
                           "insertURL": "https://studio.com/m/SweetnessBar-cbfOab.js@Q20iQF2b8EqEFc6yOEuB",
                           "componentName": "SweetnessBar",
                           "controls": {
-                            "trackColor": "rgba(255, 255, 255, 0)",
+                            "trackColor": "rgb(238, 238, 238)",
                             "aminoColor": "rgb(205, 226, 166)",
                             "catechinColor": "rgb(20, 100, 31)",
                             "segmentHeight": 8,
                             "gap": 5,
-                            "padding": 0,
-                            "trackRadius": 0,
-                            "segmentRadius": 0
+                            "padding": 5,
+                            "trackRadius": 10,
+                            "segmentRadius": 10
                           },
                           "rotation": 0,
                           "opacity": 1,
@@ -10160,7 +10167,14 @@
                               "type": "color",
                               "key": "trackColor",
                               "title": "Track",
-                              "value": "rgba(255, 255, 255, 0)"
+                              "value": {
+                                "type": "ColorStyle",
+                                "id": "6e13f57c-5a1d-4794-84fd-093a6d3dbc59",
+                                "name": "EEE –– 222",
+                                "path": "/Colors/EEE –– 222",
+                                "light": "rgb(238, 238, 238)",
+                                "dark": "rgb(34, 34, 34)"
+                              }
                             },
                             "aminoColor": {
                               "type": "color",
@@ -10190,19 +10204,19 @@
                               "type": "number",
                               "key": "padding",
                               "title": "Padding",
-                              "value": 0
+                              "value": 5
                             },
                             "trackRadius": {
                               "type": "number",
                               "key": "trackRadius",
                               "title": "Track Radius",
-                              "value": 0
+                              "value": 10
                             },
                             "segmentRadius": {
                               "type": "number",
                               "key": "segmentRadius",
                               "title": "Segment Radius",
-                              "value": 0
+                              "value": 10
                             }
                           },
                           "isReplica": true,
@@ -10359,7 +10373,7 @@
                                   "backgroundGradient": null,
                                   "rotation": 0,
                                   "opacity": 1,
-                                  "borderRadius": "0px",
+                                  "borderRadius": "100px",
                                   "border": null,
                                   "imageRendering": null,
                                   "position": "absolute",
@@ -10375,7 +10389,7 @@
                                   "minWidth": null,
                                   "maxHeight": null,
                                   "minHeight": null,
-                                  "aspectRatio": null,
+                                  "aspectRatio": 1,
                                   "zIndex": null,
                                   "link": null,
                                   "linkOpenInNewTab": null,
@@ -10585,7 +10599,7 @@
                                   "backgroundGradient": null,
                                   "rotation": 0,
                                   "opacity": 1,
-                                  "borderRadius": "0px",
+                                  "borderRadius": "10px",
                                   "border": null,
                                   "imageRendering": null,
                                   "position": "absolute",
@@ -10601,7 +10615,7 @@
                                   "minWidth": null,
                                   "maxHeight": null,
                                   "minHeight": null,
-                                  "aspectRatio": null,
+                                  "aspectRatio": 1,
                                   "zIndex": null,
                                   "link": null,
                                   "linkOpenInNewTab": null,
@@ -15898,9 +15912,9 @@
                               "insertURL": "https://studio.com/m/HojichaRoastScale-Pi29Ge.js@vf96jKIZ6zsLywtkGiaA",
                               "componentName": "Hojicha Roast Scale",
                               "controls": {
-                                "inactiveHeight": 8,
-                                "activeHeight": 24,
-                                "gap": 5,
+                                "inactiveHeight": 10,
+                                "activeHeight": 30,
+                                "gap": 0,
                                 "inactiveRadius": 0,
                                 "activeRadius": 0,
                                 "colorScale1": "rgb(240, 220, 170)",
@@ -15944,19 +15958,19 @@
                                   "type": "number",
                                   "key": "inactiveHeight",
                                   "title": "Height",
-                                  "value": 8
+                                  "value": 10
                                 },
                                 "activeHeight": {
                                   "type": "number",
                                   "key": "activeHeight",
                                   "title": "Active Height",
-                                  "value": 24
+                                  "value": 30
                                 },
                                 "gap": {
                                   "type": "number",
                                   "key": "gap",
                                   "title": "Gap",
-                                  "value": 5
+                                  "value": 0
                                 },
                                 "inactiveRadius": {
                                   "type": "number",
@@ -16577,14 +16591,14 @@
                           "insertURL": "https://studio.com/m/SweetnessBar-cbfOab.js@Q20iQF2b8EqEFc6yOEuB",
                           "componentName": "SweetnessBar",
                           "controls": {
-                            "trackColor": "rgba(255, 255, 255, 0)",
+                            "trackColor": "rgb(238, 238, 238)",
                             "aminoColor": "rgb(205, 226, 166)",
                             "catechinColor": "rgb(20, 100, 31)",
                             "segmentHeight": 8,
                             "gap": 5,
-                            "padding": 0,
-                            "trackRadius": 0,
-                            "segmentRadius": 0
+                            "padding": 5,
+                            "trackRadius": 10,
+                            "segmentRadius": 10
                           },
                           "rotation": 0,
                           "opacity": 1,
@@ -16620,7 +16634,14 @@
                               "type": "color",
                               "key": "trackColor",
                               "title": "Track",
-                              "value": "rgba(255, 255, 255, 0)"
+                              "value": {
+                                "type": "ColorStyle",
+                                "id": "6e13f57c-5a1d-4794-84fd-093a6d3dbc59",
+                                "name": "EEE –– 222",
+                                "path": "/Colors/EEE –– 222",
+                                "light": "rgb(238, 238, 238)",
+                                "dark": "rgb(34, 34, 34)"
+                              }
                             },
                             "aminoColor": {
                               "type": "color",
@@ -16650,19 +16671,19 @@
                               "type": "number",
                               "key": "padding",
                               "title": "Padding",
-                              "value": 0
+                              "value": 5
                             },
                             "trackRadius": {
                               "type": "number",
                               "key": "trackRadius",
                               "title": "Track Radius",
-                              "value": 0
+                              "value": 10
                             },
                             "segmentRadius": {
                               "type": "number",
                               "key": "segmentRadius",
                               "title": "Segment Radius",
-                              "value": 0
+                              "value": 10
                             }
                           },
                           "isReplica": true,
@@ -16819,7 +16840,7 @@
                                   "backgroundGradient": null,
                                   "rotation": 0,
                                   "opacity": 1,
-                                  "borderRadius": "0px",
+                                  "borderRadius": "100px",
                                   "border": null,
                                   "imageRendering": null,
                                   "position": "absolute",
@@ -16835,7 +16856,7 @@
                                   "minWidth": null,
                                   "maxHeight": null,
                                   "minHeight": null,
-                                  "aspectRatio": null,
+                                  "aspectRatio": 1,
                                   "zIndex": null,
                                   "link": null,
                                   "linkOpenInNewTab": null,
@@ -17045,7 +17066,7 @@
                                   "backgroundGradient": null,
                                   "rotation": 0,
                                   "opacity": 1,
-                                  "borderRadius": "0px",
+                                  "borderRadius": "10px",
                                   "border": null,
                                   "imageRendering": null,
                                   "position": "absolute",
@@ -17061,7 +17082,7 @@
                                   "minWidth": null,
                                   "maxHeight": null,
                                   "minHeight": null,
-                                  "aspectRatio": null,
+                                  "aspectRatio": 1,
                                   "zIndex": null,
                                   "link": null,
                                   "linkOpenInNewTab": null,
