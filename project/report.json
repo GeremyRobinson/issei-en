@@ -1,10 +1,10 @@
 {
   "files": 90,
-  "nodes": 1160,
+  "nodes": 1088,
   "reads": {
     "getText": 24,
-    "getHTML failed": 467,
-    "getText failed": 443
+    "getHTML failed": 443,
+    "getText failed": 419
   },
   "failures": [
     "TextNode.getHTML on uHLm1ega0 (replica: false): Invalid method: INTERNAL_getHTMLForNode",

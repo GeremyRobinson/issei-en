@@ -144,11 +144,6 @@
     },
     {
       "type": "number",
-      "id": "cqV3dVh7V",
-      "name": "50kg"
-    },
-    {
-      "type": "number",
       "id": "PHUGFzraW",
       "name": "Roast Level"
     },
@@ -319,10 +314,6 @@
           "type": "number",
           "value": 550
         },
-        "cqV3dVh7V": {
-          "type": "number",
-          "value": 0
-        },
         "PHUGFzraW": {
           "type": "number",
           "value": 1
@@ -351,7 +342,7 @@
       "id": "chx2TfzT2",
       "nodeId": "chx2TfzT2",
       "createdAt": "2026-04-16T22:53:23.723Z",
-      "updatedAt": "2026-08-25T07:16:07.692Z",
+      "updatedAt": "2026-11-13T17:57:27.403Z",
       "slug": "uji",
       "slugByLocale": {},
       "draft": false,
@@ -472,10 +463,6 @@
         },
         "y8KnnllXp": {
           "type": "number",
-          "value": 400
-        },
-        "cqV3dVh7V": {
-          "type": "number",
           "value": 350
         },
         "PHUGFzraW": {
@@ -506,7 +493,7 @@
       "id": "bivOS3tst",
       "nodeId": "bivOS3tst",
       "createdAt": "2026-04-16T22:53:23.722Z",
-      "updatedAt": "2026-08-25T07:16:10.959Z",
+      "updatedAt": "2026-11-13T17:57:30.954Z",
       "slug": "kyo",
       "slugByLocale": {},
       "draft": false,
@@ -627,10 +614,6 @@
         },
         "y8KnnllXp": {
           "type": "number",
-          "value": 300
-        },
-        "cqV3dVh7V": {
-          "type": "number",
           "value": 250
         },
         "PHUGFzraW": {
@@ -661,7 +644,7 @@
       "id": "zpYJS4OXk",
       "nodeId": "zpYJS4OXk",
       "createdAt": "2026-04-16T22:53:23.723Z",
-      "updatedAt": "2026-10-09T19:04:08.813Z",
+      "updatedAt": "2026-11-13T17:57:34.270Z",
       "slug": "en",
       "slugByLocale": {},
       "draft": false,
@@ -775,19 +758,15 @@
         },
         "nAAux52Ya": {
           "type": "number",
-          "value": 16
+          "value": 0
         },
         "IkunJY3cP": {
           "type": "number",
-          "value": 350
+          "value": 325
         },
         "y8KnnllXp": {
           "type": "number",
-          "value": 275
-        },
-        "cqV3dVh7V": {
-          "type": "number",
-          "value": 225
+          "value": 200
         },
         "PHUGFzraW": {
           "type": "number",
@@ -817,7 +796,7 @@
       "id": "F38WzkVlR",
       "nodeId": "F38WzkVlR",
       "createdAt": "2026-04-16T22:53:23.723Z",
-      "updatedAt": "2026-09-21T03:05:00.695Z",
+      "updatedAt": "2026-11-13T17:57:37.568Z",
       "slug": "rei",
       "slugByLocale": {},
       "draft": false,
@@ -939,10 +918,6 @@
         },
         "y8KnnllXp": {
           "type": "number",
-          "value": 230
-        },
-        "cqV3dVh7V": {
-          "type": "number",
           "value": 200
         },
         "PHUGFzraW": {
@@ -973,7 +948,7 @@
       "id": "vnvp_PAHN",
       "nodeId": "vnvp_PAHN",
       "createdAt": "2026-04-16T22:53:23.723Z",
-      "updatedAt": "2026-09-21T03:05:02.129Z",
+      "updatedAt": "2026-11-13T17:57:40.593Z",
       "slug": "ko",
       "slugByLocale": {},
       "draft": false,
@@ -1094,10 +1069,6 @@
           "value": 180
         },
         "y8KnnllXp": {
-          "type": "number",
-          "value": 150
-        },
-        "cqV3dVh7V": {
           "type": "number",
           "value": 125
         },

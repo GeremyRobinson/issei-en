@@ -1,11 +1,11 @@
 {
   "source": "https://issei-en.com",
-  "exportedAt": "2026-11-01T08:05:19.824Z",
+  "exportedAt": "2026-11-13T18:28:32.244Z",
   "mode": "interactive",
   "publish": {
-    "build": "1683339",
-    "publishedAt": "2026-11-01T05:26:00.000Z",
-    "published": "Nov 1, 2026, 5:26 AM UTC",
+    "build": "c292b3e",
+    "publishedAt": "2026-11-13T18:19:00.000Z",
+    "published": "Nov 13, 2026, 6:19 PM UTC",
     "cmsFiles": 4,
     "cmsCollections": 3
   },
