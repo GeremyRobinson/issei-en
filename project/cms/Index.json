@@ -190,7 +190,7 @@
       "id": "bgZeI2WBT",
       "nodeId": "bgZeI2WBT",
       "createdAt": "2026-04-16T22:53:23.722Z",
-      "updatedAt": "2026-08-25T07:17:39.369Z",
+      "updatedAt": "2026-11-20T20:19:30.823Z",
       "slug": "sei",
       "slugByLocale": {},
       "draft": false,
@@ -212,7 +212,7 @@
         },
         "yTPLiwXD7": {
           "type": "boolean",
-          "value": true
+          "value": false
         },
         "G4Eszy3w8": {
           "type": "image",

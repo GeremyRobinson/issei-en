@@ -164,7 +164,9 @@
               "componentIdentifier": "local-module:canvasComponent/Nus9gMHwL:default",
               "insertURL": "https://studio.com/m/Image-iMntb8.js@I70QSkWcDAD0hZaHw9FW",
               "componentName": "Image",
-              "controls": {},
+              "controls": {
+                "variant": "tbzfgE3Tu"
+              },
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -181,7 +183,41 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": 1.003,
-              "typedControls": {},
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "tbzfgE3Tu",
+                      "title": "Square"
+                    },
+                    {
+                      "id": "bEqWZopi6",
+                      "title": "Landscape"
+                    },
+                    {
+                      "id": "zoly8_bIf",
+                      "title": "Portrait"
+                    }
+                  ],
+                  "value": "tbzfgE3Tu"
+                },
+                "z4Z8f0ETS": {
+                  "type": "image",
+                  "key": "z4Z8f0ETS",
+                  "title": "Image",
+                  "value": {
+                    "type": "image",
+                    "nodeId": "Je4ZeJsbA",
+                    "nodeType": "collection",
+                    "id": "G4Eszy3w8",
+                    "name": "Image 1",
+                    "description": null
+                  }
+                }
+              },
               "isReplica": false,
               "children": []
             },
@@ -196,7 +232,9 @@
               "componentIdentifier": "local-module:canvasComponent/Nus9gMHwL:default",
               "insertURL": "https://studio.com/m/Image-iMntb8.js@I70QSkWcDAD0hZaHw9FW",
               "componentName": "Image",
-              "controls": {},
+              "controls": {
+                "variant": "tbzfgE3Tu"
+              },
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -213,7 +251,43 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": 1.004,
-              "typedControls": {},
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "tbzfgE3Tu",
+                      "title": "Square"
+                    },
+                    {
+                      "id": "bEqWZopi6",
+                      "title": "Landscape"
+                    },
+                    {
+                      "id": "zoly8_bIf",
+                      "title": "Portrait"
+                    }
+                  ],
+                  "value": {
+                    "type": "unsupported"
+                  }
+                },
+                "z4Z8f0ETS": {
+                  "type": "image",
+                  "key": "z4Z8f0ETS",
+                  "title": "Image",
+                  "value": {
+                    "type": "image",
+                    "nodeId": "Je4ZeJsbA",
+                    "nodeType": "collection",
+                    "id": "TzS3L9MDr",
+                    "name": "Image 2",
+                    "description": null
+                  }
+                }
+              },
               "isReplica": false,
               "children": []
             },
@@ -6638,7 +6712,9 @@
               "componentIdentifier": "local-module:canvasComponent/Nus9gMHwL:default",
               "insertURL": "https://studio.com/m/Image-iMntb8.js@I70QSkWcDAD0hZaHw9FW",
               "componentName": "Image",
-              "controls": {},
+              "controls": {
+                "variant": "tbzfgE3Tu"
+              },
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -6655,7 +6731,41 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": 1.003,
-              "typedControls": {},
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "tbzfgE3Tu",
+                      "title": "Square"
+                    },
+                    {
+                      "id": "bEqWZopi6",
+                      "title": "Landscape"
+                    },
+                    {
+                      "id": "zoly8_bIf",
+                      "title": "Portrait"
+                    }
+                  ],
+                  "value": "tbzfgE3Tu"
+                },
+                "z4Z8f0ETS": {
+                  "type": "image",
+                  "key": "z4Z8f0ETS",
+                  "title": "Image",
+                  "value": {
+                    "type": "image",
+                    "nodeId": "Je4ZeJsbA",
+                    "nodeType": "collection",
+                    "id": "G4Eszy3w8",
+                    "name": "Image 1",
+                    "description": null
+                  }
+                }
+              },
               "isReplica": true,
               "children": []
             },
@@ -6670,7 +6780,9 @@
               "componentIdentifier": "local-module:canvasComponent/Nus9gMHwL:default",
               "insertURL": "https://studio.com/m/Image-iMntb8.js@I70QSkWcDAD0hZaHw9FW",
               "componentName": "Image",
-              "controls": {},
+              "controls": {
+                "variant": "tbzfgE3Tu"
+              },
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -6687,7 +6799,43 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": 1.004,
-              "typedControls": {},
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "tbzfgE3Tu",
+                      "title": "Square"
+                    },
+                    {
+                      "id": "bEqWZopi6",
+                      "title": "Landscape"
+                    },
+                    {
+                      "id": "zoly8_bIf",
+                      "title": "Portrait"
+                    }
+                  ],
+                  "value": {
+                    "type": "unsupported"
+                  }
+                },
+                "z4Z8f0ETS": {
+                  "type": "image",
+                  "key": "z4Z8f0ETS",
+                  "title": "Image",
+                  "value": {
+                    "type": "image",
+                    "nodeId": "Je4ZeJsbA",
+                    "nodeType": "collection",
+                    "id": "TzS3L9MDr",
+                    "name": "Image 2",
+                    "description": null
+                  }
+                }
+              },
               "isReplica": true,
               "children": []
             },
@@ -13119,7 +13267,9 @@
               "componentIdentifier": "local-module:canvasComponent/Nus9gMHwL:default",
               "insertURL": "https://studio.com/m/Image-iMntb8.js@I70QSkWcDAD0hZaHw9FW",
               "componentName": "Image",
-              "controls": {},
+              "controls": {
+                "variant": "tbzfgE3Tu"
+              },
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -13136,7 +13286,41 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": 1.003,
-              "typedControls": {},
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "tbzfgE3Tu",
+                      "title": "Square"
+                    },
+                    {
+                      "id": "bEqWZopi6",
+                      "title": "Landscape"
+                    },
+                    {
+                      "id": "zoly8_bIf",
+                      "title": "Portrait"
+                    }
+                  ],
+                  "value": "tbzfgE3Tu"
+                },
+                "z4Z8f0ETS": {
+                  "type": "image",
+                  "key": "z4Z8f0ETS",
+                  "title": "Image",
+                  "value": {
+                    "type": "image",
+                    "nodeId": "Je4ZeJsbA",
+                    "nodeType": "collection",
+                    "id": "G4Eszy3w8",
+                    "name": "Image 1",
+                    "description": null
+                  }
+                }
+              },
               "isReplica": true,
               "children": []
             },
@@ -13151,7 +13335,9 @@
               "componentIdentifier": "local-module:canvasComponent/Nus9gMHwL:default",
               "insertURL": "https://studio.com/m/Image-iMntb8.js@I70QSkWcDAD0hZaHw9FW",
               "componentName": "Image",
-              "controls": {},
+              "controls": {
+                "variant": "tbzfgE3Tu"
+              },
               "rotation": 0,
               "opacity": 1,
               "position": "absolute",
@@ -13168,7 +13354,43 @@
               "maxHeight": null,
               "minHeight": null,
               "aspectRatio": 1.004,
-              "typedControls": {},
+              "typedControls": {
+                "variant": {
+                  "type": "enum",
+                  "key": "variant",
+                  "title": "Variant",
+                  "options": [
+                    {
+                      "id": "tbzfgE3Tu",
+                      "title": "Square"
+                    },
+                    {
+                      "id": "bEqWZopi6",
+                      "title": "Landscape"
+                    },
+                    {
+                      "id": "zoly8_bIf",
+                      "title": "Portrait"
+                    }
+                  ],
+                  "value": {
+                    "type": "unsupported"
+                  }
+                },
+                "z4Z8f0ETS": {
+                  "type": "image",
+                  "key": "z4Z8f0ETS",
+                  "title": "Image",
+                  "value": {
+                    "type": "image",
+                    "nodeId": "Je4ZeJsbA",
+                    "nodeType": "collection",
+                    "id": "TzS3L9MDr",
+                    "name": "Image 2",
+                    "description": null
+                  }
+                }
+              },
               "isReplica": true,
               "children": []
             },

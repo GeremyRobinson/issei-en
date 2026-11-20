@@ -102,5 +102,13 @@
     "path": "/Colors/6",
     "light": "rgb(20, 100, 31)",
     "dark": null
+  },
+  {
+    "type": "ColorStyle",
+    "id": "6e2f6d7e-1c85-4fb2-b44c-c50cb718d33a",
+    "name": "DDD — 111",
+    "path": "/Colors/DDD — 111",
+    "light": "rgb(221, 221, 221)",
+    "dark": "rgb(17, 17, 17)"
   }
 ]
