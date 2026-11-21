@@ -139,8 +139,13 @@
     },
     {
       "type": "number",
+      "id": "tBOV6z8ZV",
+      "name": "5kg"
+    },
+    {
+      "type": "number",
       "id": "y8KnnllXp",
-      "name": "10kg"
+      "name": "50kg"
     },
     {
       "type": "number",
@@ -190,7 +195,7 @@
       "id": "bgZeI2WBT",
       "nodeId": "bgZeI2WBT",
       "createdAt": "2026-04-16T22:53:23.722Z",
-      "updatedAt": "2026-11-20T20:19:30.823Z",
+      "updatedAt": "2026-11-20T23:48:26.154Z",
       "slug": "sei",
       "slugByLocale": {},
       "draft": false,
@@ -310,6 +315,10 @@
           "type": "number",
           "value": 625
         },
+        "tBOV6z8ZV": {
+          "type": "number",
+          "value": 575
+        },
         "y8KnnllXp": {
           "type": "number",
           "value": 550
@@ -342,7 +351,7 @@
       "id": "chx2TfzT2",
       "nodeId": "chx2TfzT2",
       "createdAt": "2026-04-16T22:53:23.723Z",
-      "updatedAt": "2026-11-13T17:57:27.403Z",
+      "updatedAt": "2026-11-21T00:04:59.444Z",
       "slug": "uji",
       "slugByLocale": {},
       "draft": false,
@@ -461,6 +470,10 @@
           "type": "number",
           "value": 475
         },
+        "tBOV6z8ZV": {
+          "type": "number",
+          "value": 400
+        },
         "y8KnnllXp": {
           "type": "number",
           "value": 350
@@ -493,7 +506,7 @@
       "id": "bivOS3tst",
       "nodeId": "bivOS3tst",
       "createdAt": "2026-04-16T22:53:23.722Z",
-      "updatedAt": "2026-11-13T17:57:30.954Z",
+      "updatedAt": "2026-11-21T00:05:02.977Z",
       "slug": "kyo",
       "slugByLocale": {},
       "draft": false,
@@ -612,6 +625,10 @@
           "type": "number",
           "value": 375
         },
+        "tBOV6z8ZV": {
+          "type": "number",
+          "value": 300
+        },
         "y8KnnllXp": {
           "type": "number",
           "value": 250
@@ -644,7 +661,7 @@
       "id": "zpYJS4OXk",
       "nodeId": "zpYJS4OXk",
       "createdAt": "2026-04-16T22:53:23.723Z",
-      "updatedAt": "2026-11-13T17:57:34.270Z",
+      "updatedAt": "2026-11-21T00:48:33.406Z",
       "slug": "en",
       "slugByLocale": {},
       "draft": false,
@@ -758,11 +775,15 @@
         },
         "nAAux52Ya": {
           "type": "number",
-          "value": 0
+          "value": 14
         },
         "IkunJY3cP": {
           "type": "number",
           "value": 325
+        },
+        "tBOV6z8ZV": {
+          "type": "number",
+          "value": 250
         },
         "y8KnnllXp": {
           "type": "number",
@@ -796,7 +817,7 @@
       "id": "F38WzkVlR",
       "nodeId": "F38WzkVlR",
       "createdAt": "2026-04-16T22:53:23.723Z",
-      "updatedAt": "2026-11-13T17:57:37.568Z",
+      "updatedAt": "2026-11-21T00:05:35.543Z",
       "slug": "rei",
       "slugByLocale": {},
       "draft": false,
@@ -916,6 +937,10 @@
           "type": "number",
           "value": 275
         },
+        "tBOV6z8ZV": {
+          "type": "number",
+          "value": 225
+        },
         "y8KnnllXp": {
           "type": "number",
           "value": 200
@@ -948,7 +973,7 @@
       "id": "vnvp_PAHN",
       "nodeId": "vnvp_PAHN",
       "createdAt": "2026-04-16T22:53:23.723Z",
-      "updatedAt": "2026-11-13T17:57:40.593Z",
+      "updatedAt": "2026-11-20T23:38:01.252Z",
       "slug": "ko",
       "slugByLocale": {},
       "draft": false,
@@ -1067,6 +1092,10 @@
         "IkunJY3cP": {
           "type": "number",
           "value": 180
+        },
+        "tBOV6z8ZV": {
+          "type": "number",
+          "value": 150
         },
         "y8KnnllXp": {
           "type": "number",

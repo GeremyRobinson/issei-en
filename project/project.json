@@ -6,18 +6,18 @@
   },
   "publish": {
     "production": {
-      "deploymentTime": 1795205976112,
+      "deploymentTime": 1795222116957,
       "optimizationStatus": "optimized",
       "url": "https://issei-en.com",
       "currentPageUrl": "https://issei-en.com/"
     },
     "staging": {
-      "deploymentTime": 1795205976112,
+      "deploymentTime": 1795222116957,
       "optimizationStatus": "optimized",
       "url": "https://loud-use-412525.studio.app",
       "currentPageUrl": "https://loud-use-412525.studio.app/"
     }
   },
-  "nodes": 1085,
-  "savedAt": "2026-11-20T20:35:29.456Z"
+  "nodes": 1106,
+  "savedAt": "2026-11-21T01:43:41.044Z"
 }
